@@ -223,8 +223,8 @@ These are INSPIRATIONAL PHRASES about the topic, NOT language-learning tips.
 
 WRONG (teaching tip with Hungarian words): {{"english": "Don't say 'ha' det godt,' it means more than 'goodbye.'", ...}}
 WRONG (Hungarian word in english): {{"english": "Use 'tak' for thank you", ...}}
-WRONG (lesson tip): {{"english": "Say 'v\u00e6r s\u00e5 venlig' for please", ...}}
-CORRECT (pure english phrase): {{"english": "Knowledge is the key to wisdom.", "hungarian": "Kundskab er n\u00f8glen til visdom", "pronunciation": "kund-skab er n\u00f8g-len til vis-dom"}}
+WRONG (lesson tip): {{"english": "Say 'vær så venlig' for please", ...}}
+CORRECT (pure english phrase): {{"english": "Knowledge is the key to wisdom.", "hungarian": "Kundskab er nøglen til visdom", "pronunciation": "kund-skab er nøg-len til vis-dom"}}
 CORRECT: {{"english": "A wise person listens more than they speak.", "hungarian": "En vis person lytter mere end de taler", "pronunciation": "en vis per-son lyt-ter me-re end de ta-ler"}}
 
 The english field MUST be 100% English words only. Absolutely NO Hungarian words in the english field.
@@ -299,139 +299,139 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     all_fallbacks = {
         "Motivation": [
             {"english": "Believe in yourself.", "hungarian": "Higgy magadban.", "pronunciation": "higy ma-gad-ban"},
-            {"english": "You are capable of amazing things.", "hungarian": "Csod\u00e1latos dolgokra vagy k\u00e9pes.", "pronunciation": "cso-d\u00e1-la-tos dol-gok-ra vagy k\u00e9-pes"},
-            {"english": "Dream big, start small.", "hungarian": "\u00c1lmodj nagyot, kezdd kicsiben.", "pronunciation": "\u00e1l-modj na-gyot, kezdd ki-csi-ben"},
-            {"english": "Your future is created by your actions.", "hungarian": "A j\u00f6v\u0151det a tetteid alak\u00edtj\u00e1k.", "pronunciation": "a j\u00f6-v\u0151-det a tet-te-id a-la-k\u00edt-j\u00e1k"},
-            {"english": "Never give up on your dreams.", "hungarian": "Soha ne add fel az \u00e1lmaidat.", "pronunciation": "so-ha ne add fel az \u00e1l-ma-i-dat"},
-            {"english": "Small steps lead to big changes.", "hungarian": "Kis l\u00e9p\u00e9sek vezetnek nagy v\u00e1ltoz\u00e1sokhoz.", "pronunciation": "kis l\u00e9-p\u00e9-sek ve-zet-nek nagy v\u00e1l-to-z\u00e1-sok-hoz"},
-            {"english": "You are stronger than you think.", "hungarian": "Er\u0151sebb vagy, mint gondolod.", "pronunciation": "er-\u0151-sebb vagy, mint gon-do-lod"},
+            {"english": "You are capable of amazing things.", "hungarian": "Csodálatos dolgokra vagy képes.", "pronunciation": "cso-dá-la-tos dol-gok-ra vagy ké-pes"},
+            {"english": "Dream big, start small.", "hungarian": "Álmodj nagyot, kezdd kicsiben.", "pronunciation": "ál-modj na-gyot, kezdd ki-csi-ben"},
+            {"english": "Your future is created by your actions.", "hungarian": "A jövődet a tetteid alakítják.", "pronunciation": "a jö-vő-det a tet-te-id a-la-kít-ják"},
+            {"english": "Never give up on your dreams.", "hungarian": "Soha ne add fel az álmaidat.", "pronunciation": "so-ha ne add fel az ál-ma-i-dat"},
+            {"english": "Small steps lead to big changes.", "hungarian": "Kis lépések vezetnek nagy változásokhoz.", "pronunciation": "kis lé-pé-sek ve-zet-nek nagy vál-to-zá-sok-hoz"},
+            {"english": "You are stronger than you think.", "hungarian": "Erősebb vagy, mint gondolod.", "pronunciation": "er-ő-sebb vagy, mint gon-do-lod"},
         ],
         "Love": [
-            {"english": "Love yourself first.", "hungarian": "El\u0151sz\u00f6r magadat szeresd.", "pronunciation": "el-\u0151-sz\u00f6r ma-ga-dat sze-resd"},
-            {"english": "Love makes everything possible.", "hungarian": "A szerelem mindent lehet\u0151v\u00e9 tesz.", "pronunciation": "a sze-re-lem min-dent le-het-\u0151-v\u00e9 tesz"},
-            {"english": "My heart beats for you.", "hungarian": "A sz\u00edvem \u00e9rted dobog.", "pronunciation": "a sz\u00ed-vem \u00e9r-ted do-bog"},
+            {"english": "Love yourself first.", "hungarian": "Először magadat szeresd.", "pronunciation": "el-ő-ször ma-ga-dat sze-resd"},
+            {"english": "Love makes everything possible.", "hungarian": "A szerelem mindent lehetővé tesz.", "pronunciation": "a sze-re-lem min-dent le-het-ő-vé tesz"},
+            {"english": "My heart beats for you.", "hungarian": "A szívem érted dobog.", "pronunciation": "a szí-vem ér-ted do-bog"},
             {"english": "You are my everything.", "hungarian": "Te vagy mindenem.", "pronunciation": "te vagy min-de-nem"},
-            {"english": "Together forever, hand in hand.", "hungarian": "Egy\u00fctt \u00f6r\u00f6kk\u00e9, k\u00e9z a k\u00e9zben.", "pronunciation": "egy-\u00fctt \u00f6-r\u00f6k-k\u00e9, k\u00e9z a k\u00e9z-ben"},
+            {"english": "Together forever, hand in hand.", "hungarian": "Együtt örökké, kéz a kézben.", "pronunciation": "egy-ütt ö-rök-ké, kéz a kéz-ben"},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "hungarian": "A siker kem\u00e9ny munk\u00e1b\u00f3l j\u00f6n.", "pronunciation": "a si-ker ke-m\u00e9ny mun-k\u00e1-b\u00f3l j\u00f6n"},
-            {"english": "Keep going, you're getting there.", "hungarian": "Folytasd, k\u00f6zel\u00edtesz.", "pronunciation": "foly-tasd, k\u00f6-ze-l\u00ed-tesz"},
-            {"english": "Winners never quit.", "hungarian": "A gy\u0151ztesek soha nem adj\u00e1k fel.", "pronunciation": "a gy\u0151z-te-sek so-ha nem ad-j\u00e1k fel"},
-            {"english": "Your effort will pay off.", "hungarian": "Az er\u0151fesz\u00edt\u00e9sed megt\u00e9r\u00fcl.", "pronunciation": "az er-\u0151-fes-z\u00ed-t\u00e9-sed meg-t\u00e9-r\u00fcl"},
+            {"english": "Success comes from hard work.", "hungarian": "A siker kemény munkából jön.", "pronunciation": "a si-ker ke-mény mun-ká-ból jön"},
+            {"english": "Keep going, you're getting there.", "hungarian": "Folytasd, közelítesz.", "pronunciation": "foly-tasd, kö-ze-lí-tesz"},
+            {"english": "Winners never quit.", "hungarian": "A győztesek soha nem adják fel.", "pronunciation": "a győz-te-sek so-ha nem ad-ják fel"},
+            {"english": "Your effort will pay off.", "hungarian": "Az erőfeszítésed megtérül.", "pronunciation": "az er-ő-fes-zí-té-sed meg-té-rül"},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "hungarian": "A tud\u00e1s hatalom.", "pronunciation": "a tu-d\u00e1s ha-ta-lom"},
-            {"english": "Learn from yesterday, live for today.", "hungarian": "Tanulj a tegnapb\u00f3l, \u00e9lj a m\u00e1nak.", "pronunciation": "ta-nulj a teg-nap-b\u00f3l, \u00e9lj a m\u00e1-nak"},
-            {"english": "Think before you act.", "hungarian": "Gondolkodj, miel\u0151tt cselekszel.", "pronunciation": "gon-dol-kodj, mi-el-\u0151tt cse-lek-szel"},
-            {"english": "Experience is the best teacher.", "hungarian": "A tapasztalat a legjobb tan\u00edt\u00f3.", "pronunciation": "a ta-pasz-ta-lat a leg-jobb ta-n\u00ed-t\u00f3"},
+            {"english": "Knowledge is power.", "hungarian": "A tudás hatalom.", "pronunciation": "a tu-dás ha-ta-lom"},
+            {"english": "Learn from yesterday, live for today.", "hungarian": "Tanulj a tegnapból, élj a mának.", "pronunciation": "ta-nulj a teg-nap-ból, élj a má-nak"},
+            {"english": "Think before you act.", "hungarian": "Gondolkodj, mielőtt cselekszel.", "pronunciation": "gon-dol-kodj, mi-el-őtt cse-lek-szel"},
+            {"english": "Experience is the best teacher.", "hungarian": "A tapasztalat a legjobb tanító.", "pronunciation": "a ta-pasz-ta-lat a leg-jobb ta-ní-tó"},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "hungarian": "A boldogs\u00e1g v\u00e1laszt\u00e1s.", "pronunciation": "a bol-dog-s\u00e1g v\u00e1-lasz-t\u00e1s"},
-            {"english": "Find joy in the little things.", "hungarian": "Tal\u00e1ld meg az \u00f6r\u00f6met a kis dolgokban.", "pronunciation": "ta-l\u00e1ld meg az \u00f6-r\u00f6-met a kis dol-gok-ban"},
-            {"english": "Smile, it makes others happy.", "hungarian": "Mosolyogj, ez m\u00e1sokat is boldogg\u00e1 tesz.", "pronunciation": "mo-so-lyogj, ez m\u00e1-so-kat is bol-dog-g\u00e1 tesz"},
-            {"english": "Today is a gift.", "hungarian": "A mai nap egy aj\u00e1nd\u00e9k.", "pronunciation": "a mai nap egy a-j\u00e1n-d\u00e9k"},
+            {"english": "Happiness is a choice.", "hungarian": "A boldogság választás.", "pronunciation": "a bol-dog-ság vá-lasz-tás"},
+            {"english": "Find joy in the little things.", "hungarian": "Találd meg az örömet a kis dolgokban.", "pronunciation": "ta-láld meg az ö-rö-met a kis dol-gok-ban"},
+            {"english": "Smile, it makes others happy.", "hungarian": "Mosolyogj, ez másokat is boldoggá tesz.", "pronunciation": "mo-so-lyogj, ez má-so-kat is bol-dog-gá tesz"},
+            {"english": "Today is a gift.", "hungarian": "A mai nap egy ajándék.", "pronunciation": "a mai nap egy a-ján-dék"},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "hungarian": "L\u00e9gy jobb, mint tegnap.", "pronunciation": "l\u00e9gy jobb, mint teg-nap"},
-            {"english": "Grow through what you go through.", "hungarian": "N\u0151j \u00e1t azon, amin kereszt\u00fclm\u00e9sz.", "pronunciation": "n\u0151j \u00e1t a-zon, a-min ke-resz-t\u00fcl-m\u00e9sz"},
+            {"english": "Be better than yesterday.", "hungarian": "Légy jobb, mint tegnap.", "pronunciation": "légy jobb, mint teg-nap"},
+            {"english": "Grow through what you go through.", "hungarian": "Nőj át azon, amin keresztülmész.", "pronunciation": "nőj át a-zon, a-min ke-resz-tül-mész"},
             {"english": "Invest in yourself daily.", "hungarian": "Fektess magadba naponta.", "pronunciation": "fek-tess ma-gad-ba na-pon-ta"},
         ],
         "Gratitude": [
-            {"english": "Thank you for everything.", "hungarian": "K\u00f6sz\u00f6n\u00f6k mindent.", "pronunciation": "k\u00f6-sz\u00f6-n\u00f6k min-dent"},
-            {"english": "I appreciate your help.", "hungarian": "\u00c9rt\u00e9kelem a seg\u00edts\u00e9gedet.", "pronunciation": "\u00e9r-t\u00e9-ke-lem a se-g\u00edt-s\u00e9-ge-det"},
-            {"english": "Grateful for this moment.", "hungarian": "H\u00e1l\u00e1s vagyok ez\u00e9rt a pillanat\u00e9rt.", "pronunciation": "h\u00e1-l\u00e1s va-gyok e-z\u00e9rt a pil-la-na-t\u00e9rt"},
+            {"english": "Thank you for everything.", "hungarian": "Köszönök mindent.", "pronunciation": "kö-szö-nök min-dent"},
+            {"english": "I appreciate your help.", "hungarian": "Értékelem a segítségedet.", "pronunciation": "ér-té-ke-lem a se-gít-sé-ge-det"},
+            {"english": "Grateful for this moment.", "hungarian": "Hálás vagyok ezért a pillanatért.", "pronunciation": "há-lás va-gyok e-zért a pil-la-na-tért"},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "hungarian": "Bar\u00e1tok \u00f6r\u00f6kk\u00e9, b\u00e1rmi t\u00f6rt\u00e9nj\u00e9k.", "pronunciation": "ba-r\u00e1-tok \u00f6-r\u00f6k-k\u00e9, b\u00e1r-mi t\u00f6r-t\u00e9n-j\u00e9k"},
-            {"english": "You are my best friend.", "hungarian": "Te vagy a legjobb bar\u00e1tom.", "pronunciation": "te vagy a leg-jobb ba-r\u00e1-tom"},
-            {"english": "True friends stick together.", "hungarian": "Az igaz bar\u00e1tok \u00f6sszetartanak.", "pronunciation": "az i-gaz ba-r\u00e1-tok \u00f6s-sze-tar-ta-nak"},
+            {"english": "Friends forever, no matter what.", "hungarian": "Barátok örökké, bármi történjék.", "pronunciation": "ba-rá-tok ö-rök-ké, bár-mi tör-tén-jék"},
+            {"english": "You are my best friend.", "hungarian": "Te vagy a legjobb barátom.", "pronunciation": "te vagy a leg-jobb ba-rá-tom"},
+            {"english": "True friends stick together.", "hungarian": "Az igaz barátok összetartanak.", "pronunciation": "az i-gaz ba-rá-tok ös-sze-tar-ta-nak"},
         ],
         "Hope": [
-            {"english": "There is always hope.", "hungarian": "Mindig van rem\u00e9ny.", "pronunciation": "min-dig van re-m\u00e9ny"},
-            {"english": "Better days are coming.", "hungarian": "Jobb napok j\u00f6nnek.", "pronunciation": "jobb na-pok j\u00f6n-nek"},
+            {"english": "There is always hope.", "hungarian": "Mindig van remény.", "pronunciation": "min-dig van re-mény"},
+            {"english": "Better days are coming.", "hungarian": "Jobb napok jönnek.", "pronunciation": "jobb na-pok jön-nek"},
             {"english": "Keep faith, keep going.", "hungarian": "Tartsd meg a hited, folytasd.", "pronunciation": "tartsd meg a hi-ted, foly-tasd"},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "hungarian": "Alkoss valami sz\u00e9pet ma.", "pronunciation": "al-koss va-la-mi sz\u00e9-pet ma"},
-            {"english": "Your imagination is unlimited.", "hungarian": "A k\u00e9pzeleted hat\u00e1rtalan.", "pronunciation": "a k\u00e9p-ze-leted ha-t\u00e1r-ta-lan"},
-            {"english": "Art comes from the heart.", "hungarian": "A m\u0171v\u00e9szet a sz\u00edvb\u0151l j\u00f6n.", "pronunciation": "a m\u0171-v\u00e9-szet a sz\u00edv-b\u0151l j\u00f6n"},
+            {"english": "Create something beautiful today.", "hungarian": "Alkoss valami szépet ma.", "pronunciation": "al-koss va-la-mi szé-pet ma"},
+            {"english": "Your imagination is unlimited.", "hungarian": "A képzeleted határtalan.", "pronunciation": "a kép-ze-leted ha-tár-ta-lan"},
+            {"english": "Art comes from the heart.", "hungarian": "A művészet a szívből jön.", "pronunciation": "a mű-vé-szet a szív-ből jön"},
             {"english": "Express yourself freely.", "hungarian": "Fejezd ki magad szabadon.", "pronunciation": "fe-jezd ki ma-gad sza-ba-don"},
-            {"english": "Innovation starts with curiosity.", "hungarian": "Az innov\u00e1ci\u00f3 k\u00edv\u00e1ncsis\u00e1ggal kezd\u0151dik.", "pronunciation": "az in-no-v\u00e1-ci-\u00f3 k\u00ed-v\u00e1n-csi-s\u00e1g-gal kez-d\u0151-dik"},
+            {"english": "Innovation starts with curiosity.", "hungarian": "Az innováció kíváncsisággal kezdődik.", "pronunciation": "az in-no-vá-ci-ó kí-ván-csi-ság-gal kez-dő-dik"},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "hungarian": "Tal\u00e1ld meg a b\u00e9k\u00e9t magadban.", "pronunciation": "ta-l\u00e1ld meg a b\u00e9-k\u00e9t ma-gad-ban"},
-            {"english": "Breathe, relax, let go.", "hungarian": "L\u00e9legezz, laz\u00edts, engedd el.", "pronunciation": "l\u00e9-le-gezz, la-z\u00edts, en-gedd el"},
-            {"english": "Calm mind, happy heart.", "hungarian": "Nyugodt elme, boldog sz\u00edv.", "pronunciation": "nyu-godt el-me, bol-dog sz\u00edv"},
+            {"english": "Find peace within yourself.", "hungarian": "Találd meg a békét magadban.", "pronunciation": "ta-láld meg a bé-két ma-gad-ban"},
+            {"english": "Breathe, relax, let go.", "hungarian": "Lélegezz, lazíts, engedd el.", "pronunciation": "lé-le-gezz, la-zíts, en-gedd el"},
+            {"english": "Calm mind, happy heart.", "hungarian": "Nyugodt elme, boldog szív.", "pronunciation": "nyu-godt el-me, bol-dog szív"},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "hungarian": "El\u00e9g vagy, pontosan \u00fagy, ahogy vagy.", "pronunciation": "e-l\u00e9g vagy, pon-to-san \u00fagy, a-hogy vagy"},
-            {"english": "Stand tall, speak up.", "hungarian": "\u00c1llj egyenesen, besz\u00e9lj b\u00e1tran.", "pronunciation": "\u00e1llj e-gye-ne-sen, be-sz\u00e9lj b\u00e1t-ran"},
-            {"english": "Believe in your abilities.", "hungarian": "B\u00edzz a k\u00e9pess\u00e9geidben.", "pronunciation": "b\u00edzz a k\u00e9-pes-s\u00e9-ge-id-ben"},
+            {"english": "You are enough, just as you are.", "hungarian": "Elég vagy, pontosan úgy, ahogy vagy.", "pronunciation": "e-lég vagy, pon-to-san úgy, a-hogy vagy"},
+            {"english": "Stand tall, speak up.", "hungarian": "Állj egyenesen, beszélj bátran.", "pronunciation": "állj e-gye-ne-sen, be-szélj bát-ran"},
+            {"english": "Believe in your abilities.", "hungarian": "Bízz a képességeidben.", "pronunciation": "bízz a ké-pes-sé-ge-id-ben"},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "hungarian": "Soha ne add fel, k\u00fczdj tov\u00e1bb.", "pronunciation": "so-ha ne add fel, k\u00fczdj to-v\u00e1bb"},
-            {"english": "Storms make trees take deeper roots.", "hungarian": "A viharok m\u00e9lyebb gy\u00f6kereket n\u00f6vesztenek.", "pronunciation": "a vi-ha-rok m\u00e-lyebb gy\u00f6-ke-re-ket n\u00f6-vesz-te-nek"},
-            {"english": "Patience and persistence win.", "hungarian": "A t\u00fcrelem \u00e9s kitart\u00e1s gy\u0151z.", "pronunciation": "a t\u00fc-re-lem \u00e9s ki-tar-t\u00e1s gy\u0151z"},
+            {"english": "Never give up, keep pushing.", "hungarian": "Soha ne add fel, küzdj tovább.", "pronunciation": "so-ha ne add fel, küzdj to-vább"},
+            {"english": "Storms make trees take deeper roots.", "hungarian": "A viharok mélyebb gyökereket növesztenek.", "pronunciation": "a vi-ha-rok me-lyebb gyö-ke-re-ket nö-vesz-te-nek"},
+            {"english": "Patience and persistence win.", "hungarian": "A türelem és kitartás győz.", "pronunciation": "a tü-re-lem és ki-tar-tás győz"},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "hungarian": "Hagyd ragyogni a f\u00e9nyedet.", "pronunciation": "hagyd ra-gyog-ni a f\u00e9-nye-det"},
-            {"english": "Inspire others by your actions.", "hungarian": "Inspir\u00e1lj m\u00e1sokat a tetteiddel.", "pronunciation": "in-spi-r\u00e1lj m\u00e1-so-kat a tet-te-id-del"},
-            {"english": "Be the change you want to see.", "hungarian": "L\u00e9gy a v\u00e1ltoz\u00e1s, amit l\u00e1tni akarsz.", "pronunciation": "l\u00e9gy a v\u00e1l-to-z\u00e1s, a-mit l\u00e1t-ni a-karsz"},
+            {"english": "Let your light shine bright.", "hungarian": "Hagyd ragyogni a fényedet.", "pronunciation": "hagyd ra-gyog-ni a fé-nye-det"},
+            {"english": "Inspire others by your actions.", "hungarian": "Inspirálj másokat a tetteiddel.", "pronunciation": "in-spi-rálj má-so-kat a tet-te-id-del"},
+            {"english": "Be the change you want to see.", "hungarian": "Légy a változás, amit látni akarsz.", "pronunciation": "légy a vál-to-zás, a-mit lát-ni a-karsz"},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "hungarian": "V\u00e1laszd a pozitivit\u00e1st minden nap.", "pronunciation": "v\u00e1-laszd a po-zi-ti-vi-t\u00e1st min-den nap"},
-            {"english": "Good vibes only.", "hungarian": "Csak j\u00f3 vibe-ok.", "pronunciation": "csak j\u00f3 v\u00e1jb-ok"},
-            {"english": "Life is what you make it.", "hungarian": "Az \u00e9let olyan, amilyenn\u00e9 teszed.", "pronunciation": "az \u00e9-let o-lyan, a-mi-lyen-n\u00e9 te-szed"},
+            {"english": "Choose positivity every day.", "hungarian": "Válaszd a pozitivitást minden nap.", "pronunciation": "vá-laszd a po-zi-ti-vi-tást min-den nap"},
+            {"english": "Good vibes only.", "hungarian": "Csak jó vibe-ok.", "pronunciation": "csak jó vájb-ok"},
+            {"english": "Life is what you make it.", "hungarian": "Az élet olyan, amilyenné teszed.", "pronunciation": "az é-let o-lyan, a-mi-lyen-né te-szed"},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "hungarian": "L\u00e9gy b\u00e1tor, tedd meg az els\u0151 l\u00e9p\u00e9st.", "pronunciation": "l\u00e9gy b\u00e1-tor, tedd meg az el-s\u0151 l\u00e9-p\u00e9st"},
-            {"english": "Courage is not the absence of fear.", "hungarian": "A b\u00e1tors\u00e1g nem a f\u00e9lelem hi\u00e1nya.", "pronunciation": "a b\u00e1-tor-s\u00e1g nem a f\u00e9-le-lem hi-\u00e1-nya"},
-            {"english": "Face your fears head on.", "hungarian": "N\u00e9zz szembe a f\u00e9lelmeiddel.", "pronunciation": "n\u00e9zz szem-be a f\u00e9-lel-me-id-del"},
+            {"english": "Be brave, take the first step.", "hungarian": "Légy bátor, tedd meg az első lépést.", "pronunciation": "légy bá-tor, tedd meg az el-ső lé-pést"},
+            {"english": "Courage is not the absence of fear.", "hungarian": "A bátorság nem a félelem hiánya.", "pronunciation": "a bá-tor-ság nem a fé-le-lem hi-á-nya"},
+            {"english": "Face your fears head on.", "hungarian": "Nézz szembe a félelmeiddel.", "pronunciation": "nézz szem-be a fé-lel-me-id-del"},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "hungarian": "L\u00e9gy kedves mindenkihez, akivel tal\u00e1lkozol.", "pronunciation": "l\u00e9gy ked-ves min-den-ki-hez, a-ki-vel ta-l\u00e1l-ko-zol"},
-            {"english": "Kindness costs nothing, means everything.", "hungarian": "A kedvess\u00e9g semmibe sem ker\u00fcl, de mindent jelent.", "pronunciation": "a ked-ves-s\u00e9g sem-mi-be sem ke-r\u00fcl, de min-dent je-lent"},
-            {"english": "Spread kindness wherever you go.", "hungarian": "Terjeszd a kedvess\u00e9get, b\u00e1rhov\u00e1 m\u00e9sz.", "pronunciation": "ter-jeszd a ked-ves-s\u00e9-get, b\u00e1r-ho-v\u00e1 m\u00e9sz"},
+            {"english": "Be kind to everyone you meet.", "hungarian": "Légy kedves mindenkihez, akivel találkozol.", "pronunciation": "légy ked-ves min-den-ki-hez, a-ki-vel ta-lál-ko-zol"},
+            {"english": "Kindness costs nothing, means everything.", "hungarian": "A kedvesség semmibe sem kerül, de mindent jelent.", "pronunciation": "a ked-ves-ség sem-mi-be sem ke-rül, de min-dent je-lent"},
+            {"english": "Spread kindness wherever you go.", "hungarian": "Terjeszd a kedvességet, bárhová mész.", "pronunciation": "ter-jeszd a ked-ves-sé-get, bár-ho-vá mész"},
         ],
         "Patience": [
-            {"english": "Good things take time.", "hungarian": "A j\u00f3 dolgok id\u0151t k\u00e9rnek.", "pronunciation": "a j\u00f3 dol-gok id-\u0151t k\u00e9r-nek"},
-            {"english": "Wait patiently, trust the process.", "hungarian": "V\u00e1rj t\u00fcrelmesen, b\u00edzz a folyamatban.", "pronunciation": "v\u00e1rj t\u00fc-rel-me-sen, b\u00edzz a fo-lyo-mat-ban"},
-            {"english": "Rome wasn't built in a day.", "hungarian": "R\u00f3m\u00e1t nem egy nap alatt \u00e9p\u00edtett\u00e9k.", "pronunciation": "r\u00f3-m\u00e1t nem egy nap a-latt \u00e9-p\u00ed-tet-t\u00e9k"},
+            {"english": "Good things take time.", "hungarian": "A jó dolgok időt kérnek.", "pronunciation": "a jó dol-gok id-őt kér-nek"},
+            {"english": "Wait patiently, trust the process.", "hungarian": "Várj türelmesen, bízz a folyamatban.", "pronunciation": "várj tü-rel-me-sen, bízz a fo-lyo-mat-ban"},
+            {"english": "Rome wasn't built in a day.", "hungarian": "Rómát nem egy nap alatt építették.", "pronunciation": "ró-mát nem egy nap a-latt é-pí-tet-ték"},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "hungarian": "Bocs\u00e1ss meg \u00e9s szabad\u00edtsd fel magad.", "pronunciation": "bo-cs\u00e1ss meg \u00e9s sza-ba-d\u00edtsd fel ma-gad"},
-            {"english": "Let go of grudges, find peace.", "hungarian": "Engedd el a s\u00e9relmeket, tal\u00e1ld meg a b\u00e9k\u00e9t.", "pronunciation": "en-gedd el a s\u00e9-rel-me-ket, ta-l\u00e1ld meg a b\u00e9-k\u00e9t"},
-            {"english": "Forgiveness is a gift to yourself.", "hungarian": "A megbocs\u00e1t\u00e1s aj\u00e1nd\u00e9k \u00f6nmagadnak.", "pronunciation": "a meg-bo-cs\u00e1-t\u00e1s a-j\u00e1n-d\u00e9k \u00f6n-ma-gad-nak"},
+            {"english": "Forgive and set yourself free.", "hungarian": "Bocsáss meg és szabadítsd fel magad.", "pronunciation": "bo-csáss meg és sza-ba-dítsd fel ma-gad"},
+            {"english": "Let go of grudges, find peace.", "hungarian": "Engedd el a sérelmeket, találd meg a békét.", "pronunciation": "en-gedd el a sé-rel-me-ket, ta-láld meg a bé-két"},
+            {"english": "Forgiveness is a gift to yourself.", "hungarian": "A megbocsátás ajándék önmagadnak.", "pronunciation": "a meg-bo-csá-tás a-ján-dék ön-ma-gad-nak"},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "hungarian": "Er\u0151sebb vagy, mint hiszed.", "pronunciation": "er-\u0151-sebb vagy, mint hi-szed"},
-            {"english": "Inner strength comes from within.", "hungarian": "A bels\u0151 er\u0151 bel\u00fclr\u0151l j\u00f6n.", "pronunciation": "a bel-s\u0151 er\u0151 be-l\u00fcl-r\u0151l j\u00f6n"},
-            {"english": "Challenges make you stronger.", "hungarian": "A kih\u00edv\u00e1sok er\u0151sebb\u00e9 tesznek.", "pronunciation": "a ki-h\u00ed-v\u00e1-sok er-\u0151-seb-b\u00e9 tesz-nek"},
+            {"english": "You are stronger than you know.", "hungarian": "Erősebb vagy, mint hiszed.", "pronunciation": "er-ő-sebb vagy, mint hi-szed"},
+            {"english": "Inner strength comes from within.", "hungarian": "A belső erő belülről jön.", "pronunciation": "a bel-ső erő be-lül-ről jön"},
+            {"english": "Challenges make you stronger.", "hungarian": "A kihívások erősebbé tesznek.", "pronunciation": "a ki-hí-vá-sok er-ő-seb-bé tesz-nek"},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "hungarian": "Tal\u00e1ld meg az \u00f6r\u00f6met minden pillanatban.", "pronunciation": "ta-l\u00e1ld meg az \u00f6-r\u00f6-met min-den pil-la-nat-ban"},
-            {"english": "Joy is contagious, spread it.", "hungarian": "Az \u00f6r\u00f6m rag\u00e1lyos, terjeszd.", "pronunciation": "az \u00f6-r\u00f6m ra-g\u00e1-lyos, ter-jeszd"},
-            {"english": "Dance like nobody's watching.", "hungarian": "T\u00e1ncolj, mintha senki sem n\u00e9zne.", "pronunciation": "t\u00e1n-colj, min-tha sen-ki sem n\u00e9z-ne"},
+            {"english": "Find joy in every moment.", "hungarian": "Találd meg az örömet minden pillanatban.", "pronunciation": "ta-láld meg az ö-rö-met min-den pil-la-nat-ban"},
+            {"english": "Joy is contagious, spread it.", "hungarian": "Az öröm ragályos, terjeszd.", "pronunciation": "az ö-röm ra-gá-lyos, ter-jeszd"},
+            {"english": "Dance like nobody's watching.", "hungarian": "Táncolj, mintha senki sem nézne.", "pronunciation": "tán-colj, min-tha sen-ki sem néz-ne"},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "hungarian": "Tal\u00e1ld meg az egyens\u00falyi az \u00e9letedben.", "pronunciation": "ta-l\u00e1ld meg az egyen-s\u00fa-lyt az \u00e9-le-ted-ben"},
-            {"english": "Work hard, rest well.", "hungarian": "Dolgozz kem\u00e9nyen, pihenj j\u00f3l.", "pronunciation": "dol-gozz ke-m\u00e9-nyen, pi-henj j\u00f3l"},
-            {"english": "Too much of anything is not good.", "hungarian": "T\u00fal sok mindenb\u0151l nem j\u00f3.", "pronunciation": "t\u00fal sok min-den-b\u0151l nem j\u00f3"},
+            {"english": "Find balance in your life.", "hungarian": "Találd meg az egyensúlyi az életedben.", "pronunciation": "ta-láld meg az egyen-sú-lyt az é-le-ted-ben"},
+            {"english": "Work hard, rest well.", "hungarian": "Dolgozz keményen, pihenj jól.", "pronunciation": "dol-gozz ke-mé-nyen, pi-henj jól"},
+            {"english": "Too much of anything is not good.", "hungarian": "Túl sok mindenből nem jó.", "pronunciation": "túl sok min-den-ből nem jó"},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "hungarian": "A n\u00f6veked\u00e9s a komfortz\u00f3n\u00e1n k\u00edv\u00fcl t\u00f6rt\u00e9nik.", "pronunciation": "a n\u00f6-ve-ke-d\u00e9s a kom-fort-z\u00f3-n\u00e1n k\u00ed-v\u00fcl t\u00f6r-t\u00e9-nik"},
-            {"english": "Embrace change, grow stronger.", "hungarian": "\u00d6leld \u00e1t a v\u00e1ltoz\u00e1st, n\u0151j er\u0151sebb\u00e9.", "pronunciation": "\u00f6-leld \u00e1t a v\u00e1l-to-z\u00e1st, n\u0151j er-\u0151-seb-b\u00e9"},
-            {"english": "Every challenge is a chance to grow.", "hungarian": "Minden kih\u00edv\u00e1s egy es\u00e9ly a n\u00f6veked\u00e9sre.", "pronunciation": "min-den ki-h\u00ed-v\u00e1s egy e-s\u00e9ly a n\u00f6-ve-ke-d\u00e9s-re"},
+            {"english": "Growth happens outside your comfort zone.", "hungarian": "A növekedés a komfortzónán kívül történik.", "pronunciation": "a nö-ve-ke-dés a kom-fort-zó-nán kí-vül tör-té-nik"},
+            {"english": "Embrace change, grow stronger.", "hungarian": "Öleld át a változást, nőj erősebbé.", "pronunciation": "ö-leld át a vál-to-zást, nőj er-ő-seb-bé"},
+            {"english": "Every challenge is a chance to grow.", "hungarian": "Minden kihívás egy esély a növekedésre.", "pronunciation": "min-den ki-hí-vás egy e-sély a nö-ve-ke-dés-re"},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "hungarian": "Tal\u00e1ld meg a c\u00e9lodat, k\u00f6vesd.", "pronunciation": "ta-l\u00e1ld meg a c\u00e9-lo-dat, k\u00f6-vesd"},
-            {"english": "Your life has meaning.", "hungarian": "Az \u00e9letednek \u00e9rtelme van.", "pronunciation": "az \u00e9-le-ted-nek \u00e9r-tel-me van"},
-            {"english": "Live with intention, not accident.", "hungarian": "\u00c9lj sz\u00e1nd\u00e9kkal, ne v\u00e9letlen\u00fcl.", "pronunciation": "\u00e9lj sz\u00e1n-d\u00e9k-kal, ne v\u00e9-let-le-n\u00fcl"},
+            {"english": "Find your purpose, follow it.", "hungarian": "Találd meg a célodat, kövesd.", "pronunciation": "ta-láld meg a cé-lo-dat, kö-vesd"},
+            {"english": "Your life has meaning.", "hungarian": "Az életednek értelme van.", "pronunciation": "az é-le-ted-nek ér-tel-me van"},
+            {"english": "Live with intention, not accident.", "hungarian": "Élj szándékkal, ne véletlenül.", "pronunciation": "élj szán-dék-kal, ne vé-let-le-nül"},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "hungarian": "L\u00e9gy jelen ebben a pillanatban.", "pronunciation": "l\u00e9gy je-len eb-ben a pil-la-nat-ban"},
-            {"english": "Breathe deeply, stay grounded.", "hungarian": "L\u00e9legezz m\u00e9lyen, maradj f\u00f6ld\u00f6n.", "pronunciation": "l\u00e9-le-gezz m\u00e9-lyen, ma-radj f\u00f6l-d\u00f6n"},
-            {"english": "Notice the little things around you.", "hungarian": "Figyeld meg a kis dolgokat k\u00f6r\u00fcl\u00f6tted.", "pronunciation": "fi-gyeld meg a kis dol-go-kat k\u00f6-r\u00fcl-\u00f6t-ted"},
+            {"english": "Be present in this moment.", "hungarian": "Légy jelen ebben a pillanatban.", "pronunciation": "légy je-len eb-ben a pil-la-nat-ban"},
+            {"english": "Breathe deeply, stay grounded.", "hungarian": "Lélegezz mélyen, maradj földön.", "pronunciation": "lé-le-gezz mé-lyen, ma-radj föl-dön"},
+            {"english": "Notice the little things around you.", "hungarian": "Figyeld meg a kis dolgokat körülötted.", "pronunciation": "fi-gyeld meg a kis dol-go-kat kö-rül-öt-ted"},
         ],
     }
 
@@ -843,10 +843,10 @@ In this video, you'll learn 60 essential Hungarian phrases about {category_engli
 Perfect for beginners and intermediate learners!
 
 \U0001F4DA WHAT YOU'LL LEARN:
-\u2022 60 practical {category_english} phrases in Hungarian
-\u2022 Correct pronunciation guide
-\u2022 Natural pauses for speaking practice
-\u2022 Common expressions used by native speakers
+• 60 practical {category_english} phrases in Hungarian
+• Correct pronunciation guide
+• Natural pauses for speaking practice
+• Common expressions used by native speakers
 
 \U0001F551 VIDEO TIMESTAMPS:
 """
@@ -872,11 +872,11 @@ Perfect for beginners and intermediate learners!
 
     description += """
 \U0001F3AF PERFECT FOR:
-\u2022 Hungarian beginners wanting to expand vocabulary
-\u2022 Intermediate learners practicing pronunciation
-\u2022 Anyone interested in Hungarian language and culture
-\u2022 Language enthusiasts and polyglots
-\u2022 Students preparing for exams
+• Hungarian beginners wanting to expand vocabulary
+• Intermediate learners practicing pronunciation
+• Anyone interested in Hungarian language and culture
+• Language enthusiasts and polyglots
+• Students preparing for exams
 
 \U0001F4A1 TIPS FOR LEARNING:
 1. Repeat each phrase out loud
@@ -896,14 +896,14 @@ Perfect for beginners and intermediate learners!
 [Add music credits if applicable]
 
 \U0001F4D6 RELATED VIDEOS:
-\u2022 Hungarian Motivation Phrases
-\u2022 Hungarian Love Expressions
-\u2022 Basic Hungarian Greetings
+• Hungarian Motivation Phrases
+• Hungarian Love Expressions
+• Basic Hungarian Greetings
 
 #LearnHungarian #HungarianPhrases #HungarianLanguage #{category_english.replace(' ', '')} #VelocityHungarian #HungarianForBeginners #SpeakHungarian #HungarianVocabulary #Pronunciation #LanguageLearning #Hungarian101 #HungarianLesson
 
 ---
-\u00A9 Velocity Hungarian - Making Hungarian learning accessible to everyone!
+© Velocity Hungarian - Making Hungarian learning accessible to everyone!
 """
 
     output_dir = Path(output_dir)
