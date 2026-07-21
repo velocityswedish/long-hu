@@ -148,7 +148,7 @@ def upload_to_youtube(video_info):
     youtube = build(API_SERVICE_NAME, API_VERSION, credentials=credentials)
     
     # Get title and description
-    title = "Learn Danish with Velocity Danish"
+    title = "Learn Hungarian with Velocity Hungarian"
     description = ""
     
     if video_info.get("metadata") and video_info["metadata"].exists():
@@ -177,11 +177,11 @@ def upload_to_youtube(video_info):
             "title": title,
             "description": description,
             "tags": [
-                "Learn Danish",
-                "Danish Phrases",
-                "Danish Language",
-                "Velocity Danish",
-                "Danish for Beginners",
+                "Learn Hungarian",
+                "Hungarian Phrases",
+                "Hungarian Language",
+                "Velocity Hungarian",
+                "Hungarian for Beginners",
                 "Language Learning"
             ],
             "categoryId": "27"  # Education
@@ -255,7 +255,7 @@ def upload_to_youtube(video_info):
 
 def main():
     print("\n" + "="*80)
-    print("\U0001F1E9\U0001F1F0 VELOCITY DANISH - YOUTUBE LONG-FORM UPLOADER \U0001F1E9\U0001F1F0")
+    print("\U0001F1ED\U0001F1FA VELOCITY HUNGARIAN - YOUTUBE LONG-FORM UPLOADER \U0001F1ED\U0001F1FA")
     print("="*80)
     
     # Find latest video

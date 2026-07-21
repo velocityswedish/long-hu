@@ -1,5 +1,5 @@
 """
-YouTube Long-Form Video Automation - Bilingual English/Danish Content Generator
+YouTube Long-Form Video Automation - Bilingual English/Hungarian Content Generator
 GENERATES 10-MINUTE VIDEOS with improved backgrounds for YouTube
 """
 
@@ -48,38 +48,38 @@ CATEGORIES_ENGLISH = [
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
-# Danish translations
-CATEGORIES_DANISH = {
-    "Motivation": "Motivation",
-    "Love": "Kærlighed",
-    "Success": "Succes",
-    "Wisdom": "Visdom",
-    "Happiness": "Lykke",
-    "Self Improvement": "Selvudvikling",
-    "Gratitude": "Taknemmelighed",
-    "Friendship": "Venskab",
-    "Hope": "Håb",
-    "Creativity": "Kreativitet",
-    "Inner Peace": "Indre Fred",
-    "Confidence": "Selvtillid",
-    "Perseverance": "Udholdenhed",
-    "Inspiration": "Inspiration",
-    "Positive Life": "Positivt Liv",
-    "Courage": "Mod",
-    "Kindness": "Venlighed",
-    "Patience": "Tålmodighed",
-    "Forgiveness": "Tilgivelse",
-    "Strength": "Styrke",
-    "Joy": "Glæde",
-    "Balance": "Balance",
-    "Growth": "Vækst",
-    "Purpose": "Formål",
-    "Mindfulness": "Opmærksomhed",
+# Hungarian translations
+CATEGORIES_HUNGARIAN = {
+    "Motivation": "Motiváció",
+    "Love": "Szerelem",
+    "Success": "Siker",
+    "Wisdom": "Bölcsesség",
+    "Happiness": "Boldogság",
+    "Self Improvement": "Önfejlesztés",
+    "Gratitude": "Hála",
+    "Friendship": "Barátság",
+    "Hope": "Remény",
+    "Creativity": "Kreativitás",
+    "Inner Peace": "Belső Béke",
+    "Confidence": "Önbizalom",
+    "Perseverance": "Kitartás",
+    "Inspiration": "Inspiráció",
+    "Positive Life": "Pozitív Élet",
+    "Courage": "Bátorság",
+    "Kindness": "Kedvesség",
+    "Patience": "Türelem",
+    "Forgiveness": "Megbocsátás",
+    "Strength": "Erő",
+    "Joy": "Öröm",
+    "Balance": "Egyensúly",
+    "Growth": "Növekedés",
+    "Purpose": "Cél",
+    "Mindfulness": "Tudatosság",
 }
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-LANG_VOICE = "da-DK-ChristelNeural"
+LANG_VOICE = "hu-HU-NoemiNeural"
 
 # Phrase history file
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -167,7 +167,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "danish": phrase["danish"],
+            "hungarian": phrase["hungarian"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -184,7 +184,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 
 
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
-    category_danish = CATEGORIES_DANISH[category_english]
+    category_hungarian = CATEGORIES_HUNGARIAN[category_english]
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
     viral_style = random.choice(VIRAL_STYLES)
@@ -210,24 +210,24 @@ def generate_phrases_for_longform(category_english: str, num_phrases: int) -> li
                     recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
                     exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
 
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Danish.
+                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Hungarian.
 
 Style: Make each phrase feel like a {viral_style} - something people would want to share!
 
-CRITICAL RULE - ABSOLUTELY ZERO Danish IN ENGLISH FIELD:
-The "english" field must contain ONLY English words. NO Danish words at all.
-The "danish" field contains the Danish translation.
-The "pronunciation" field is phonetic English spelling approximating Danish sounds.
+CRITICAL RULE - ABSOLUTELY ZERO Hungarian IN ENGLISH FIELD:
+The "english" field must contain ONLY English words. NO Hungarian words at all.
+The "hungarian" field contains the Hungarian translation.
+The "pronunciation" field is phonetic English spelling approximating Hungarian sounds.
 
 These are INSPIRATIONAL PHRASES about the topic, NOT language-learning tips.
 
-WRONG (teaching tip with Danish words): {{"english": "Don't say 'ha' det godt,' it means more than 'goodbye.'", ...}}
-WRONG (Danish word in english): {{"english": "Use 'tak' for thank you", ...}}
+WRONG (teaching tip with Hungarian words): {{"english": "Don't say 'ha' det godt,' it means more than 'goodbye.'", ...}}
+WRONG (Hungarian word in english): {{"english": "Use 'tak' for thank you", ...}}
 WRONG (lesson tip): {{"english": "Say 'v\u00e6r s\u00e5 venlig' for please", ...}}
-CORRECT (pure english phrase): {{"english": "Knowledge is the key to wisdom.", "danish": "Kundskab er n\u00f8glen til visdom", "pronunciation": "kund-skab er n\u00f8g-len til vis-dom"}}
-CORRECT: {{"english": "A wise person listens more than they speak.", "danish": "En vis person lytter mere end de taler", "pronunciation": "en vis per-son lyt-ter me-re end de ta-ler"}}
+CORRECT (pure english phrase): {{"english": "Knowledge is the key to wisdom.", "hungarian": "Kundskab er n\u00f8glen til visdom", "pronunciation": "kund-skab er n\u00f8g-len til vis-dom"}}
+CORRECT: {{"english": "A wise person listens more than they speak.", "hungarian": "En vis person lytter mere end de taler", "pronunciation": "en vis per-son lyt-ter me-re end de ta-ler"}}
 
-The english field MUST be 100% English words only. Absolutely NO Danish words in the english field.
+The english field MUST be 100% English words only. Absolutely NO Hungarian words in the english field.
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -240,19 +240,19 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 8. Vary sentence structure for natural flow
 
 For each phrase:
-1. English phrase (pure English, zero Danish words) with commas for natural pauses
-2. Danish translation
+1. English phrase (pure English, zero Hungarian words) with commas for natural pauses
+2. Hungarian translation
 3. Pronunciation guide (phonetic English spelling)
 
 Return as JSON array:
-[{{"english": "...", "danish": "...", "pronunciation": "..."}}]
+[{{"english": "...", "hungarian": "...", "pronunciation": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You create INSPIRATIONAL PHRASES for YouTube language learning videos. CRITICAL: The 'english' field must be PURE ENGLISH with ZERO Danish words - no Danish words at all. These are universal inspirational phrases, NOT language learning tips. Danish goes ONLY in the 'danish' field."},
+                        {"role": "system", "content": "You create INSPIRATIONAL PHRASES for YouTube language learning videos. CRITICAL: The 'english' field must be PURE ENGLISH with ZERO Hungarian words - no Hungarian words at all. These are universal inspirational phrases, NOT language learning tips. Hungarian goes ONLY in the 'hungarian' field."},
                         {"role": "user", "content": prompt}
                     ],
                     "temperature": 1.0
@@ -298,140 +298,140 @@ IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "danish": "Tro p\u00e5 dig selv.", "pronunciation": "tro p\u00e5 dij selv"},
-            {"english": "You are capable of amazing things.", "danish": "Du er i stand til fantastiske ting.", "pronunciation": "du er i stan til fan-tas-tis-ke ting"},
-            {"english": "Dream big, start small.", "danish": "Dr\u00f8m stort, start sm\u00e5t.", "pronunciation": "dr\u00f8m stort, start sm\u00e5t"},
-            {"english": "Your future is created by your actions.", "danish": "Fremtiden din skabes af dine handlinger.", "pronunciation": "frem-ti-den din ska-bes af di-ne hand-ling-er"},
-            {"english": "Never give up on your dreams.", "danish": "Giv aldrig op p\u00e5 dr\u00f8mmene dine.", "pronunciation": "giv al-drig op p\u00e5 dr\u00f8m-me-ne di-ne"},
-            {"english": "Small steps lead to big changes.", "danish": "Sm\u00e5 skridt f\u00f8rer til store \u00e6ndringer.", "pronunciation": "sm\u00e5 skrid f\u00f8-rer til sto-re \u00e6nd-ring-er"},
-            {"english": "You are stronger than you think.", "danish": "Du er st\u00e6rkere end du tror.", "pronunciation": "du er st\u00e6r-ke-re en du tror"},
+            {"english": "Believe in yourself.", "hungarian": "Higgy magadban.", "pronunciation": "higy ma-gad-ban"},
+            {"english": "You are capable of amazing things.", "hungarian": "Csod\u00e1latos dolgokra vagy k\u00e9pes.", "pronunciation": "cso-d\u00e1-la-tos dol-gok-ra vagy k\u00e9-pes"},
+            {"english": "Dream big, start small.", "hungarian": "\u00c1lmodj nagyot, kezdd kicsiben.", "pronunciation": "\u00e1l-modj na-gyot, kezdd ki-csi-ben"},
+            {"english": "Your future is created by your actions.", "hungarian": "A j\u00f6v\u0151det a tetteid alak\u00edtj\u00e1k.", "pronunciation": "a j\u00f6-v\u0151-det a tet-te-id a-la-k\u00edt-j\u00e1k"},
+            {"english": "Never give up on your dreams.", "hungarian": "Soha ne add fel az \u00e1lmaidat.", "pronunciation": "so-ha ne add fel az \u00e1l-ma-i-dat"},
+            {"english": "Small steps lead to big changes.", "hungarian": "Kis l\u00e9p\u00e9sek vezetnek nagy v\u00e1ltoz\u00e1sokhoz.", "pronunciation": "kis l\u00e9-p\u00e9-sek ve-zet-nek nagy v\u00e1l-to-z\u00e1-sok-hoz"},
+            {"english": "You are stronger than you think.", "hungarian": "Er\u0151sebb vagy, mint gondolod.", "pronunciation": "er-\u0151-sebb vagy, mint gon-do-lod"},
         ],
         "Love": [
-            {"english": "Love yourself first.", "danish": "Elsk dig selv f\u00f8rst.", "pronunciation": "elsk dij selv f\u00f8rst"},
-            {"english": "Love makes everything possible.", "danish": "K\u00e6rlighed g\u00f8r alt muligt.", "pronunciation": "k\u00e6r-lig-hed g\u00f8r alt mu-ligt"},
-            {"english": "My heart beats for you.", "danish": "Mit hjerte sl\u00e5r for dig.", "pronunciation": "mit hjer-te sl\u00e5r for dij"},
-            {"english": "You are my everything.", "danish": "Du er alt for mig.", "pronunciation": "du er alt for mej"},
-            {"english": "Together forever, hand in hand.", "danish": "Sammen for altid, h\u00e5nd i h\u00e5nd.", "pronunciation": "sam-men for al-tid, h\u00e5nd i h\u00e5nd"},
+            {"english": "Love yourself first.", "hungarian": "El\u0151sz\u00f6r magadat szeresd.", "pronunciation": "el-\u0151-sz\u00f6r ma-ga-dat sze-resd"},
+            {"english": "Love makes everything possible.", "hungarian": "A szerelem mindent lehet\u0151v\u00e9 tesz.", "pronunciation": "a sze-re-lem min-dent le-het-\u0151-v\u00e9 tesz"},
+            {"english": "My heart beats for you.", "hungarian": "A sz\u00edvem \u00e9rted dobog.", "pronunciation": "a sz\u00ed-vem \u00e9r-ted do-bog"},
+            {"english": "You are my everything.", "hungarian": "Te vagy mindenem.", "pronunciation": "te vagy min-de-nem"},
+            {"english": "Together forever, hand in hand.", "hungarian": "Egy\u00fctt \u00f6r\u00f6kk\u00e9, k\u00e9z a k\u00e9zben.", "pronunciation": "egy-\u00fctt \u00f6-r\u00f6k-k\u00e9, k\u00e9z a k\u00e9z-ben"},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "danish": "Succes kommer fra h\u00e5rdt arbejde.", "pronunciation": "suk-ses kom-mer fr\u00e5 h\u00e5rdt ar-bej-de"},
-            {"english": "Keep going, you're getting there.", "danish": "Forts\u00e6t, du n\u00e6rmer dig.", "pronunciation": "for-ts\u00e6t, du n\u00e6r-mer dij"},
-            {"english": "Winners never quit.", "danish": "Vindere giver aldrig op.", "pronunciation": "vin-de-re gi-ver al-drig op"},
-            {"english": "Your effort will pay off.", "danish": "Din indsats vil l\u00f8nne sig.", "pronunciation": "din ind-sats vil l\u00f8n-ne sej"},
+            {"english": "Success comes from hard work.", "hungarian": "A siker kem\u00e9ny munk\u00e1b\u00f3l j\u00f6n.", "pronunciation": "a si-ker ke-m\u00e9ny mun-k\u00e1-b\u00f3l j\u00f6n"},
+            {"english": "Keep going, you're getting there.", "hungarian": "Folytasd, k\u00f6zel\u00edtesz.", "pronunciation": "foly-tasd, k\u00f6-ze-l\u00ed-tesz"},
+            {"english": "Winners never quit.", "hungarian": "A gy\u0151ztesek soha nem adj\u00e1k fel.", "pronunciation": "a gy\u0151z-te-sek so-ha nem ad-j\u00e1k fel"},
+            {"english": "Your effort will pay off.", "hungarian": "Az er\u0151fesz\u00edt\u00e9sed megt\u00e9r\u00fcl.", "pronunciation": "az er-\u0151-fes-z\u00ed-t\u00e9-sed meg-t\u00e9-r\u00fcl"},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "danish": "Kundskab er magt.", "pronunciation": "kund-skab er magt"},
-            {"english": "Learn from yesterday, live for today.", "danish": "L\u00e6r fra i g\u00e5r, lev for i dag.", "pronunciation": "l\u00e6r fra i g\u00e5r, lev for i dag"},
-            {"english": "Think before you act.", "danish": "T\u00e6nk f\u00f8r du handler.", "pronunciation": "t\u00e6nk f\u00f8r du hand-ler"},
-            {"english": "Experience is the best teacher.", "danish": "Erfaring er den bedste l\u00e6rer.", "pronunciation": "er-fa-ring er den bed-ste l\u00e6-rer"},
+            {"english": "Knowledge is power.", "hungarian": "A tud\u00e1s hatalom.", "pronunciation": "a tu-d\u00e1s ha-ta-lom"},
+            {"english": "Learn from yesterday, live for today.", "hungarian": "Tanulj a tegnapb\u00f3l, \u00e9lj a m\u00e1nak.", "pronunciation": "ta-nulj a teg-nap-b\u00f3l, \u00e9lj a m\u00e1-nak"},
+            {"english": "Think before you act.", "hungarian": "Gondolkodj, miel\u0151tt cselekszel.", "pronunciation": "gon-dol-kodj, mi-el-\u0151tt cse-lek-szel"},
+            {"english": "Experience is the best teacher.", "hungarian": "A tapasztalat a legjobb tan\u00edt\u00f3.", "pronunciation": "a ta-pasz-ta-lat a leg-jobb ta-n\u00ed-t\u00f3"},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "danish": "Lykke er et valg.", "pronunciation": "lyk-ke er et valg"},
-            {"english": "Find joy in the little things.", "danish": "Find gl\u00e6de i de sm\u00e5 ting.", "pronunciation": "find gle-de i de sm\u00e5 ting"},
-            {"english": "Smile, it makes others happy.", "danish": "Smil, det g\u00f8r andre glade.", "pronunciation": "smil, det g\u00f8r an-dre gla-de"},
-            {"english": "Today is a gift.", "danish": "I dag er en gave.", "pronunciation": "i dag er en ga-ve"},
+            {"english": "Happiness is a choice.", "hungarian": "A boldogs\u00e1g v\u00e1laszt\u00e1s.", "pronunciation": "a bol-dog-s\u00e1g v\u00e1-lasz-t\u00e1s"},
+            {"english": "Find joy in the little things.", "hungarian": "Tal\u00e1ld meg az \u00f6r\u00f6met a kis dolgokban.", "pronunciation": "ta-l\u00e1ld meg az \u00f6-r\u00f6-met a kis dol-gok-ban"},
+            {"english": "Smile, it makes others happy.", "hungarian": "Mosolyogj, ez m\u00e1sokat is boldogg\u00e1 tesz.", "pronunciation": "mo-so-lyogj, ez m\u00e1-so-kat is bol-dog-g\u00e1 tesz"},
+            {"english": "Today is a gift.", "hungarian": "A mai nap egy aj\u00e1nd\u00e9k.", "pronunciation": "a mai nap egy a-j\u00e1n-d\u00e9k"},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "danish": "V\u00e6r bedre end i g\u00e5r.", "pronunciation": "v\u00e6r bed-re en i g\u00e5r"},
-            {"english": "Grow through what you go through.", "danish": "Voks gennem det du g\u00e5r gennem.", "pronunciation": "voks gen-nem det du g\u00e5r gen-nem"},
-            {"english": "Invest in yourself daily.", "danish": "Invest\u00e9r i dig selv dagligt.", "pronunciation": "in-ves-t\u00e9r i dij selv dag-ligt"},
+            {"english": "Be better than yesterday.", "hungarian": "L\u00e9gy jobb, mint tegnap.", "pronunciation": "l\u00e9gy jobb, mint teg-nap"},
+            {"english": "Grow through what you go through.", "hungarian": "N\u0151j \u00e1t azon, amin kereszt\u00fclm\u00e9sz.", "pronunciation": "n\u0151j \u00e1t a-zon, a-min ke-resz-t\u00fcl-m\u00e9sz"},
+            {"english": "Invest in yourself daily.", "hungarian": "Fektess magadba naponta.", "pronunciation": "fek-tess ma-gad-ba na-pon-ta"},
         ],
         "Gratitude": [
-            {"english": "Thank you for everything.", "danish": "Tak for alt.", "pronunciation": "tak for alt"},
-            {"english": "I appreciate your help.", "danish": "Jeg s\u00e6tter pris p\u00e5 din hj\u00e6lp.", "pronunciation": "jeg set-ter pris p\u00e5 din hj\u00e6lp"},
-            {"english": "Grateful for this moment.", "danish": "Taknemmelig for dette \u00f8jeblik.", "pronunciation": "tak-nem-me-lig for det-te \u00f8je-blik"},
+            {"english": "Thank you for everything.", "hungarian": "K\u00f6sz\u00f6n\u00f6k mindent.", "pronunciation": "k\u00f6-sz\u00f6-n\u00f6k min-dent"},
+            {"english": "I appreciate your help.", "hungarian": "\u00c9rt\u00e9kelem a seg\u00edts\u00e9gedet.", "pronunciation": "\u00e9r-t\u00e9-ke-lem a se-g\u00edt-s\u00e9-ge-det"},
+            {"english": "Grateful for this moment.", "hungarian": "H\u00e1l\u00e1s vagyok ez\u00e9rt a pillanat\u00e9rt.", "pronunciation": "h\u00e1-l\u00e1s va-gyok e-z\u00e9rt a pil-la-na-t\u00e9rt"},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "danish": "Venner for altid, uanset hvad.", "pronunciation": "ven-ner for al-tid, uan-set hvad"},
-            {"english": "You are my best friend.", "danish": "Du er min bedste ven.", "pronunciation": "du er min bed-ste ven"},
-            {"english": "True friends stick together.", "danish": "\u00c6gte venner holder sammen.", "pronunciation": "\u00e6g-te ven-ner hol-der sam-men"},
+            {"english": "Friends forever, no matter what.", "hungarian": "Bar\u00e1tok \u00f6r\u00f6kk\u00e9, b\u00e1rmi t\u00f6rt\u00e9nj\u00e9k.", "pronunciation": "ba-r\u00e1-tok \u00f6-r\u00f6k-k\u00e9, b\u00e1r-mi t\u00f6r-t\u00e9n-j\u00e9k"},
+            {"english": "You are my best friend.", "hungarian": "Te vagy a legjobb bar\u00e1tom.", "pronunciation": "te vagy a leg-jobb ba-r\u00e1-tom"},
+            {"english": "True friends stick together.", "hungarian": "Az igaz bar\u00e1tok \u00f6sszetartanak.", "pronunciation": "az i-gaz ba-r\u00e1-tok \u00f6s-sze-tar-ta-nak"},
         ],
         "Hope": [
-            {"english": "There is always hope.", "danish": "Der er altid h\u00e5b.", "pronunciation": "der er al-tid h\u00e5b"},
-            {"english": "Better days are coming.", "danish": "Bedre dage kommer.", "pronunciation": "bed-re da-ge kom-mer"},
-            {"english": "Keep faith, keep going.", "danish": "Behold troen, forts\u00e6t.", "pronunciation": "be-hold tro-en, fort-s\u00e6t"},
+            {"english": "There is always hope.", "hungarian": "Mindig van rem\u00e9ny.", "pronunciation": "min-dig van re-m\u00e9ny"},
+            {"english": "Better days are coming.", "hungarian": "Jobb napok j\u00f6nnek.", "pronunciation": "jobb na-pok j\u00f6n-nek"},
+            {"english": "Keep faith, keep going.", "hungarian": "Tartsd meg a hited, folytasd.", "pronunciation": "tartsd meg a hi-ted, foly-tasd"},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "danish": "Skab noget smukt i dag.", "pronunciation": "skab no-get smukt i dag"},
-            {"english": "Your imagination is unlimited.", "danish": "Din fantasi er ubegr\u00e6nset.", "pronunciation": "din fan-ta-si er u-be-gr\u00e6n-set"},
-            {"english": "Art comes from the heart.", "danish": "Kunst kommer fra hjertet.", "pronunciation": "kunst kom-mer fra hjer-tet"},
-            {"english": "Express yourself freely.", "danish": "Udtryk dig frit.", "pronunciation": "ud-tryk dij frit"},
-            {"english": "Innovation starts with curiosity.", "danish": "Innovation starter med nysgerrighed.", "pronunciation": "in-no-va-sjon star-ter med nys-ger-rig-hed"},
+            {"english": "Create something beautiful today.", "hungarian": "Alkoss valami sz\u00e9pet ma.", "pronunciation": "al-koss va-la-mi sz\u00e9-pet ma"},
+            {"english": "Your imagination is unlimited.", "hungarian": "A k\u00e9pzeleted hat\u00e1rtalan.", "pronunciation": "a k\u00e9p-ze-leted ha-t\u00e1r-ta-lan"},
+            {"english": "Art comes from the heart.", "hungarian": "A m\u0171v\u00e9szet a sz\u00edvb\u0151l j\u00f6n.", "pronunciation": "a m\u0171-v\u00e9-szet a sz\u00edv-b\u0151l j\u00f6n"},
+            {"english": "Express yourself freely.", "hungarian": "Fejezd ki magad szabadon.", "pronunciation": "fe-jezd ki ma-gad sza-ba-don"},
+            {"english": "Innovation starts with curiosity.", "hungarian": "Az innov\u00e1ci\u00f3 k\u00edv\u00e1ncsis\u00e1ggal kezd\u0151dik.", "pronunciation": "az in-no-v\u00e1-ci-\u00f3 k\u00ed-v\u00e1n-csi-s\u00e1g-gal kez-d\u0151-dik"},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "danish": "Find fred i dig selv.", "pronunciation": "find fred i dij selv"},
-            {"english": "Breathe, relax, let go.", "danish": "Tr\u00e6k vejret, slap af, slip taget.", "pronunciation": "tr\u00e6k vej-ret, slap af, slip ta-get"},
-            {"english": "Calm mind, happy heart.", "danish": "Roligt sind, glad hjerte.", "pronunciation": "ro-ligt sind, glad hjer-te"},
+            {"english": "Find peace within yourself.", "hungarian": "Tal\u00e1ld meg a b\u00e9k\u00e9t magadban.", "pronunciation": "ta-l\u00e1ld meg a b\u00e9-k\u00e9t ma-gad-ban"},
+            {"english": "Breathe, relax, let go.", "hungarian": "L\u00e9legezz, laz\u00edts, engedd el.", "pronunciation": "l\u00e9-le-gezz, la-z\u00edts, en-gedd el"},
+            {"english": "Calm mind, happy heart.", "hungarian": "Nyugodt elme, boldog sz\u00edv.", "pronunciation": "nyu-godt el-me, bol-dog sz\u00edv"},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "danish": "Du er nok, pr\u00e6cis som du er.", "pronunciation": "du er nok, pr\u00e6-cis som du er"},
-            {"english": "Stand tall, speak up.", "danish": "St\u00e5 rank, sig til.", "pronunciation": "st\u00e5 rank, sij til"},
-            {"english": "Believe in your abilities.", "danish": "Tro p\u00e5 dine evner.", "pronunciation": "tro p\u00e5 di-ne ev-ner"},
+            {"english": "You are enough, just as you are.", "hungarian": "El\u00e9g vagy, pontosan \u00fagy, ahogy vagy.", "pronunciation": "e-l\u00e9g vagy, pon-to-san \u00fagy, a-hogy vagy"},
+            {"english": "Stand tall, speak up.", "hungarian": "\u00c1llj egyenesen, besz\u00e9lj b\u00e1tran.", "pronunciation": "\u00e1llj e-gye-ne-sen, be-sz\u00e9lj b\u00e1t-ran"},
+            {"english": "Believe in your abilities.", "hungarian": "B\u00edzz a k\u00e9pess\u00e9geidben.", "pronunciation": "b\u00edzz a k\u00e9-pes-s\u00e9-ge-id-ben"},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "danish": "Giv aldrig op, forts\u00e6t med at k\u00e6mpe.", "pronunciation": "giv al-drig op, for-ts\u00e6t med at k\u00e6m-pe"},
-            {"english": "Storms make trees take deeper roots.", "danish": "Storme f\u00e5r tr\u00e6er til at sl\u00e5 dybere r\u00f8dder.", "pronunciation": "stor-me f\u00e5r tr\u00e6-er til \u00e5 sl\u00e5 dy-be-re r\u00f8d-der"},
-            {"english": "Patience and persistence win.", "danish": "T\u00e5lmodighed og udholdenhed vinder.", "pronunciation": "t\u00e5l-mo-dig-hed og ud-hol-den-hed vin-der"},
+            {"english": "Never give up, keep pushing.", "hungarian": "Soha ne add fel, k\u00fczdj tov\u00e1bb.", "pronunciation": "so-ha ne add fel, k\u00fczdj to-v\u00e1bb"},
+            {"english": "Storms make trees take deeper roots.", "hungarian": "A viharok m\u00e9lyebb gy\u00f6kereket n\u00f6vesztenek.", "pronunciation": "a vi-ha-rok m\u00e-lyebb gy\u00f6-ke-re-ket n\u00f6-vesz-te-nek"},
+            {"english": "Patience and persistence win.", "hungarian": "A t\u00fcrelem \u00e9s kitart\u00e1s gy\u0151z.", "pronunciation": "a t\u00fc-re-lem \u00e9s ki-tar-t\u00e1s gy\u0151z"},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "danish": "Lad dit lys skinne klart.", "pronunciation": "lad dit lys skin-ne klart"},
-            {"english": "Inspire others by your actions.", "danish": "Inspir\u00e9r andre med dine handlinger.", "pronunciation": "in-spi-r\u00e9r an-dre med di-ne hand-ling-er"},
-            {"english": "Be the change you want to see.", "danish": "V\u00e6r forandringen du vil se.", "pronunciation": "v\u00e6r for-and-ring-en du vil se"},
+            {"english": "Let your light shine bright.", "hungarian": "Hagyd ragyogni a f\u00e9nyedet.", "pronunciation": "hagyd ra-gyog-ni a f\u00e9-nye-det"},
+            {"english": "Inspire others by your actions.", "hungarian": "Inspir\u00e1lj m\u00e1sokat a tetteiddel.", "pronunciation": "in-spi-r\u00e1lj m\u00e1-so-kat a tet-te-id-del"},
+            {"english": "Be the change you want to see.", "hungarian": "L\u00e9gy a v\u00e1ltoz\u00e1s, amit l\u00e1tni akarsz.", "pronunciation": "l\u00e9gy a v\u00e1l-to-z\u00e1s, a-mit l\u00e1t-ni a-karsz"},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "danish": "V\u00e6lg positivitet hver dag.", "pronunciation": "v\u00e6lg po-si-ti-vi-tet v\u00e6r dag"},
-            {"english": "Good vibes only.", "danish": "Kun gode vibes.", "pronunciation": "kun go-de vajbs"},
-            {"english": "Life is what you make it.", "danish": "Livet er hvad du g\u00f8r det til.", "pronunciation": "li-vet er hvad du g\u00f8r det til"},
+            {"english": "Choose positivity every day.", "hungarian": "V\u00e1laszd a pozitivit\u00e1st minden nap.", "pronunciation": "v\u00e1-laszd a po-zi-ti-vi-t\u00e1st min-den nap"},
+            {"english": "Good vibes only.", "hungarian": "Csak j\u00f3 vibe-ok.", "pronunciation": "csak j\u00f3 v\u00e1jb-ok"},
+            {"english": "Life is what you make it.", "hungarian": "Az \u00e9let olyan, amilyenn\u00e9 teszed.", "pronunciation": "az \u00e9-let o-lyan, a-mi-lyen-n\u00e9 te-szed"},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "danish": "V\u00e6r modig, tag det f\u00f8rste skridt.", "pronunciation": "v\u00e6r mo-dig, tag det f\u00f8r-ste skridt"},
-            {"english": "Courage is not the absence of fear.", "danish": "Mod er ikke frav\u00e6r af frygt.", "pronunciation": "mod er ik-ke fra-v\u00e6r af frygt"},
-            {"english": "Face your fears head on.", "danish": "M\u00f8d din frygt direkte.", "pronunciation": "m\u00f8d din frygt di-rek-te"},
+            {"english": "Be brave, take the first step.", "hungarian": "L\u00e9gy b\u00e1tor, tedd meg az els\u0151 l\u00e9p\u00e9st.", "pronunciation": "l\u00e9gy b\u00e1-tor, tedd meg az el-s\u0151 l\u00e9-p\u00e9st"},
+            {"english": "Courage is not the absence of fear.", "hungarian": "A b\u00e1tors\u00e1g nem a f\u00e9lelem hi\u00e1nya.", "pronunciation": "a b\u00e1-tor-s\u00e1g nem a f\u00e9-le-lem hi-\u00e1-nya"},
+            {"english": "Face your fears head on.", "hungarian": "N\u00e9zz szembe a f\u00e9lelmeiddel.", "pronunciation": "n\u00e9zz szem-be a f\u00e9-lel-me-id-del"},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "danish": "V\u00e6r venlig mod alle du m\u00f8der.", "pronunciation": "v\u00e6r ven-lig mod al-le du m\u00f8-der"},
-            {"english": "Kindness costs nothing, means everything.", "danish": "Venlighed koster ingenting, betyder alt.", "pronunciation": "ven-lig-hed kos-ter in-gen-ting, be-ty-der alt"},
-            {"english": "Spread kindness wherever you go.", "danish": "Spred venlighed hvor end du g\u00e5r.", "pronunciation": "spred ven-lig-hed hvor en du g\u00e5r"},
+            {"english": "Be kind to everyone you meet.", "hungarian": "L\u00e9gy kedves mindenkihez, akivel tal\u00e1lkozol.", "pronunciation": "l\u00e9gy ked-ves min-den-ki-hez, a-ki-vel ta-l\u00e1l-ko-zol"},
+            {"english": "Kindness costs nothing, means everything.", "hungarian": "A kedvess\u00e9g semmibe sem ker\u00fcl, de mindent jelent.", "pronunciation": "a ked-ves-s\u00e9g sem-mi-be sem ke-r\u00fcl, de min-dent je-lent"},
+            {"english": "Spread kindness wherever you go.", "hungarian": "Terjeszd a kedvess\u00e9get, b\u00e1rhov\u00e1 m\u00e9sz.", "pronunciation": "ter-jeszd a ked-ves-s\u00e9-get, b\u00e1r-ho-v\u00e1 m\u00e9sz"},
         ],
         "Patience": [
-            {"english": "Good things take time.", "danish": "Gode ting tager tid.", "pronunciation": "go-de ting ta-ger tid"},
-            {"english": "Wait patiently, trust the process.", "danish": "Vent t\u00e5lmodigt, stol p\u00e5 processen.", "pronunciation": "vent t\u00e5l-mo-digt, stol p\u00e5 pro-ses-sen"},
-            {"english": "Rome wasn't built in a day.", "danish": "Rom blev ikke bygget p\u00e5 en dag.", "pronunciation": "rom blev ik-ke byg-get p\u00e5 en dag"},
+            {"english": "Good things take time.", "hungarian": "A j\u00f3 dolgok id\u0151t k\u00e9rnek.", "pronunciation": "a j\u00f3 dol-gok id-\u0151t k\u00e9r-nek"},
+            {"english": "Wait patiently, trust the process.", "hungarian": "V\u00e1rj t\u00fcrelmesen, b\u00edzz a folyamatban.", "pronunciation": "v\u00e1rj t\u00fc-rel-me-sen, b\u00edzz a fo-lyo-mat-ban"},
+            {"english": "Rome wasn't built in a day.", "hungarian": "R\u00f3m\u00e1t nem egy nap alatt \u00e9p\u00edtett\u00e9k.", "pronunciation": "r\u00f3-m\u00e1t nem egy nap a-latt \u00e9-p\u00ed-tet-t\u00e9k"},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "danish": "Tilgiv og s\u00e6t dig selv fri.", "pronunciation": "til-giv og s\u00e6t dij selv fri"},
-            {"english": "Let go of grudges, find peace.", "danish": "Slip nag, find fred.", "pronunciation": "slip nag, find fred"},
-            {"english": "Forgiveness is a gift to yourself.", "danish": "Tilgivelse er en gave til dig selv.", "pronunciation": "til-gi-vel-se er en ga-ve til dij selv"},
+            {"english": "Forgive and set yourself free.", "hungarian": "Bocs\u00e1ss meg \u00e9s szabad\u00edtsd fel magad.", "pronunciation": "bo-cs\u00e1ss meg \u00e9s sza-ba-d\u00edtsd fel ma-gad"},
+            {"english": "Let go of grudges, find peace.", "hungarian": "Engedd el a s\u00e9relmeket, tal\u00e1ld meg a b\u00e9k\u00e9t.", "pronunciation": "en-gedd el a s\u00e9-rel-me-ket, ta-l\u00e1ld meg a b\u00e9-k\u00e9t"},
+            {"english": "Forgiveness is a gift to yourself.", "hungarian": "A megbocs\u00e1t\u00e1s aj\u00e1nd\u00e9k \u00f6nmagadnak.", "pronunciation": "a meg-bo-cs\u00e1-t\u00e1s a-j\u00e1n-d\u00e9k \u00f6n-ma-gad-nak"},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "danish": "Du er st\u00e6rkere end du ved.", "pronunciation": "du er st\u00e6r-ke-re en du ved"},
-            {"english": "Inner strength comes from within.", "danish": "Indre styrke kommer fra indersiden.", "pronunciation": "in-dre styr-ke kom-mer fra in-der-si-den"},
-            {"english": "Challenges make you stronger.", "danish": "Udfordringer g\u00f8r dig st\u00e6rkere.", "pronunciation": "ud-for-dring-er g\u00f8r dij st\u00e6r-ke-re"},
+            {"english": "You are stronger than you know.", "hungarian": "Er\u0151sebb vagy, mint hiszed.", "pronunciation": "er-\u0151-sebb vagy, mint hi-szed"},
+            {"english": "Inner strength comes from within.", "hungarian": "A bels\u0151 er\u0151 bel\u00fclr\u0151l j\u00f6n.", "pronunciation": "a bel-s\u0151 er\u0151 be-l\u00fcl-r\u0151l j\u00f6n"},
+            {"english": "Challenges make you stronger.", "hungarian": "A kih\u00edv\u00e1sok er\u0151sebb\u00e9 tesznek.", "pronunciation": "a ki-h\u00ed-v\u00e1-sok er-\u0151-seb-b\u00e9 tesz-nek"},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "danish": "Find gl\u00e6de i hvert \u00f8jeblik.", "pronunciation": "find gle-de i hvert \u00f8je-blik"},
-            {"english": "Joy is contagious, spread it.", "danish": "Gl\u00e6de er smitsomt, spred det.", "pronunciation": "gle-de er smit-somt, spred det"},
-            {"english": "Dance like nobody's watching.", "danish": "Dans som om ingen ser p\u00e5.", "pronunciation": "dans som om in-gen ser p\u00e5"},
+            {"english": "Find joy in every moment.", "hungarian": "Tal\u00e1ld meg az \u00f6r\u00f6met minden pillanatban.", "pronunciation": "ta-l\u00e1ld meg az \u00f6-r\u00f6-met min-den pil-la-nat-ban"},
+            {"english": "Joy is contagious, spread it.", "hungarian": "Az \u00f6r\u00f6m rag\u00e1lyos, terjeszd.", "pronunciation": "az \u00f6-r\u00f6m ra-g\u00e1-lyos, ter-jeszd"},
+            {"english": "Dance like nobody's watching.", "hungarian": "T\u00e1ncolj, mintha senki sem n\u00e9zne.", "pronunciation": "t\u00e1n-colj, min-tha sen-ki sem n\u00e9z-ne"},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "danish": "Find balance i livet dit.", "pronunciation": "find ba-lan-se i li-vet dit"},
-            {"english": "Work hard, rest well.", "danish": "Arbejd h\u00e5rdt, hvil godt.", "pronunciation": "ar-bejd h\u00e5rdt, hvil godt"},
-            {"english": "Too much of anything is not good.", "danish": "For meget af noget er ikke godt.", "pronunciation": "for me-get af no-get er ik-ke godt"},
+            {"english": "Find balance in your life.", "hungarian": "Tal\u00e1ld meg az egyens\u00falyi az \u00e9letedben.", "pronunciation": "ta-l\u00e1ld meg az egyen-s\u00fa-lyt az \u00e9-le-ted-ben"},
+            {"english": "Work hard, rest well.", "hungarian": "Dolgozz kem\u00e9nyen, pihenj j\u00f3l.", "pronunciation": "dol-gozz ke-m\u00e9-nyen, pi-henj j\u00f3l"},
+            {"english": "Too much of anything is not good.", "hungarian": "T\u00fal sok mindenb\u0151l nem j\u00f3.", "pronunciation": "t\u00fal sok min-den-b\u0151l nem j\u00f3"},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "danish": "V\u00e6kst sker uden for komfortzonen.", "pronunciation": "v\u00e6kst sker u-den for kom-fort-zo-nen"},
-            {"english": "Embrace change, grow stronger.", "danish": "Omfavn forandring, bliv st\u00e6rkere.", "pronunciation": "om-favn for-and-ring, bliv st\u00e6r-ke-re"},
-            {"english": "Every challenge is a chance to grow.", "danish": "Hver udfordring er en chance til at vokse.", "pronunciation": "hver ud-for-dring er en sjan-se til at vok-se"},
+            {"english": "Growth happens outside your comfort zone.", "hungarian": "A n\u00f6veked\u00e9s a komfortz\u00f3n\u00e1n k\u00edv\u00fcl t\u00f6rt\u00e9nik.", "pronunciation": "a n\u00f6-ve-ke-d\u00e9s a kom-fort-z\u00f3-n\u00e1n k\u00ed-v\u00fcl t\u00f6r-t\u00e9-nik"},
+            {"english": "Embrace change, grow stronger.", "hungarian": "\u00d6leld \u00e1t a v\u00e1ltoz\u00e1st, n\u0151j er\u0151sebb\u00e9.", "pronunciation": "\u00f6-leld \u00e1t a v\u00e1l-to-z\u00e1st, n\u0151j er-\u0151-seb-b\u00e9"},
+            {"english": "Every challenge is a chance to grow.", "hungarian": "Minden kih\u00edv\u00e1s egy es\u00e9ly a n\u00f6veked\u00e9sre.", "pronunciation": "min-den ki-h\u00ed-v\u00e1s egy e-s\u00e9ly a n\u00f6-ve-ke-d\u00e9s-re"},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "danish": "Find dit form\u00e5l, f\u00f8lg det.", "pronunciation": "find dit form\u00e5l, f\u00f8lg det"},
-            {"english": "Your life has meaning.", "danish": "Dit liv har mening.", "pronunciation": "dit liv har me-ning"},
-            {"english": "Live with intention, not accident.", "danish": "Lev med hensigt, ikke tilf\u00e6ldigt.", "pronunciation": "lev med hen-sigt, ik-ke til-f\u00e6l-digt"},
+            {"english": "Find your purpose, follow it.", "hungarian": "Tal\u00e1ld meg a c\u00e9lodat, k\u00f6vesd.", "pronunciation": "ta-l\u00e1ld meg a c\u00e9-lo-dat, k\u00f6-vesd"},
+            {"english": "Your life has meaning.", "hungarian": "Az \u00e9letednek \u00e9rtelme van.", "pronunciation": "az \u00e9-le-ted-nek \u00e9r-tel-me van"},
+            {"english": "Live with intention, not accident.", "hungarian": "\u00c9lj sz\u00e1nd\u00e9kkal, ne v\u00e9letlen\u00fcl.", "pronunciation": "\u00e9lj sz\u00e1n-d\u00e9k-kal, ne v\u00e9-let-le-n\u00fcl"},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "danish": "V\u00e6r til stede i dette \u00f8jeblik.", "pronunciation": "v\u00e6r til ste-de i det-te \u00f8je-blik"},
-            {"english": "Breathe deeply, stay grounded.", "danish": "Tr\u00e6k vejret dybt, hold dig jordet.", "pronunciation": "tr\u00e6k vej-ret dybt, hold dij jor-det"},
-            {"english": "Notice the little things around you.", "danish": "L\u00e6g m\u00e6rke til de sm\u00e5 ting omkring dig.", "pronunciation": "l\u00e6g m\u00e6r-ke til de sm\u00e5 ting om-kring dij"},
+            {"english": "Be present in this moment.", "hungarian": "L\u00e9gy jelen ebben a pillanatban.", "pronunciation": "l\u00e9gy je-len eb-ben a pil-la-nat-ban"},
+            {"english": "Breathe deeply, stay grounded.", "hungarian": "L\u00e9legezz m\u00e9lyen, maradj f\u00f6ld\u00f6n.", "pronunciation": "l\u00e9-le-gezz m\u00e9-lyen, ma-radj f\u00f6l-d\u00f6n"},
+            {"english": "Notice the little things around you.", "hungarian": "Figyeld meg a kis dolgokat k\u00f6r\u00fcl\u00f6tted.", "pronunciation": "fi-gyeld meg a kis dol-go-kat k\u00f6-r\u00fcl-\u00f6t-ted"},
         ],
     }
 
@@ -487,7 +487,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        lang_success = asyncio.run(generate_single_audio(phrase["danish"], LANG_VOICE, str(lang_file)))
+        lang_success = asyncio.run(generate_single_audio(phrase["hungarian"], LANG_VOICE, str(lang_file)))
         if not lang_success:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(lang_file)]
             subprocess.run(cmd, capture_output=True)
@@ -631,7 +631,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    danish = phrase_data.get("danish", "")
+    hungarian = phrase_data.get("hungarian", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -677,7 +677,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_line_h = 80
     en_total_h = len(en_lines) * en_line_h
 
-    lang_lines = wrap_text(danish, font_lang, VIDEO_WIDTH - 300)
+    lang_lines = wrap_text(hungarian, font_lang, VIDEO_WIDTH - 300)
     lang_line_h = 100
     lang_total_h = len(lang_lines) * lang_line_h
 
@@ -704,7 +704,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
     y_cursor = y_start + en_box_h + GAP
 
-    # Danish Section
+    # Hungarian Section
     lang_box_h = lang_total_h + 60
     draw.rounded_rectangle(
         [(box_x, y_cursor), (box_x + box_w, y_cursor + lang_box_h)],
@@ -729,7 +729,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
                   line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
 
     # Branding
-    brand_text = "VELOCITY DANISH"
+    brand_text = "VELOCITY HUNGARIAN"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text,
@@ -743,7 +743,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_danish: str, output_path: str):
+def generate_thumbnail(category_english: str, category_hungarian: str, output_path: str):
     try:
         from PIL import Image, ImageDraw, ImageFont
     except ImportError:
@@ -775,7 +775,7 @@ def generate_thumbnail(category_english: str, category_danish: str, output_path:
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER DANISH", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER HUNGARIAN", fill=(45, 35, 65), font=font_huge, anchor="mm")
 
     cat_text = category_english.upper()
     cat_bbox = draw.textbbox((0, 0), cat_text, font=font_sub)
@@ -786,9 +786,9 @@ def generate_thumbnail(category_english: str, category_danish: str, output_path:
     )
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
-    draw.text((VIDEO_WIDTH // 2, 530), category_danish, fill=(45, 35, 65), font=font_main, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 530), category_hungarian, fill=(45, 35, 65), font=font_main, anchor="mm")
 
-    cta_text = "60 VIGTIGE FRASER"
+    cta_text = "60 FONTOS KIFEJEZÉS"
     draw.rounded_rectangle(
         [(VIDEO_WIDTH // 2 - 300, 650), (VIDEO_WIDTH // 2 + 300, 730)],
         radius=15, fill=(255, 210, 160, 255)
@@ -796,7 +796,7 @@ def generate_thumbnail(category_english: str, category_danish: str, output_path:
     draw.text((VIDEO_WIDTH // 2, 690), cta_text, fill=(70, 45, 25), font=font_badge, anchor="mm")
 
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY DANISH", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY HUNGARIAN", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -828,22 +828,22 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_danish: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_hungarian: str, phrases: list, duration_minutes: float, output_dir: str):
     titles = [
-        f"Learn Danish in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_danish})",
-        f"60 Danish Phrases for {category_english} | Speak Danish Like a Native! ({category_danish})",
-        f"Master Danish {category_english} | 60 Essential Danish Phrases with Pronunciation | Velocity Danish",
-        f"Danish Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
-        f"Speak Danish Fluently | {category_english} Phrases | English + Danish + Pronunciation",
+        f"Learn Hungarian in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_hungarian})",
+        f"60 Hungarian Phrases for {category_english} | Speak Hungarian Like a Native! ({category_hungarian})",
+        f"Master Hungarian {category_english} | 60 Essential Hungarian Phrases with Pronunciation | Velocity Hungarian",
+        f"Hungarian Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Speak Hungarian Fluently | {category_english} Phrases | English + Hungarian + Pronunciation",
     ]
 
-    description = f"""\U0001F1E9\U0001F1F0 Learn Danish with Velocity Danish! \U0001F1E9\U0001F1F0
+    description = f"""\U0001F1ED\U0001F1FA Learn Hungarian with Velocity Hungarian! \U0001F1ED\U0001F1FA
 
-In this video, you'll learn 60 essential Danish phrases about {category_english} ({category_danish}).
+In this video, you'll learn 60 essential Hungarian phrases about {category_english} ({category_hungarian}).
 Perfect for beginners and intermediate learners!
 
 \U0001F4DA WHAT YOU'LL LEARN:
-\u2022 60 practical {category_english} phrases in Danish
+\u2022 60 practical {category_english} phrases in Hungarian
 \u2022 Correct pronunciation guide
 \u2022 Natural pauses for speaking practice
 \u2022 Common expressions used by native speakers
@@ -866,15 +866,15 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Danish: {phrase['danish']}
+   Hungarian: {phrase['hungarian']}
     Pronunciation: {phrase['pronunciation']}
 """
 
     description += """
 \U0001F3AF PERFECT FOR:
-\u2022 Danish beginners wanting to expand vocabulary
+\u2022 Hungarian beginners wanting to expand vocabulary
 \u2022 Intermediate learners practicing pronunciation
-\u2022 Anyone interested in Danish language and culture
+\u2022 Anyone interested in Hungarian language and culture
 \u2022 Language enthusiasts and polyglots
 \u2022 Students preparing for exams
 
@@ -885,25 +885,25 @@ Perfect for beginners and intermediate learners!
 4. Write down phrases you find difficult
 5. Review this video multiple times
 
-\U0001F514 SUBSCRIBE for more Danish learning content!
+\U0001F514 SUBSCRIBE for more Hungarian learning content!
 \U0001F44D LIKE this video if you found it helpful!
 \U0001F4AC COMMENT which phrases you want to learn next!
 
-\U0001F4F1 FOLLOW VELOCITY DANISH:
+\U0001F4F1 FOLLOW VELOCITY HUNGARIAN:
 [Add your social media links here]
 
 \U0001F3B5 MUSIC:
 [Add music credits if applicable]
 
 \U0001F4D6 RELATED VIDEOS:
-\u2022 Danish Motivation Phrases
-\u2022 Danish Love Expressions
-\u2022 Basic Danish Greetings
+\u2022 Hungarian Motivation Phrases
+\u2022 Hungarian Love Expressions
+\u2022 Basic Hungarian Greetings
 
-#LearnDanish #DanishPhrases #DanishLanguage #{category_english.replace(' ', '')} #VelocityDanish #DanishForBeginners #SpeakDanish #DanishVocabulary #Pronunciation #LanguageLearning #Danish101 #DanishLesson
+#LearnHungarian #HungarianPhrases #HungarianLanguage #{category_english.replace(' ', '')} #VelocityHungarian #HungarianForBeginners #SpeakHungarian #HungarianVocabulary #Pronunciation #LanguageLearning #Hungarian101 #HungarianLesson
 
 ---
-\u00A9 Velocity Danish - Making Danish learning accessible to everyone!
+\u00A9 Velocity Hungarian - Making Hungarian learning accessible to everyone!
 """
 
     output_dir = Path(output_dir)
@@ -929,18 +929,18 @@ Perfect for beginners and intermediate learners!
         f.write("VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn Danish",
-            "Danish Phrases",
-            "Danish Language",
+            "Learn Hungarian",
+            "Hungarian Phrases",
+            "Hungarian Language",
             category_english,
-            "Velocity Danish",
-            "Danish for Beginners",
-            "Speak Danish",
-            "Danish Vocabulary",
+            "Velocity Hungarian",
+            "Hungarian for Beginners",
+            "Speak Hungarian",
+            "Hungarian Vocabulary",
             "Pronunciation",
             "Language Learning",
-            "Danish 101",
-            "Danish Lesson"
+            "Hungarian 101",
+            "Hungarian Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
@@ -949,7 +949,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_danish": category_danish,
+        "category_hungarian": category_hungarian,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1027,7 +1027,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_DANISH[category_english]})")
+    print(f"LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_HUNGARIAN[category_english]})")
     print(f"Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1039,7 +1039,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} -> {phrase['danish']}")
+        print(f"  {i}. {phrase['english']} -> {phrase['hungarian']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1059,10 +1059,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
             print(f"  gpt-image-2 thumbnail saved")
         else:
             print(f"  gpt-image-2 failed, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_DANISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_HUNGARIAN[category_english], str(thumbnail_path))
     except Exception as e:
         print(f"  Thumbnail error: {e}, using built-in")
-        generate_thumbnail(category_english, CATEGORIES_DANISH[category_english], str(thumbnail_path))
+        generate_thumbnail(category_english, CATEGORIES_HUNGARIAN[category_english], str(thumbnail_path))
 
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
 
@@ -1093,7 +1093,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
     title_meta = generate_title_description(
         category_english,
-        CATEGORIES_DANISH[category_english],
+        CATEGORIES_HUNGARIAN[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
@@ -1102,11 +1102,11 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     import json as _json
     from pathlib import Path as _Path
     meta_out = {
-        "title": title_meta.get("selected_title", f"Learn Danish: {category_english}"),
+        "title": title_meta.get("selected_title", f"Learn Hungarian: {category_english}"),
         "description": title_meta.get("description", ""),
-        "tags": ["Learn Danish", "Danish Phrases", "Danish", category_english, "Velocity Danish"],
+        "tags": ["Learn Hungarian", "Hungarian Phrases", "Hungarian", category_english, "Velocity Hungarian"],
         "category_english": category_english,
-        "category_danish": CATEGORIES_DANISH[category_english],
+        "category_hungarian": CATEGORIES_HUNGARIAN[category_english],
         "phrases_count": len(phrases),
         "duration_seconds": total_duration,
         "duration_minutes": total_duration / 60,
@@ -1131,7 +1131,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"  youtube_upload_info.txt (title + description + tags)")
     print(f"  Duration: {total_duration/60:.2f} minutes")
     print(f"  Phrases: {len(phrases)}")
-    print(f"  Branding: Velocity Danish")
+    print(f"  Branding: Velocity Hungarian")
     print(f"  Format: 16:9 (1920x1080)")
     print(f"{'='*80}\n")
 
@@ -1153,13 +1153,13 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Velocity Danish YouTube Long-form Video Generator")
+    parser = argparse.ArgumentParser(description="Velocity Hungarian YouTube Long-form Video Generator")
     parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate")
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("VELOCITY DANISH - YOUTUBE LONG-FORM AUTOMATION")
+    print("VELOCITY HUNGARIAN - YOUTUBE LONG-FORM AUTOMATION")
     print("="*80)
     print("\nFEATURES:")
     print("  16:9 format (1920x1080) for YouTube long-form")
@@ -1170,7 +1170,7 @@ if __name__ == "__main__":
     print("  NEVER repeats phrases (permanent history tracking)")
     print(f"\nAVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_DANISH[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_HUNGARIAN[cat]})")
     print(f"\nVIDEO SPECIFICATIONS:")
     print(f"  Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  Frame Rate: {FPS} FPS")

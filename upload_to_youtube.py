@@ -1,5 +1,5 @@
 """
-YouTube Upload Script for Velocity Danish
+YouTube Upload Script for Velocity Hungarian
 """
 
 import os, sys, json
@@ -58,7 +58,7 @@ def upload_to_youtube(video_info):
 
     youtube = build("youtube", "v3", credentials=credentials)
 
-    title = "Learn Danish with Velocity Danish"
+    title = "Learn Hungarian with Velocity Hungarian"
     description = ""
     if video_info.get("metadata"):
         with open(video_info["metadata"], "r", encoding="utf-8") as f:
@@ -68,7 +68,7 @@ def upload_to_youtube(video_info):
 
     video_metadata = {
         "snippet": {"title": title, "description": description[:4800],
-                     "tags": ["Learn Danish", "Danish Phrases", "Danish Language", "Velocity Danish", "Danish for Beginners"],
+                     "tags": ["Learn Hungarian", "Hungarian Phrases", "Hungarian Language", "Velocity Hungarian", "Hungarian for Beginners"],
                      "categoryId": "27"},
         "status": {"privacyStatus": "public", "selfDeclaredMadeForKids": False}
     }
@@ -99,7 +99,7 @@ def upload_to_youtube(video_info):
 
 
 def main():
-    print("VELOCITY DANISH - YOUTUBE UPLOADER")
+    print("VELOCITY HUNGARIAN - YOUTUBE UPLOADER")
     video_info = get_latest_video()
     if not video_info:
         print("No video found to upload")

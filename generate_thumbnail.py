@@ -7,18 +7,18 @@ load_dotenv()
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
 
 SCENIC_STYLES = [
-    "stunning Danish woman in traditional attire, Nyhavn Copenhagen, colorful waterfront houses, sunny day",
-    "elegant Danish woman in modern clothing, Tivoli Gardens, Copenhagen, vintage architecture, evening lights",
-    "beautiful Danish woman in casual wear, Kronborg Castle, Helsing\u00f8r, ocean view, sunset glow",
-    "Danish girl at white sand beach, Skagen, Grenen, crystal clear water, turquoise sea, two oceans meeting",
-    "gorgeous Danish woman in traditional folk costume, Roskilde Cathedral, spring flowers, golden hour",
-    "beautiful Danish woman with Danish flag, Amalienborg Palace, Copenhagen, soft morning light",
-    "Danish woman in traditional attire, Christiansborg Palace, Copenhagen canals, vibrant atmosphere",
-    "elegant Danish woman, Aarhus old town, cobblestone streets, peaceful blue hour, cozy atmosphere",
+    "stunning Hungarian woman in traditional folk attire, Budapest Parliament, Danube River, sunny day",
+    "elegant Hungarian woman in modern clothing, Buda Castle, Chain Bridge, evening lights, romantic atmosphere",
+    "beautiful Hungarian woman in casual wear, Fisherman's Bastion, Matthias Church, sunset glow over Budapest",
+    "Hungarian girl at thermal spa, Széchenyi Baths, Budapest, golden hour, steaming pools, elegant architecture",
+    "gorgeous Hungarian woman in traditional folk costume, Heroes' Square, spring flowers, golden hour",
+    "beautiful Hungarian woman with Hungarian flag, Vajdahunyad Castle, City Park, soft morning light",
+    "Hungarian woman in traditional attire, Szentendre old town, cobblestone streets, Danube bend, vibrant atmosphere",
+    "elegant Hungarian woman, Lake Balaton, Tihany Abbey, lavender fields, peaceful blue hour, cozy atmosphere",
 ]
 
 
-def generate_scenic_image(category_english: str, category_danish: str, output_path: str):
+def generate_scenic_image(category_english: str, category_hungarian: str, output_path: str):
     if POLLINATIONS_API_KEY:
         import time as ttime
         session = requests.Session()
@@ -26,12 +26,12 @@ def generate_scenic_image(category_english: str, category_danish: str, output_pa
         for attempt in range(4):
             style = random.choice(SCENIC_STYLES)
             prompt = (
-                f"Professional YouTube thumbnail for Danish language learning video. "
+                f"Professional YouTube thumbnail for Hungarian language learning video. "
                 f"{style}. "
                 f"16:9 landscape 1920x1080 exact. High contrast, vibrant, click-worthy. "
                 f"Important: The image MUST contain the following text rendered in bold clear font: "
-                f"At top: '120 DANISH PHRASES'. In center: '{category_english}'. "
-                f"At bottom: 'VELOCITY DANISH'. Also: '10 MINUTE LESSON' badge."
+                f"At top: '120 HUNGARIAN PHRASES'. In center: '{category_english}'. "
+                f"At bottom: 'VELOCITY HUNGARIAN'. Also: '10 MINUTE LESSON' badge."
             )
             try:
                 resp = session.post("https://gen.pollinations.ai/v1/images/generations", json={
@@ -96,7 +96,7 @@ def generate_scenic_image(category_english: str, category_danish: str, output_pa
     f_sub = load_font(en_fonts, 55)
     f_brand = load_font(en_fonts, 45)
 
-    draw.text((960, 180), "120 DANISH PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
+    draw.text((960, 180), "120 HUNGARIAN PHRASES", fill=(255, 210, 0), font=f_big, anchor="mm")
 
     cat_text = category_english
     bb = draw.textbbox((0, 0), cat_text, font=f_cat)
@@ -108,7 +108,7 @@ def generate_scenic_image(category_english: str, category_danish: str, output_pa
     draw.rounded_rectangle([(960 - 200, 580), (960 + 200, 670)], radius=15, fill=(0, 0, 0, 180))
     draw.text((960, 625), "10 MINUTE LESSON", fill=(255, 210, 0), font=f_sub, anchor="mm")
 
-    brand_text = "VELOCITY DANISH"
+    brand_text = "VELOCITY HUNGARIAN"
     bb = draw.textbbox((0, 0), brand_text, font=f_brand)
     draw.text(((1920 - (bb[2] - bb[0])) // 2, 950), brand_text, fill=(200, 200, 200), font=f_brand)
 
