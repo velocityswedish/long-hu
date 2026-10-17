@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "What's up, dude?",
+      "hungarian": "Mi újság, haver?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260129"
+    },
+    {
+      "english": "No way, really?",
+      "hungarian": "Nem hiszem, komolyan?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260149"
+    },
+    {
+      "english": "Totally, I agree.",
+      "hungarian": "Teljesen, egyetértek.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260155"
+    },
+    {
+      "english": "I'm so tired.",
+      "hungarian": "Borzasztóan fáradt vagyok.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260159"
+    },
+    {
+      "english": "Let's go, hurry!",
+      "hungarian": "Gyerünk, siess!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260164"
+    },
+    {
+      "english": "That's awesome, cool!",
+      "hungarian": "Ez király, menő!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260168"
+    },
+    {
+      "english": "I don't know.",
+      "hungarian": "Nem tudom.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260172"
+    },
+    {
+      "english": "It's okay, no problem.",
+      "hungarian": "Rendben, semmi gond.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260180"
+    },
+    {
+      "english": "What do you want?",
+      "hungarian": "Mit szeretnél?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260185"
+    },
+    {
+      "english": "Just chilling, you?",
+      "hungarian": "Csak pihenek, te?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260190"
+    },
+    {
+      "english": "I'm hungry, let's eat.",
+      "hungarian": "Éhes vagyok, együnk.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260194"
+    },
+    {
+      "english": "See you later, bye!",
+      "hungarian": "Szia, majd találkozunk!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260197"
+    },
+    {
+      "english": "That sucks, man.",
+      "hungarian": "Ez gáz, öregem.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260201"
+    },
+    {
+      "english": "I'm bored, seriously.",
+      "hungarian": "Unatkozom, komolyan.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260204"
+    },
+    {
+      "english": "Can you help me?",
+      "hungarian": "Tudsz segíteni?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260208"
+    },
+    {
+      "english": "What a mess!",
+      "hungarian": "Micsoda káosz!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260211"
+    },
+    {
+      "english": "He's a good guy.",
+      "hungarian": "Ő egy rendes pali.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260215"
+    },
+    {
+      "english": "She's a cool girl.",
+      "hungarian": "Ő egy szuper csaj.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260219"
+    },
+    {
+      "english": "Let's hang out.",
+      "hungarian": "Lógjunk egy kicsit.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260224"
+    },
+    {
+      "english": "I'm broke, unfortunately.",
+      "hungarian": "Nincs pénzem, sajnos.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260228"
+    },
+    {
+      "english": "It's freezing cold.",
+      "hungarian": "Fagyos hideg van.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260231"
+    },
+    {
+      "english": "It's boiling hot.",
+      "hungarian": "Tikkasztó meleg van.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260235"
+    },
+    {
+      "english": "Be careful, watch out!",
+      "hungarian": "Vigyázz, figyelj!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260238"
+    },
+    {
+      "english": "I'm confused.",
+      "hungarian": "Zavaros vagyok.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260242"
+    },
+    {
+      "english": "What's the plan?",
+      "hungarian": "Mi a terv?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260245"
+    },
+    {
+      "english": "It's complicated.",
+      "hungarian": "Ez bonyolult.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260249"
+    },
+    {
+      "english": "Don't worry about it.",
+      "hungarian": "Ne aggódj miatta.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260252"
+    },
+    {
+      "english": "That's hilarious!",
+      "hungarian": "Ez vicces!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260255"
+    },
+    {
+      "english": "Let's get some food.",
+      "hungarian": "Együnk valamit.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260259"
+    },
+    {
+      "english": "I'm exhausted, done.",
+      "hungarian": "Kimerültem, kész.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260262"
+    },
+    {
+      "english": "So, what's new with you?",
+      "hungarian": "Hát, mi újság veled?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260267"
+    },
+    {
+      "english": "Can you explain that a bit?",
+      "hungarian": "El tudnád ezt magyarázni egy kicsit?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260271"
+    },
+    {
+      "english": "What do you think about this?",
+      "hungarian": "Mit gondolsz erről?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260274"
+    },
+    {
+      "english": "Is this correct, perhaps?",
+      "hungarian": "Ez így jó, esetleg?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260279"
+    },
+    {
+      "english": "How did you get here?",
+      "hungarian": "Hogy jöttél ide?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260282"
+    },
+    {
+      "english": "What are you up to later?",
+      "hungarian": "Mit csinálsz később?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260286"
+    },
+    {
+      "english": "Could you lend me a hand?",
+      "hungarian": "Tudnál segíteni nekem?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260290"
+    },
+    {
+      "english": "Where can I find that?",
+      "hungarian": "Hol találom ezt meg?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260293"
+    },
+    {
+      "english": "Do you need anything?",
+      "hungarian": "Szükséged van valamire?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260297"
+    },
+    {
+      "english": "What's your opinion, really?",
+      "hungarian": "Mi a véleményed, komolyan?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260301"
+    },
+    {
+      "english": "Are we on the same page?",
+      "hungarian": "Egyetértünk ebben?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260318"
+    },
+    {
+      "english": "What's the best way?",
+      "hungarian": "Mi a legjobb út?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260322"
+    },
+    {
+      "english": "Did you hear about this?",
+      "hungarian": "Hallottál erről?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260326"
+    },
+    {
+      "english": "How do you feel about it?",
+      "hungarian": "Hogy érzed ezt?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260329"
+    },
+    {
+      "english": "Can I ask you something?",
+      "hungarian": "Kérdezhetek valamit?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260332"
+    },
+    {
+      "english": "What's the story here?",
+      "hungarian": "Mi a sztori itt?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260336"
+    },
+    {
+      "english": "Are you sure about this?",
+      "hungarian": "Biztos vagy ebben?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260339"
+    },
+    {
+      "english": "What did you mean by that?",
+      "hungarian": "Mit értettél ezalatt?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260343"
+    },
+    {
+      "english": "Is this going well?",
+      "hungarian": "Ez így megy rendesen?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260346"
+    },
+    {
+      "english": "What's the catch, though?",
+      "hungarian": "Mi a bibi, azért?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260350"
+    },
+    {
+      "english": "Could you show me how?",
+      "hungarian": "Meg tudnád mutatni, hogy?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260353"
+    },
+    {
+      "english": "What are your thoughts on this?",
+      "hungarian": "Mik a gondolataid erről?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260356"
+    },
+    {
+      "english": "Is there any other option?",
+      "hungarian": "Van más lehetőség?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260359"
+    },
+    {
+      "english": "What were you thinking?",
+      "hungarian": "Mit gondoltál?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260363"
+    },
+    {
+      "english": "How was your day, roughly?",
+      "hungarian": "Hogy telt a napod, nagyjából?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260367"
+    },
+    {
+      "english": "Do you have any advice?",
+      "hungarian": "Van valami tanácsod?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260370"
+    },
+    {
+      "english": "What's the situation now?",
+      "hungarian": "Mi a helyzet most?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260373"
+    },
+    {
+      "english": "Can we talk about this?",
+      "hungarian": "Beszélhetünk erről?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260377"
+    },
+    {
+      "english": "What do you recommend?",
+      "hungarian": "Mit ajánlasz?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260380"
+    },
+    {
+      "english": "Is everything alright, then?",
+      "hungarian": "Minden rendben, tehát?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260387"
+    },
+    {
+      "english": "He's really got a screw loose.",
+      "hungarian": "Elgurult a gyógyszere.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260391"
+    },
+    {
+      "english": "It's raining cats and dogs.",
+      "hungarian": "Szakad az eső.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260394"
+    },
+    {
+      "english": "Don't beat around the bush.",
+      "hungarian": "Ne kertelj, mondd el!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260398"
+    },
+    {
+      "english": "That’s a piece of cake.",
+      "hungarian": "Ez egy gyerekjáték.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260405"
+    },
+    {
+      "english": "He's really tight with money.",
+      "hungarian": "Nagyon szűkmarkú.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260408"
+    },
+    {
+      "english": "That’s old news.",
+      "hungarian": "Ez már elcsépelt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260412"
+    },
+    {
+      "english": "I'm really fed up.",
+      "hungarian": "Elegem van belőle.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260418"
+    },
+    {
+      "english": "He's talking nonsense.",
+      "hungarian": "Hülyeségeket beszél.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260460"
+    },
+    {
+      "english": "Let's call it a day.",
+      "hungarian": "Befejezzük mára.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260467"
+    },
+    {
+      "english": "It's a tough nut to crack.",
+      "hungarian": "Nehéz dió.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260470"
+    },
+    {
+      "english": "He's a know-it-all.",
+      "hungarian": "Minden lében kanál.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260474"
+    },
+    {
+      "english": "That's totally random.",
+      "hungarian": "Ez teljesen véletlen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260477"
+    },
+    {
+      "english": "It's out of the blue.",
+      "hungarian": "Váratlanul jött.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260479"
+    },
+    {
+      "english": "He's got a sweet tooth.",
+      "hungarian": "Édesszájú.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260482"
+    },
+    {
+      "english": "That’s water under the bridge.",
+      "hungarian": "Ez már a múlt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260487"
+    },
+    {
+      "english": "He's not the sharpest tool.",
+      "hungarian": "Nem túl eszes.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260490"
+    },
+    {
+      "english": "It hit the nail on the head.",
+      "hungarian": "A lényeget találta el.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260495"
+    },
+    {
+      "english": "That’s a huge deal.",
+      "hungarian": "Ez nagy ügy.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260501"
+    },
+    {
+      "english": "He's a real whiz kid.",
+      "hungarian": "Zseniális gyerek.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260504"
+    },
+    {
+      "english": "It costs an arm and a leg.",
+      "hungarian": "Horror ára van.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260506"
+    },
+    {
+      "english": "That's just the tip of the iceberg.",
+      "hungarian": "Ez csak a jéghegy csúcsa.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260509"
+    },
+    {
+      "english": "He's got a short fuse.",
+      "hungarian": "Könnyen felrobban.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260512"
+    },
+    {
+      "english": "That's no skin off my nose.",
+      "hungarian": "Nem az én dolgom.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260514"
+    },
+    {
+      "english": "He's a busy bee.",
+      "hungarian": "Nagyon elfoglalt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260518"
+    },
+    {
+      "english": "That's a common cold.",
+      "hungarian": "Ez egy közönséges nátha.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260520"
+    },
+    {
+      "english": "He's pulling my leg.",
+      "hungarian": "Hülyére vesz.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260523"
+    },
+    {
+      "english": "That's a wild goose chase.",
+      "hungarian": "Hiábavaló keresés.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260526"
+    },
+    {
+      "english": "He's a wolf in sheep's clothing.",
+      "hungarian": "Róka a báránybőrben.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260529"
+    },
+    {
+      "english": "That's a drop in the ocean.",
+      "hungarian": "Ez csak egy csepp a tengerben.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260532"
+    },
+    {
+      "english": "He's got a heart of gold.",
+      "hungarian": "Arany szíve van.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260535"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "hungarian": "Szánj rá időt, ne siess.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260541"
+    },
+    {
+      "english": "It's all good, seriously.",
+      "hungarian": "Minden rendben, komolyan.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260544"
+    },
+    {
+      "english": "I'm just thinking aloud.",
+      "hungarian": "Csak hangosan gondolkodom.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260547"
+    },
+    {
+      "english": "That's how it is, you know?",
+      "hungarian": "Így van, tudod?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260552"
+    },
+    {
+      "english": "Just be patient with me.",
+      "hungarian": "Légy türelmes velem.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260555"
+    },
+    {
+      "english": "I'm trying to figure it out.",
+      "hungarian": "Próbálom kibogozni.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260558"
+    },
+    {
+      "english": "What do you truly feel?",
+      "hungarian": "Mit érzel igazán?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260561"
+    },
+    {
+      "english": "Let's give it some thought.",
+      "hungarian": "Gondoljuk meg.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260564"
+    },
+    {
+      "english": "This is quite revealing.",
+      "hungarian": "Ez elég elgondolkodtató.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260566"
+    },
+    {
+      "english": "I need a moment, okay?",
+      "hungarian": "Szükségem van egy percre, oké?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260569"
+    },
+    {
+      "english": "It really makes you think.",
+      "hungarian": "Elgondolkodásra késztet.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260571"
+    },
+    {
+      "english": "My gut feeling says no.",
+      "hungarian": "A gyomrom azt mondja, nem.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260574"
+    },
+    {
+      "english": "I'm being completely honest.",
+      "hungarian": "Teljesen őszinte vagyok.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260576"
+    },
+    {
+      "english": "This requires deep reflection.",
+      "hungarian": "Ez mély elgondolkodást igényel.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260579"
+    },
+    {
+      "english": "Just be understanding, please.",
+      "hungarian": "Csak légy megértő, kérlek.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260582"
+    },
+    {
+      "english": "What's truly on your mind?",
+      "hungarian": "Mi jár az eszedben igazán?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260585"
+    },
+    {
+      "english": "It's a bit of a puzzle.",
+      "hungarian": "Ez egy kis rejtély.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260587"
+    },
+    {
+      "english": "I'm just processing this.",
+      "hungarian": "Csak feldolgozom ezt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260590"
+    },
+    {
+      "english": "Let's see how this plays out.",
+      "hungarian": "Nézzük, hogyan alakul.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260593"
+    },
+    {
+      "english": "It’s a sensitive topic.",
+      "hungarian": "Ez egy érzékeny téma.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260597"
+    },
+    {
+      "english": "Can you tell me honestly?",
+      "hungarian": "Elmondanád őszintén?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260599"
+    },
+    {
+      "english": "I need to reflect on this.",
+      "hungarian": "Ezen el kell gondolkodnom.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260602"
+    },
+    {
+      "english": "It's not that simple.",
+      "hungarian": "Nem olyan egyszerű.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260604"
+    },
+    {
+      "english": "This is deeply personal.",
+      "hungarian": "Ez mélyen személyes.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260607"
+    },
+    {
+      "english": "I'm trying to be patient.",
+      "hungarian": "Próbálok türelmes lenni.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260609"
+    },
+    {
+      "english": "It’s a matter of trust.",
+      "hungarian": "Ez bizodalmi kérdés.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260612"
+    },
+    {
+      "english": "What's your honest opinion?",
+      "hungarian": "Mi a őszinte véleményed?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260615"
+    },
+    {
+      "english": "We need to talk, really.",
+      "hungarian": "Beszélnünk kell, komolyan.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260617"
+    },
+    {
+      "english": "No worries, man, chill out.",
+      "hungarian": "Semmi gond, haver, lazíts.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260620"
+    },
+    {
+      "english": "Let's grab a quick bite.",
+      "hungarian": "Együnk valamit gyorsan.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T07:15:24.260626"
+    }
+  ],
+  "last_updated": "2026-10-17T07:15:24.260628"
+}
