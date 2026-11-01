@@ -719,7 +719,727 @@
       "hungarian": "Együnk valamit gyorsan.",
       "category": "Common Native Slang",
       "generated_at": "2026-10-17T07:15:24.260626"
+    },
+    {
+      "english": "Hello, nice to meet you.",
+      "hungarian": "Szia, örvendek.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348346"
+    },
+    {
+      "english": "Good morning, how are you?",
+      "hungarian": "Jó reggelt, hogy vagy?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348362"
+    },
+    {
+      "english": "Good afternoon, sir.",
+      "hungarian": "Jó napot, uram.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348367"
+    },
+    {
+      "english": "Good evening, madam.",
+      "hungarian": "Jó estét, hölgyem.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348371"
+    },
+    {
+      "english": "What's your name?",
+      "hungarian": "Mi a neved?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348376"
+    },
+    {
+      "english": "My name is Anna.",
+      "hungarian": "Anna vagyok.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348379"
+    },
+    {
+      "english": "Where are you from?",
+      "hungarian": "Honnan jössz?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348387"
+    },
+    {
+      "english": "I'm from America.",
+      "hungarian": "Amerikából jövök.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348394"
+    },
+    {
+      "english": "How long have you been here?",
+      "hungarian": "Mióta vagy itt?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348399"
+    },
+    {
+      "english": "Just arrived, actually.",
+      "hungarian": "Most érkeztem, igazából.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348403"
+    },
+    {
+      "english": "Welcome to Hungary!",
+      "hungarian": "Üdvözöllek Magyarországon!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348407"
+    },
+    {
+      "english": "Thanks, it's beautiful here.",
+      "hungarian": "Köszönöm, gyönyörű hely.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348411"
+    },
+    {
+      "english": "Goodbye, have a good day.",
+      "hungarian": "Viszlát, szép napot!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348415"
+    },
+    {
+      "english": "It was nice meeting you.",
+      "hungarian": "Örültem, hogy találkoztunk.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348419"
+    },
+    {
+      "english": "How's it going?",
+      "hungarian": "Hogy megy?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348423"
+    },
+    {
+      "english": "Not bad, thanks.",
+      "hungarian": "Nem rossz, köszi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348427"
+    },
+    {
+      "english": "Everything okay?",
+      "hungarian": "Minden rendben?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348430"
+    },
+    {
+      "english": "Yes, all good.",
+      "hungarian": "Igen, minden oké.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348435"
+    },
+    {
+      "english": "What are you doing here?",
+      "hungarian": "Mit keresel itt?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348438"
+    },
+    {
+      "english": "Just looking around.",
+      "hungarian": "Csak nézelődöm.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348445"
+    },
+    {
+      "english": "No, thank you.",
+      "hungarian": "Nem, köszönöm.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348448"
+    },
+    {
+      "english": "A pleasure to meet you.",
+      "hungarian": "Nagy öröm volt megismerni.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348452"
+    },
+    {
+      "english": "And you, how are you?",
+      "hungarian": "És te, hogy vagy?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348456"
+    },
+    {
+      "english": "Are you Hungarian?",
+      "hungarian": "Magyar vagy?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348460"
+    },
+    {
+      "english": "No, I'm a tourist.",
+      "hungarian": "Nem, turista vagyok.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348466"
+    },
+    {
+      "english": "Do you speak English?",
+      "hungarian": "Beszélsz angolul?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348470"
+    },
+    {
+      "english": "A little bit.",
+      "hungarian": "Kicsit.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348473"
+    },
+    {
+      "english": "Nice weather today, isn't it?",
+      "hungarian": "Szép idő ma, nem?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348478"
+    },
+    {
+      "english": "Can I ask a quick question?",
+      "hungarian": "Szabad egy gyors kérdést feltenni?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348482"
+    },
+    {
+      "english": "What brings you to Budapest?",
+      "hungarian": "Mi vonz ide Budapesthez?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348487"
+    },
+    {
+      "english": "Are you visiting, or do you live here?",
+      "hungarian": "Látogatóban vagy, vagy itt élsz?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348491"
+    },
+    {
+      "english": "Have you tried the local food yet?",
+      "hungarian": "Kóstoltad már a helyi ételeket?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348495"
+    },
+    {
+      "english": "Where's the best place for goulash?",
+      "hungarian": "Hol a legjobb hely a gulyáshoz?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348499"
+    },
+    {
+      "english": "Could you recommend a good restaurant?",
+      "hungarian": "Tudnál ajánlani egy jó éttermet?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348503"
+    },
+    {
+      "english": "What's the most interesting sight?",
+      "hungarian": "Mi a legérdekesebb látnivaló?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348507"
+    },
+    {
+      "english": "Do you have any tips for tourists?",
+      "hungarian": "Van néhány tipped a turistáknak?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348511"
+    },
+    {
+      "english": "How do Hungarians usually greet each other?",
+      "hungarian": "Hogyan szoktak a magyarok üdvözölni egymást?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348515"
+    },
+    {
+      "english": "Is it common to shake hands?",
+      "hungarian": "Gyakori a kézfogás?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348519"
+    },
+    {
+      "english": "What's a polite way to say goodbye?",
+      "hungarian": "Mi a illedelmes búcsú?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348523"
+    },
+    {
+      "english": "Can you help me with this word?",
+      "hungarian": "Tudnál segíteni ezzel a szóval?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348527"
+    },
+    {
+      "english": "What does that mean, exactly?",
+      "hungarian": "Mit jelent pontosan az?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348534"
+    },
+    {
+      "english": "I'm trying to learn some Hungarian.",
+      "hungarian": "Próbálok tanulni egy kis magyart.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348538"
+    },
+    {
+      "english": "That's very kind of you.",
+      "hungarian": "Ez nagyon kedves tőled.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348542"
+    },
+    {
+      "english": "Could you speak a little slower?",
+      "hungarian": "Tudnál kicsit lassabban beszélni?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348546"
+    },
+    {
+      "english": "Are you enjoying your stay?",
+      "hungarian": "Élvezed a tartózkodást?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348550"
+    },
+    {
+      "english": "What's the best way to get around?",
+      "hungarian": "Mi a legjobb mód közlekedni?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348553"
+    },
+    {
+      "english": "Do you have plans for the evening?",
+      "hungarian": "Vannak terveid estére?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348557"
+    },
+    {
+      "english": "It's nice meeting new people.",
+      "hungarian": "Jó új embereket megismerni.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348561"
+    },
+    {
+      "english": "What's your favorite thing about Hungary?",
+      "hungarian": "Mi a kedvenc dolgod Magyarországgal kapcsolatban?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348565"
+    },
+    {
+      "english": "Can I join you for a moment?",
+      "hungarian": "Csatlakozhatok hozzátok egy percre?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348569"
+    },
+    {
+      "english": "How do locals usually interact?",
+      "hungarian": "Hogyan szoktak a helyiek társalogni?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348573"
+    },
+    {
+      "english": "Is there anything I should avoid?",
+      "hungarian": "Van valami, amit kerülnöm kell?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348579"
+    },
+    {
+      "english": "What's a typical Hungarian greeting?",
+      "hungarian": "Mi a tipikus magyar üdvözlés?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348583"
+    },
+    {
+      "english": "Are you here for business or pleasure?",
+      "hungarian": "Üzleti vagy magánügyben vagy itt?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348588"
+    },
+    {
+      "english": "Can you show me on the map?",
+      "hungarian": "Meg tudnád mutatni a térképen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348592"
+    },
+    {
+      "english": "I'm looking for a specific place.",
+      "hungarian": "Egy konkrét helyet keresek.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348596"
+    },
+    {
+      "english": "Thanks for the chat!",
+      "hungarian": "Köszi a beszélgetést!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348599"
+    },
+    {
+      "english": "Hope to see you around.",
+      "hungarian": "Remélem, találkozunk még.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348603"
+    },
+    {
+      "english": "You've got this, just be friendly.",
+      "hungarian": "Sikerülni fog, legyél barátságos.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348608"
+    },
+    {
+      "english": "Every conversation is a learning opportunity.",
+      "hungarian": "Minden beszélgetés tanulási lehetőség.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348612"
+    },
+    {
+      "english": "Don't be afraid, just smile.",
+      "hungarian": "Ne félj, csak mosolyogj.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348616"
+    },
+    {
+      "english": "You're doing great, keep practicing!",
+      "hungarian": "Remekül csinálod, csak gyakorolj!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348620"
+    },
+    {
+      "english": "Every small step counts.",
+      "hungarian": "Minden kis lépés számít.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348624"
+    },
+    {
+      "english": "Your effort is truly appreciated.",
+      "hungarian": "Igazán értékeljük az erőfeszítésedet.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348628"
+    },
+    {
+      "english": "Be open, be curious, connect.",
+      "hungarian": "Légy nyitott, légy kíváncsi, kapcsolódj.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348632"
+    },
+    {
+      "english": "This will get easier with practice.",
+      "hungarian": "Ez gyakorlással könnyebb lesz.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348636"
+    },
+    {
+      "english": "You're making good progress.",
+      "hungarian": "Szép haladást mutatsz.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348641"
+    },
+    {
+      "english": "Believe in your ability to connect.",
+      "hungarian": "Higgy a kapcsolódási képességedben.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348644"
+    },
+    {
+      "english": "Just be yourself, that's enough.",
+      "hungarian": "Légy önmagad, az elég.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348648"
+    },
+    {
+      "english": "Every interaction builds confidence.",
+      "hungarian": "Minden interakció növeli az önbizalmat.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348652"
+    },
+    {
+      "english": "You're doing wonderfully, keep going!",
+      "hungarian": "Csodásan csinálod, csak így tovább!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348656"
+    },
+    {
+      "english": "Embrace the new experiences.",
+      "hungarian": "Éld át az új élményeket.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348660"
+    },
+    {
+      "english": "Your Hungarian is improving, I can tell.",
+      "hungarian": "Javul a magyarod, látom.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348664"
+    },
+    {
+      "english": "Be brave, try talking to someone.",
+      "hungarian": "Légy bátor, próbálj beszélni valakivel.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348671"
+    },
+    {
+      "english": "It's okay to make mistakes.",
+      "hungarian": "Rendben van, ha hibázol.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348675"
+    },
+    {
+      "english": "Focus on the positive connection.",
+      "hungarian": "Koncentrálj a pozitív kapcsolatra.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348681"
+    },
+    {
+      "english": "You're a natural, really.",
+      "hungarian": "Természetes vagy, igazán.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348686"
+    },
+    {
+      "english": "Don't overthink it, just engage.",
+      "hungarian": "Ne gondold túl, csak kezdeményezz.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348690"
+    },
+    {
+      "english": "You're doing a fantastic job.",
+      "hungarian": "Fantasztikusan csinálod.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348694"
+    },
+    {
+      "english": "Keep that positive attitude.",
+      "hungarian": "Tartsd meg azt a pozitív hozzáállást.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348697"
+    },
+    {
+      "english": "Every conversation is a success.",
+      "hungarian": "Minden beszélgetés siker.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348701"
+    },
+    {
+      "english": "You're learning so much, I'm proud.",
+      "hungarian": "Sokat tanulsz, büszke vagyok.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348707"
+    },
+    {
+      "english": "Embrace the challenge, it's worth it.",
+      "hungarian": "Fogadd el a kihívást, megéri.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348714"
+    },
+    {
+      "english": "Your Hungarian sounds very good.",
+      "hungarian": "Nagyon jól hangzik a magyarod.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348735"
+    },
+    {
+      "english": "Just be friendly, and listen well.",
+      "hungarian": "Légy barátságos, és figyelj jól.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348738"
+    },
+    {
+      "english": "You're making genuine connections.",
+      "hungarian": "Igazi kapcsolatokat építesz.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348741"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "hungarian": "Ne add fel, már majdnem kész vagy.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348748"
+    },
+    {
+      "english": "Your confidence will grow naturally.",
+      "hungarian": "Az önbizalmad természetesen nőni fog.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348751"
+    },
+    {
+      "english": "It's a genuine pleasure meeting you.",
+      "hungarian": "Őszintén örülök, hogy megismertelek.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348754"
+    },
+    {
+      "english": "I feel a real connection here.",
+      "hungarian": "Valódi kapcsolatot érzek itt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348757"
+    },
+    {
+      "english": "This conversation is quite insightful.",
+      "hungarian": "Ez a beszélgetés elég tanulságos.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348760"
+    },
+    {
+      "english": "I appreciate your honest perspective.",
+      "hungarian": "Nagyra értékelem őszinte nézőpontodat.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348764"
+    },
+    {
+      "english": "Let's take our time, no rush.",
+      "hungarian": "Szánjunk rá időt, sietség nélkül.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348767"
+    },
+    {
+      "english": "Your kindness really means a lot.",
+      "hungarian": "A kedvességed sokat jelent nekem.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348770"
+    },
+    {
+      "english": "I'm reflecting on our shared moments.",
+      "hungarian": "A közös pillanatainkon gondolkodom.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348773"
+    },
+    {
+      "english": "This feels like a meaningful encounter.",
+      "hungarian": "Ez egy értelmes találkozásnak tűnik.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348776"
+    },
+    {
+      "english": "I'm grateful for this moment.",
+      "hungarian": "Hálás vagyok ezért a pillanatért.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348780"
+    },
+    {
+      "english": "It's good to be open-minded.",
+      "hungarian": "Jó nyitott elmével lenni.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348783"
+    },
+    {
+      "english": "Patience is a virtue, I've learned.",
+      "hungarian": "A türelem erény, ezt megtanultam.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348787"
+    },
+    {
+      "english": "I feel understood when we talk.",
+      "hungarian": "Megértettnek érzem magam, amikor beszélünk.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348790"
+    },
+    {
+      "english": "This connection feels quite profound.",
+      "hungarian": "Ez a kapcsolat igen mélynek érződik.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348793"
+    },
+    {
+      "english": "I'm happy we had this chat.",
+      "hungarian": "Örülök, hogy ezt a beszélgetést lefolytattuk.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348796"
+    },
+    {
+      "english": "Let's savor this interaction.",
+      "hungarian": "Ízleljük meg ezt a kölcsönhatást.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348799"
+    },
+    {
+      "english": "Your words resonate with me.",
+      "hungarian": "Szavaid visszhangra találnak bennem.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348802"
+    },
+    {
+      "english": "I'm learning so much about myself.",
+      "hungarian": "Annyi mindent tanulok magamról.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348805"
+    },
+    {
+      "english": "This encounter has been very uplifting.",
+      "hungarian": "Ez a találkozás nagyon felemelő volt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348808"
+    },
+    {
+      "english": "I feel a sense of peace now.",
+      "hungarian": "Nyugalmat érzek most.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348814"
+    },
+    {
+      "english": "Thank you for your genuine openness.",
+      "hungarian": "Köszönöm az őszinte nyitottságodat.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348817"
+    },
+    {
+      "english": "This conversation has deep meaning.",
+      "hungarian": "Ennek a beszélgetésnek mély értelme van.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348820"
+    },
+    {
+      "english": "I'm glad we took the time.",
+      "hungarian": "Örülök, hogy rászántuk az időt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348823"
+    },
+    {
+      "english": "Your perspective is truly valuable.",
+      "hungarian": "A te nézőpontod igazán értékes.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348826"
+    },
+    {
+      "english": "Let's continue this thoughtful exchange.",
+      "hungarian": "Folytassuk ezt a figyelmes cserét.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348829"
+    },
+    {
+      "english": "I feel a quiet understanding.",
+      "hungarian": "Csendes megértést érzek.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348833"
+    },
+    {
+      "english": "This meeting was truly enriching.",
+      "hungarian": "Ez a találkozás igazán gazdagító volt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348836"
+    },
+    {
+      "english": "I'm taking this feeling with me.",
+      "hungarian": "Ezt az érzést magammal viszem.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348842"
+    },
+    {
+      "english": "It's good to connect on this level.",
+      "hungarian": "Jó ezen a szinten kapcsolódni.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348845"
+    },
+    {
+      "english": "Thank you for sharing your thoughts.",
+      "hungarian": "Köszönöm, hogy megosztottad a gondolataid.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348848"
+    },
+    {
+      "english": "Hello, how are you today?",
+      "hungarian": "Szia, hogy vagy ma?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348851"
+    },
+    {
+      "english": "Nice to meet you, my name is...",
+      "hungarian": "Örülök, hogy megismerlek, a nevem...",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348855"
+    },
+    {
+      "english": "What do you do for work?",
+      "hungarian": "Mivel foglalkozol?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-01T09:50:30.348858"
     }
   ],
-  "last_updated": "2026-10-17T07:15:24.260628"
+  "last_updated": "2026-11-01T09:50:30.348860"
 }
