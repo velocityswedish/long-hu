@@ -1439,7 +1439,727 @@
       "hungarian": "Mivel foglalkozol?",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-11-01T09:50:30.348858"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "hungarian": "Kérem a számlát.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153736"
+    },
+    {
+      "english": "How much is it, exactly?",
+      "hungarian": "Mennyibe kerül pontosan?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153751"
+    },
+    {
+      "english": "It's too expensive, sorry.",
+      "hungarian": "Túl drága, sajnos.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153755"
+    },
+    {
+      "english": "Do you accept cards?",
+      "hungarian": "Elfogadnak kártyát?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153758"
+    },
+    {
+      "english": "I'd like to pay cash.",
+      "hungarian": "Készpénzzel szeretnék fizetni.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153762"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "hungarian": "Hol van a legközelebbi automata?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153765"
+    },
+    {
+      "english": "I need to withdraw money.",
+      "hungarian": "Pénzt szeretnék felvenni.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153768"
+    },
+    {
+      "english": "Can I get some change?",
+      "hungarian": "Tudna adni váltópénzt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153774"
+    },
+    {
+      "english": "This is a bit much.",
+      "hungarian": "Ez egy kicsit sok.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153777"
+    },
+    {
+      "english": "Let's split the bill.",
+      "hungarian": "Osszuk el a számlát.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153779"
+    },
+    {
+      "english": "Is there a discount?",
+      "hungarian": "Van valami kedvezmény?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153782"
+    },
+    {
+      "english": "I'll pay for this one.",
+      "hungarian": "Ezt én állom.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153785"
+    },
+    {
+      "english": "Keep the change, thanks.",
+      "hungarian": "Tartsa meg a visszajárót, köszönöm.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153787"
+    },
+    {
+      "english": "That's a good deal.",
+      "hungarian": "Ez jó üzlet.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153790"
+    },
+    {
+      "english": "I'm short on cash.",
+      "hungarian": "Nincs elég készpénzem.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153792"
+    },
+    {
+      "english": "Could you break a larger bill?",
+      "hungarian": "Tudna váltani egy nagyobb bankót?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153794"
+    },
+    {
+      "english": "I'm just looking, thanks.",
+      "hungarian": "Csak nézelődöm, köszönöm.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153797"
+    },
+    {
+      "english": "What's the exchange rate?",
+      "hungarian": "Mi az árfolyam?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153799"
+    },
+    {
+      "english": "This is a bit pricey.",
+      "hungarian": "Ez egy kicsit drága.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153801"
+    },
+    {
+      "english": "Can I pay in installments?",
+      "hungarian": "Fizethetek részletekben?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153804"
+    },
+    {
+      "english": "How much do I owe?",
+      "hungarian": "Mennyivel tartozom?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153806"
+    },
+    {
+      "english": "I need a receipt, please.",
+      "hungarian": "Kérek egy nyugtát.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153808"
+    },
+    {
+      "english": "Can I get a refund?",
+      "hungarian": "Visszakaphatom a pénzt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153810"
+    },
+    {
+      "english": "It's too much money.",
+      "hungarian": "Ez túl sok pénz.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153815"
+    },
+    {
+      "english": "Let's save up for it.",
+      "hungarian": "Takarekoskodjunk rá.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153817"
+    },
+    {
+      "english": "I'm on a budget.",
+      "hungarian": "Költségvetésem van.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153819"
+    },
+    {
+      "english": "Can I see the menu?",
+      "hungarian": "Láthatom a menüt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153822"
+    },
+    {
+      "english": "This is a good price.",
+      "hungarian": "Ez jó ár.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153824"
+    },
+    {
+      "english": "I'll pay by card.",
+      "hungarian": "Kártyával fizetek.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153826"
+    },
+    {
+      "english": "Do you have smaller bills?",
+      "hungarian": "Van kisebb címlete?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153829"
+    },
+    {
+      "english": "Excuse me, where can I exchange money?",
+      "hungarian": "Elnézést, hol tudok pénzt váltani?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153832"
+    },
+    {
+      "english": "Could you tell me, the current balance?",
+      "hungarian": "Meg tudná mondani, a jelenlegi egyenleget?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153837"
+    },
+    {
+      "english": "Do you have a better rate, perhaps?",
+      "hungarian": "Van esetleg, jobb árfolyamuk?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153840"
+    },
+    {
+      "english": "Is it possible, to open an account?",
+      "hungarian": "Lehetséges, nyitni egy számlát?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153843"
+    },
+    {
+      "english": "What's the interest rate, for savings?",
+      "hungarian": "Mennyi a kamatláb, a megtakarításra?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153845"
+    },
+    {
+      "english": "Can I get advice, about investments?",
+      "hungarian": "Kérhetek tanácsot, befektetésekről?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153850"
+    },
+    {
+      "english": "How do I transfer money, online?",
+      "hungarian": "Hogyan utalok pénzt, online?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153852"
+    },
+    {
+      "english": "Is there a fee, for this service?",
+      "hungarian": "Van ennek a szolgáltatásnak, díja?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153855"
+    },
+    {
+      "english": "Could you explain, this banking term?",
+      "hungarian": "El tudná magyarázni, ezt a banki kifejezést?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153857"
+    },
+    {
+      "english": "What are the opening hours, today?",
+      "hungarian": "Milyen nyitvatartási idők, ma?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153860"
+    },
+    {
+      "english": "I need to check, my account activity.",
+      "hungarian": "Ellenőriznem kell, a számlaforgalmam.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153863"
+    },
+    {
+      "english": "Can I get a loan, for a car?",
+      "hungarian": "Kaphatok kölcsönt, autóra?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153960"
+    },
+    {
+      "english": "What's the maximum withdrawal, limit?",
+      "hungarian": "Mi a maximális készpénzfelvételi, limit?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153964"
+    },
+    {
+      "english": "Do you offer, travel insurance?",
+      "hungarian": "Kínálnak, útlemondási biztosítást?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153966"
+    },
+    {
+      "english": "I'd like to report, a lost card.",
+      "hungarian": "Jelenteni szeretném, az elveszett kártyámat.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153969"
+    },
+    {
+      "english": "Can I pay bills, from here?",
+      "hungarian": "Tudok itt számlákat, fizetni?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153971"
+    },
+    {
+      "english": "What's the exchange, for dollars?",
+      "hungarian": "Mi az árfolyam, dollárra?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153974"
+    },
+    {
+      "english": "I need to change, my PIN code.",
+      "hungarian": "Módosítanom kell, a PIN kódom.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153976"
+    },
+    {
+      "english": "Is there a mobile app, for banking?",
+      "hungarian": "Van mobilalkalmazás, a bankoláshoz?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153979"
+    },
+    {
+      "english": "How much can I withdraw, daily?",
+      "hungarian": "Mennyit vehetek fel, naponta?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153982"
+    },
+    {
+      "english": "I'm interested in, a mortgage.",
+      "hungarian": "Jelzáloghitel érdekelne.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153984"
+    },
+    {
+      "english": "Could you help me, with this form?",
+      "hungarian": "Tudna segíteni, ebben a nyomtatványban?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153987"
+    },
+    {
+      "english": "What's the fee, for international transfers?",
+      "hungarian": "Mennyi a díja, a nemzetközi utalásoknak?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153990"
+    },
+    {
+      "english": "I want to set up, a direct debit.",
+      "hungarian": "Átutalási megbízást, szeretnék létrehozni.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153992"
+    },
+    {
+      "english": "Are there any charges, for card usage?",
+      "hungarian": "Vannak díjak, a kártyahasználatért?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153996"
+    },
+    {
+      "english": "Can I get a statement, of my account?",
+      "hungarian": "Kaphatok egy kivonatot, a számlámról?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.153999"
+    },
+    {
+      "english": "Is this ATM, working correctly?",
+      "hungarian": "Ez az ATM, jól működik?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154001"
+    },
+    {
+      "english": "What's the daily limit, for spending?",
+      "hungarian": "Mi a napi limite, a költésnek?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154004"
+    },
+    {
+      "english": "I need to cancel, a standing order.",
+      "hungarian": "Lemondani szeretnék, egy rendszeres utalást.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154007"
+    },
+    {
+      "english": "Believe in your financial goals, you can do it!",
+      "hungarian": "Hidd el, eléred a pénzügyi céljaidat, képes vagy rá!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154010"
+    },
+    {
+      "english": "Every small saving, builds a big future.",
+      "hungarian": "Minden apró megtakarítás, nagy jövőt épít.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154012"
+    },
+    {
+      "english": "You're doing great, with your money management!",
+      "hungarian": "Nagyszerűen csinálod, a pénzügyeid kezelését!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154015"
+    },
+    {
+      "english": "Smart choices now, lead to freedom later.",
+      "hungarian": "Okos döntések most, szabadságot hoznak később.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154018"
+    },
+    {
+      "english": "Your financial journey, is inspiring!",
+      "hungarian": "A pénzügyi utazásod, inspiráló!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154020"
+    },
+    {
+      "english": "Don't be afraid, to ask for financial help.",
+      "hungarian": "Ne félj, segítséget kérni, pénzügyekben.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154025"
+    },
+    {
+      "english": "You've got this, one step at a time.",
+      "hungarian": "Meg tudod csinálni, lépésről lépésre.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154028"
+    },
+    {
+      "english": "Your financial wisdom, is growing!",
+      "hungarian": "A pénzügyi bölcsességed, növekszik!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154041"
+    },
+    {
+      "english": "Keep up the amazing work, with your savings!",
+      "hungarian": "Tartsd meg a csodás munkát, a takarékoskodással!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154044"
+    },
+    {
+      "english": "Positive money thoughts, attract abundance.",
+      "hungarian": "Pozitív pénzgondolatok, bőséget vonzanak.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154046"
+    },
+    {
+      "english": "You're building a secure future, well done!",
+      "hungarian": "Biztos jövőt építesz, ügyesen!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154050"
+    },
+    {
+      "english": "Your financial discipline, is admirable.",
+      "hungarian": "A pénzügyi fegyelmed, csodálatra méltó.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154052"
+    },
+    {
+      "english": "Dream big, save smart.",
+      "hungarian": "Álmodj nagyot, takarékoskodj okosan.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154057"
+    },
+    {
+      "english": "You're making progress, keep going!",
+      "hungarian": "Haladsz, csak így tovább!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154059"
+    },
+    {
+      "english": "Your financial journey, is on the right track.",
+      "hungarian": "A pénzügyi utad, jó úton halad.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154062"
+    },
+    {
+      "english": "Invest in yourself, it pays the best interest.",
+      "hungarian": "Fejleszd magad, ez hozza a legjobb kamatot.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154064"
+    },
+    {
+      "english": "You are capable, of financial success.",
+      "hungarian": "Képes vagy, pénzügyi sikerre.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154066"
+    },
+    {
+      "english": "Every cent saved, is a victory.",
+      "hungarian": "Minden megspórolt fillér, győzelem.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154069"
+    },
+    {
+      "english": "Your financial planning, is excellent.",
+      "hungarian": "A pénzügyi tervezésed, kiváló.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154071"
+    },
+    {
+      "english": "You have a strong, financial mindset.",
+      "hungarian": "Erős pénzügyi gondolkodásmódod van.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154074"
+    },
+    {
+      "english": "Embrace financial growth, you deserve it.",
+      "hungarian": "Fogadd el a pénzügyi növekedést, megérdemled.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154076"
+    },
+    {
+      "english": "Your financial future, looks bright.",
+      "hungarian": "A pénzügyi jövőd, fényes.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154079"
+    },
+    {
+      "english": "You are in control, of your finances.",
+      "hungarian": "Te irányítod, a pénzügyeidet.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154081"
+    },
+    {
+      "english": "Keep saving, it's a smart move.",
+      "hungarian": "Takarékoskodj tovább, okos lépés.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154084"
+    },
+    {
+      "english": "Your financial habits, are excellent.",
+      "hungarian": "A pénzügyi szokásaid, remekek.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154086"
+    },
+    {
+      "english": "Believe in abundance, and it will come.",
+      "hungarian": "Higgy a bőségben, és megjön.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154088"
+    },
+    {
+      "english": "You are building wealth, steadily.",
+      "hungarian": "Építed a vagyonodat, folyamatosan.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154091"
+    },
+    {
+      "english": "Your financial journey, is progressing well.",
+      "hungarian": "A pénzügyi utad, jól halad.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154095"
+    },
+    {
+      "english": "You are a financial star!",
+      "hungarian": "Te egy pénzügyi sztár vagy!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154097"
+    },
+    {
+      "english": "This money feels, like a blessing.",
+      "hungarian": "Ez a pénz, áldásnak érződik.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154099"
+    },
+    {
+      "english": "I'm finally feeling, financially secure.",
+      "hungarian": "Végre anyagilag, biztonságban érzem magam.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154102"
+    },
+    {
+      "english": "It took time, but I understand now.",
+      "hungarian": "Időbe telt, de most már értem.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154105"
+    },
+    {
+      "english": "Money can buy peace, sometimes.",
+      "hungarian": "A pénz néha, nyugalmat vehet.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154107"
+    },
+    {
+      "english": "I'm learning patience, with my finances.",
+      "hungarian": "Tanulom a türelmet, pénzügyeimmel kapcsolatban.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154110"
+    },
+    {
+      "english": "This is a lesson, learned the hard way.",
+      "hungarian": "Ez egy lecke, amit nehezen tanultam meg.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154112"
+    },
+    {
+      "english": "My perspective changed, about saving.",
+      "hungarian": "Megváltozott a szemléletem, a takarékoskodásról.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154116"
+    },
+    {
+      "english": "I feel a sense, of accomplishment.",
+      "hungarian": "Elégedettség érzésem van.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154118"
+    },
+    {
+      "english": "It's more than just numbers, it's freedom.",
+      "hungarian": "Több, mint számok, ez szabadság.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154121"
+    },
+    {
+      "english": "I'm grateful, for this opportunity.",
+      "hungarian": "Hálás vagyok, ezért a lehetőségért.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154124"
+    },
+    {
+      "english": "My relationship with money, is healing.",
+      "hungarian": "A pénzhez való viszonyom, gyógyul.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154126"
+    },
+    {
+      "english": "I used to fear it, now I embrace it.",
+      "hungarian": "Régebben féltem tőle, most átölelem.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154128"
+    },
+    {
+      "english": "This journey requires, honesty.",
+      "hungarian": "Ez az út, őszinteséget kíván.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154131"
+    },
+    {
+      "english": "I'm reflecting, on my past habits.",
+      "hungarian": "Gondolkodom, a múltbeli szokásaimon.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154134"
+    },
+    {
+      "english": "It's okay to admit, mistakes.",
+      "hungarian": "Rendben van, bevallani a hibákat.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154136"
+    },
+    {
+      "english": "This feels surprisingly, easy now.",
+      "hungarian": "Ez meglepően, könnyűnek érződik most.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154139"
+    },
+    {
+      "english": "I'm letting go, of financial stress.",
+      "hungarian": "Elengedem, a pénzügyi stresszt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154142"
+    },
+    {
+      "english": "My intuition, is guiding me now.",
+      "hungarian": "Az intuícióm, most vezet engem.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154144"
+    },
+    {
+      "english": "I trust the process, implicitly.",
+      "hungarian": "Bízom a folyamatban, feltétlenül.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154147"
+    },
+    {
+      "english": "This financial calm, is precious.",
+      "hungarian": "Ez a pénzügyi nyugalom, értékes.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154149"
+    },
+    {
+      "english": "I'm practicing generosity, with purpose.",
+      "hungarian": "Nagylelkűséget gyakorlok, céltudatosan.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154152"
+    },
+    {
+      "english": "This is a new chapter, financially.",
+      "hungarian": "Ez egy új fejezet, anyagilag.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154154"
+    },
+    {
+      "english": "My future self, will thank me.",
+      "hungarian": "A jövőbeli énem, meg fogja köszönni.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154156"
+    },
+    {
+      "english": "I'm releasing, old money beliefs.",
+      "hungarian": "Elengedem, a régi pénzhiteket.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154161"
+    },
+    {
+      "english": "This feeling of control, is empowering.",
+      "hungarian": "Ez a kontroll érzés, erőt ad.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154164"
+    },
+    {
+      "english": "I'm creating space, for abundance.",
+      "hungarian": "Teret teremtek, a bőségnek.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154168"
+    },
+    {
+      "english": "My inner peace, is more valuable.",
+      "hungarian": "A belső béke, értékesebb.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154170"
+    },
+    {
+      "english": "I'm choosing joy, over financial worry.",
+      "hungarian": "Örömöt választok, a pénzügyi aggodalom helyett.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154172"
+    },
+    {
+      "english": "This is a moment, of true reflection.",
+      "hungarian": "Ez egy pillanat, az igazi elgondolkodásra.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154175"
+    },
+    {
+      "english": "I'm finally aligning, with my values.",
+      "hungarian": "Végre összhangba kerülök, az értékeimmel.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154177"
+    },
+    {
+      "english": "Can I pay with card?",
+      "hungarian": "Fizethetek kártyával?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154181"
+    },
+    {
+      "english": "How much is this in forints?",
+      "hungarian": "Mennyibe kerül forintban?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-02T10:09:20.154183"
     }
   ],
-  "last_updated": "2026-11-01T09:50:30.348860"
+  "last_updated": "2026-11-02T10:09:20.154185"
 }
