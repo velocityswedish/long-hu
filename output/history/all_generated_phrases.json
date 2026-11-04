@@ -2879,7 +2879,727 @@
       "hungarian": "Ma este pihenek, és holnap újrakezdem.",
       "category": "Positive Life",
       "generated_at": "2026-11-03T10:11:51.249569"
+    },
+    {
+      "english": "One coffee, please, and a croissant too",
+      "hungarian": "Egy kávét kérek, és egy croissant is",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103754"
+    },
+    {
+      "english": "Can I get it to go, please?",
+      "hungarian": "El tudom vinni, kérem, jó?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103766"
+    },
+    {
+      "english": "Fresh, right? It smells amazing!",
+      "hungarian": "Friss, ugye? Olyan jó szaga van!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103769"
+    },
+    {
+      "english": "How much is this slice of cake?",
+      "hungarian": "Mennyibe kerül ez a szelet süti?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103770"
+    },
+    {
+      "english": "Do you have anything gluten-free today?",
+      "hungarian": "Van ma gluténmentes süti?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103772"
+    },
+    {
+      "english": "I’ll take it, thanks, sounds perfect",
+      "hungarian": "Megveszem, köszi, ez tökéletesnek hangzik",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103775"
+    },
+    {
+      "english": "What’s the best thing here, honestly?",
+      "hungarian": "Mi a legjobb itt, őszintén?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103777"
+    },
+    {
+      "english": "Wait, that looks better than mine!",
+      "hungarian": "Állj meg, jobban néz ki, mint az enyém!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103781"
+    },
+    {
+      "english": "Do you have oat milk by chance?",
+      "hungarian": "Van esetleg zabtej?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103783"
+    },
+    {
+      "english": "Could I get it less sweet, please?",
+      "hungarian": "Lehet kevésbé édes, kérem?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103785"
+    },
+    {
+      "english": "Sorry, I only have cash, that’s all",
+      "hungarian": "Bocsánat, csak készpénzem van, ennyi",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103787"
+    },
+    {
+      "english": "Actually, never mind, I’ll change it",
+      "hungarian": "Köszi, mégse, inkább mást kérek",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103789"
+    },
+    {
+      "english": "This coffee is unreal, so smooth",
+      "hungarian": "Ez a kávé hihetetlen, annyira selymes",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103791"
+    },
+    {
+      "english": "I’m just browsing, no pressure",
+      "hungarian": "Csak nézelődök, nem sürgős",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103793"
+    },
+    {
+      "english": "Can I try a small sample first?",
+      "hungarian": "Megkóstolhatom először egy kicsit?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103794"
+    },
+    {
+      "english": "Perfect, bring it to my table please",
+      "hungarian": "Szuper, kérem, hozzák az asztalomhoz",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103796"
+    },
+    {
+      "english": "Do you take card, not just cash?",
+      "hungarian": "Kártyával is lehet, ugye?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103798"
+    },
+    {
+      "english": "Wow, this pastry is gone too fast!",
+      "hungarian": "Hű, ez a süti elfogyott egyből!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103799"
+    },
+    {
+      "english": "One more thing, can I get a fork?",
+      "hungarian": "Még egy dolog, adhatnak egy villát?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103801"
+    },
+    {
+      "english": "Is there Wi‑Fi here, by any chance?",
+      "hungarian": "Van itt Wi‑Fi, véletlenül?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103803"
+    },
+    {
+      "english": "I’ll sit here, it’s cozy",
+      "hungarian": "Itt ülök, olyan otthonos",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103805"
+    },
+    {
+      "english": "Sorry, I spilled it, my bad",
+      "hungarian": "Bocsánat, leöntöttem, én hibám",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103807"
+    },
+    {
+      "english": "Can you warm it up for me?",
+      "hungarian": "Fel tudnák melegíteni nekem?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103808"
+    },
+    {
+      "english": "That’s the smell I needed today",
+      "hungarian": "Pont ezt a szagot kerestem ma",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103810"
+    },
+    {
+      "english": "Is this vegan, like for real?",
+      "hungarian": "Ez tényleg vegán?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103812"
+    },
+    {
+      "english": "Give me the usual, please",
+      "hungarian": "Kérem, a megszokottat",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103813"
+    },
+    {
+      "english": "Thanks, this hits the spot",
+      "hungarian": "Köszi, ez nagyon eltalálja",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103815"
+    },
+    {
+      "english": "Do you have any pastries left?",
+      "hungarian": "Maradt még valami süti?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103818"
+    },
+    {
+      "english": "Waitress, excuse me, quick question",
+      "hungarian": "Elnézést, kisasszony, egy gyors kérdés",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103820"
+    },
+    {
+      "english": "All right, I’m ready to order",
+      "hungarian": "Rendben, készen állok a rendelésre",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103822"
+    },
+    {
+      "english": "What’s good here, besides the coffee?",
+      "hungarian": "Mi finom itt, a kávén kívül?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103824"
+    },
+    {
+      "english": "Do you have any seasonal specials today?",
+      "hungarian": "Van ma valami szezonális különlegesség?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103826"
+    },
+    {
+      "english": "Which pastry is best for sharing?",
+      "hungarian": "Melyik süti a legjobb megosztani?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103828"
+    },
+    {
+      "english": "Is this bread still warm, really?",
+      "hungarian": "Még meleg ez a kenyér, tényleg?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103830"
+    },
+    {
+      "english": "Do you recommend something not too sweet?",
+      "hungarian": "Ajánlanál valamit, ami nem túl édes?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103831"
+    },
+    {
+      "english": "Is there something quick, for lunch?",
+      "hungarian": "Van valami gyors ebédre?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103833"
+    },
+    {
+      "english": "What’s your most popular cake today?",
+      "hungarian": "Mi a legnépszerűbb torta ma?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103839"
+    },
+    {
+      "english": "Excuse me, can I ask a question?",
+      "hungarian": "Elnézést, mondhatok egy kérdést?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103841"
+    },
+    {
+      "english": "Is the cinnamon strong, or mild?",
+      "hungarian": "Erős a fahéj, vagy inkább enyhe?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103842"
+    },
+    {
+      "english": "Do you have anything with nuts?",
+      "hungarian": "Van olyan, ami dióval készült?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103844"
+    },
+    {
+      "english": "Do you offer almond milk, by default?",
+      "hungarian": "Alapból van mandulatej?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103846"
+    },
+    {
+      "english": "How long does it take to bake?",
+      "hungarian": "Mennyi ideig tart kisütni?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103848"
+    },
+    {
+      "english": "Is there a quieter spot over there?",
+      "hungarian": "Ott van csendesebb hely?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103850"
+    },
+    {
+      "english": "Can I get it without ice, please?",
+      "hungarian": "Kérhetem jég nélkül, kérem?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103852"
+    },
+    {
+      "english": "What’s the difference between these two?",
+      "hungarian": "Mi a különbség a kettő között?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103853"
+    },
+    {
+      "english": "Do you have decaf coffee, by chance?",
+      "hungarian": "Van koffeinmentes kávé, esetleg?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103855"
+    },
+    {
+      "english": "Can I order at the counter?",
+      "hungarian": "A pultnál kell rendelni?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103857"
+    },
+    {
+      "english": "Is this filling, or more light?",
+      "hungarian": "Ez laktató, vagy inkább könnyű?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103858"
+    },
+    {
+      "english": "Which one goes best with espresso?",
+      "hungarian": "Melyik illik legjobban eszpresszóhoz?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103860"
+    },
+    {
+      "english": "Do you have any dairy-free options?",
+      "hungarian": "Van tejmentes választék?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103861"
+    },
+    {
+      "english": "Can I get water, sparkling or still?",
+      "hungarian": "Kaphatok vizet, szénsavasat vagy simát?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103863"
+    },
+    {
+      "english": "Is the croissant flaky, like really?",
+      "hungarian": "Leveles a croissant, tényleg?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103864"
+    },
+    {
+      "english": "What do you suggest for a beginner?",
+      "hungarian": "Mit ajánlasz kezdőknek?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103866"
+    },
+    {
+      "english": "How spicy is the filling, on average?",
+      "hungarian": "Átlagosan mennyire csípős a töltelék?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103867"
+    },
+    {
+      "english": "Do you bake these here, daily?",
+      "hungarian": "Itt sütitek naponta ezeket?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103869"
+    },
+    {
+      "english": "Can I get a smaller portion, please?",
+      "hungarian": "Kérhetek kisebb adagot, kérem?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103870"
+    },
+    {
+      "english": "When do you restock the pastries?",
+      "hungarian": "Mikor töltitek újra a pékárut?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103872"
+    },
+    {
+      "english": "Would you recommend this cream over that one?",
+      "hungarian": "Inkább ezt a krémet ajánlanád, mint azt?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103874"
+    },
+    {
+      "english": "Is there a loyalty stamp card here?",
+      "hungarian": "Van itt hűségkártya, bélyeggel?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103875"
+    },
+    {
+      "english": "You’ve got this, take your time, enjoy.",
+      "hungarian": "Megvan ez, légy türelmes, élvezd.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103879"
+    },
+    {
+      "english": "Small bites, big mood, you’re doing great.",
+      "hungarian": "Kis falat, nagy hangulat, ügyes vagy.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103881"
+    },
+    {
+      "english": "Today tastes better, because you showed up.",
+      "hungarian": "Ma jobb íze van, mert itt vagy.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103883"
+    },
+    {
+      "english": "One sip, deep breath, feel the calm.",
+      "hungarian": "Egy korty, mély levegő, nyugi van.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103885"
+    },
+    {
+      "english": "You deserve comfort, coffee and cake can help.",
+      "hungarian": "Megérdemled a kényeztetést, kávé és süti segít.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103887"
+    },
+    {
+      "english": "Keep going, your future self says thanks.",
+      "hungarian": "Csak tovább, a jövőbeli éned megköszöni.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103889"
+    },
+    {
+      "english": "Let it be sweet, even if life isn’t.",
+      "hungarian": "Legyen édes, akkor is, ha az élet nem.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103891"
+    },
+    {
+      "english": "You’re allowed to slow down, enjoy.",
+      "hungarian": "Szabad lassítani, és élvezni.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103894"
+    },
+    {
+      "english": "That smell is a win, seriously.",
+      "hungarian": "Ez a szag egy győzelem, tényleg.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103898"
+    },
+    {
+      "english": "Good vibes only, just sit and smile.",
+      "hungarian": "Csak jókedv, ülj le, mosolyogj.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103901"
+    },
+    {
+      "english": "You’re doing better than you think, promise.",
+      "hungarian": "Jobban megy, mint gondolod, komolyan.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103903"
+    },
+    {
+      "english": "Say yes to today, it’s enough.",
+      "hungarian": "Igen ma, ez így is elég.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103905"
+    },
+    {
+      "english": "Relax, you’re safe here, feel it.",
+      "hungarian": "Nyugi, itt biztonság van, érezd.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103908"
+    },
+    {
+      "english": "Celebrate small wins, this is one.",
+      "hungarian": "Ünnepelj apró sikereket, ez az.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103909"
+    },
+    {
+      "english": "Your taste buds deserve a treat, trust me.",
+      "hungarian": "A te ízlelőbimbóid megérdemelnek egy jutalmat, hidd el.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103911"
+    },
+    {
+      "english": "You can start over, one sip at a time.",
+      "hungarian": "Újrakezdheted, egy korttyal kezdve.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103913"
+    },
+    {
+      "english": "Breath in, let the worries go, okay?",
+      "hungarian": "Vegyél egy levegőt, engedd el a gondokat, jó?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103915"
+    },
+    {
+      "english": "Today, you choose kindness, even to yourself.",
+      "hungarian": "Ma kedvességet választasz, még magaddal is.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103917"
+    },
+    {
+      "english": "This moment is yours, enjoy it fully.",
+      "hungarian": "Ez a pillanat a tiéd, élvezd teljesen.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103919"
+    },
+    {
+      "english": "Nice choice, you’ve got great energy.",
+      "hungarian": "Szuper választás, van benned jó energia.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103921"
+    },
+    {
+      "english": "Be proud of yourself, you made it.",
+      "hungarian": "Legyél büszke magadra, sikerült.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103923"
+    },
+    {
+      "english": "Keep it simple, coffee first, then smiles.",
+      "hungarian": "Maradj egyszerű, előbb a kávé, aztán mosoly.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103924"
+    },
+    {
+      "english": "No pressure, just good taste and good vibes.",
+      "hungarian": "Semmi nyomás, csak jó íz, jó hangulat.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103926"
+    },
+    {
+      "english": "You’re allowed to want more happiness, always.",
+      "hungarian": "Jogos, hogy több boldogságot akarsz, mindig.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103928"
+    },
+    {
+      "english": "Let your day soften, like warm pastry.",
+      "hungarian": "Engedd, hogy a napod puhává váljon, mint a meleg süti.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103930"
+    },
+    {
+      "english": "You’re not behind, you’re right on time.",
+      "hungarian": "Nem vagy lemaradva, épp időben vagy.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103932"
+    },
+    {
+      "english": "Take a compliment, you look amazing today.",
+      "hungarian": "Fogadj el egy bókot, ma elképesztően jól nézel ki.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103934"
+    },
+    {
+      "english": "This is your reset, enjoy the sweet calm.",
+      "hungarian": "Ez a te reset-ed, élvezd az édes nyugalmat.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103936"
+    },
+    {
+      "english": "Trust the process, the next bite will be great.",
+      "hungarian": "Hívd segítségül a folyamatot, a következő falat tuti jó lesz.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103938"
+    },
+    {
+      "english": "Smile now, tomorrow gets easier, I swear.",
+      "hungarian": "Nevess most, holnap könnyebb lesz, esküszöm.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103939"
+    },
+    {
+      "english": "Honestly, this place feels like home, today.",
+      "hungarian": "Őszintén, ma olyan, mintha otthon lennék itt.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103942"
+    },
+    {
+      "english": "I needed quiet, and the coffee helped.",
+      "hungarian": "Csend kellett, és a kávé segített.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103943"
+    },
+    {
+      "english": "It’s okay to feel, even over pastries.",
+      "hungarian": "Rendben van, ha érzel, akár süti közben is.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103946"
+    },
+    {
+      "english": "I’m not in a hurry, just craving warmth.",
+      "hungarian": "Nem sietek, csak melegségre vágyom.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103948"
+    },
+    {
+      "english": "This smell calms me down, for real.",
+      "hungarian": "Ez a szag lecsillapít, komolyan.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103949"
+    },
+    {
+      "english": "I’ll be brave, one bite at a time.",
+      "hungarian": "Bátrabb leszek, falatonként.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103951"
+    },
+    {
+      "english": "I want something comforting, not just sweet.",
+      "hungarian": "Valami vigasztaló kell, nem csak édes.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103953"
+    },
+    {
+      "english": "Honestly, I’m tired, but I’m here.",
+      "hungarian": "Őszintén, fáradt vagyok, de itt vagyok.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103955"
+    },
+    {
+      "english": "Can I sit quietly, and breathe for a bit?",
+      "hungarian": "Leülhetek csendben, és levegőt veszek egy kicsit?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103957"
+    },
+    {
+      "english": "I’m learning patience, this is my practice.",
+      "hungarian": "A türelmet gyakorlom, ez a próbám.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103959"
+    },
+    {
+      "english": "Today, I choose softness, not perfection.",
+      "hungarian": "Ma a gyengédséget választom, nem a tökéletest.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103962"
+    },
+    {
+      "english": "The first sip always feels like reset.",
+      "hungarian": "Az első korty mindig újraindít.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103964"
+    },
+    {
+      "english": "I’m okay, even if my day is messy.",
+      "hungarian": "Jól vagyok, még ha kusza is a napom.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103966"
+    },
+    {
+      "english": "What I need is calm, not a crowd.",
+      "hungarian": "Ami kell, az a nyugalom, nem a tömeg.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103967"
+    },
+    {
+      "english": "This cake tastes like patience, somehow.",
+      "hungarian": "Ennek a tortának olyan íze van, mint a türelemnek.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103969"
+    },
+    {
+      "english": "I’ll keep it simple, but I’ll feel it.",
+      "hungarian": "Egyszerű lesz, de átérzem.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103971"
+    },
+    {
+      "english": "Sometimes you just need comfort, quietly.",
+      "hungarian": "Néha csak csendben kell a kényelem.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103973"
+    },
+    {
+      "english": "I’m taking it slow, because I deserve that.",
+      "hungarian": "Lassan csinálom, mert ezt megérdemlem.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103975"
+    },
+    {
+      "english": "No big talk, I just want a warm moment.",
+      "hungarian": "Semmi nagy dumát, csak egy meleg pillanatot.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103977"
+    },
+    {
+      "english": "I’m grateful, even for small, sweet things.",
+      "hungarian": "Hálás vagyok, még a kicsi, édes dolgokért is.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103979"
+    },
+    {
+      "english": "I don’t need advice, I need a hug in form.",
+      "hungarian": "Nem tanács kell, hanem egy ölelés falatban.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103981"
+    },
+    {
+      "english": "I’m letting go, one bite, one breath.",
+      "hungarian": "Elengedem, egy falat, egy levegő.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103983"
+    },
+    {
+      "english": "Give me the honest flavor, not the hype.",
+      "hungarian": "Őszinte ízt kérek, nem a nagy reklámot.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103986"
+    },
+    {
+      "english": "I’ll sit here, and let my thoughts soften.",
+      "hungarian": "Itt ülök, és hagyom, hogy a gondolataim puhúljanak.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103988"
+    },
+    {
+      "english": "Even on tough days, I can choose sweet.",
+      "hungarian": "Még nehéz napokon is választhatok valami édességet.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103990"
+    },
+    {
+      "english": "I’m proud of myself, quietly, with a coffee.",
+      "hungarian": "Csendben büszke vagyok magamra, egy kávéval.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103992"
+    },
+    {
+      "english": "Today I’m listening to my heart, gently.",
+      "hungarian": "Ma a szívemre hallgatok, finoman.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103994"
+    },
+    {
+      "english": "I don’t want to rush happiness, ever.",
+      "hungarian": "Nem akarom soha siettetni a boldogságot.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.103998"
+    },
+    {
+      "english": "If it tastes right, that’s enough for me.",
+      "hungarian": "Ha jó az íze, az nekem elég.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.104000"
+    },
+    {
+      "english": "Order first, then pick your table, please.",
+      "hungarian": "Először rendelj, aztán válaszd ki az asztalt, kérlek.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.104001"
+    },
+    {
+      "english": "One espresso, no sugar, please, thank you.",
+      "hungarian": "Egy eszpresszó, cukor nélkül, kérem, köszönöm.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-04T10:01:20.104003"
     }
   ],
-  "last_updated": "2026-11-03T10:11:51.249571"
+  "last_updated": "2026-11-04T10:01:20.104004"
 }
