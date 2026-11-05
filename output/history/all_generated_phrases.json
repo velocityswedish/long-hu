@@ -3599,7 +3599,727 @@
       "hungarian": "Egy eszpresszó, cukor nélkül, kérem, köszönöm.",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-04T10:01:20.104003"
+    },
+    {
+      "english": "Breathe, slow down, you’ve got this.",
+      "hungarian": "Vegyél levegőt, lassíts, menni fog.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330137"
+    },
+    {
+      "english": "Pause, check in, what are you feeling?",
+      "hungarian": "Állj meg, nézz rá, mit érzel most?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330153"
+    },
+    {
+      "english": "Okay, reset, just one small step.",
+      "hungarian": "Na, újraindulás, csak egy kis lépés.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330155"
+    },
+    {
+      "english": "Notice it, don’t fight it, breathe.",
+      "hungarian": "Vedd észre, ne harcolj vele, lélegezz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330158"
+    },
+    {
+      "english": "Hey, slow your thoughts, one at a time.",
+      "hungarian": "Hé, lassíts a gondolatokon, egyesével.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330160"
+    },
+    {
+      "english": "It’s fine, let it pass, really.",
+      "hungarian": "Semmi baj, hagyd elmenni, komolyan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330162"
+    },
+    {
+      "english": "Take a moment, ground yourself, breathe.",
+      "hungarian": "Tarts egy pillanatot, légy a jelenben.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330164"
+    },
+    {
+      "english": "Right now, feel your feet, gently.",
+      "hungarian": "Most, érezd a talpad, finoman.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330169"
+    },
+    {
+      "english": "Sigh it out, then smile a bit.",
+      "hungarian": "Fújd ki, aztán mosolyogj egy kicsit.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330172"
+    },
+    {
+      "english": "Let your shoulders drop, you’re safe.",
+      "hungarian": "Engedd le a vállad, biztonságban vagy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330174"
+    },
+    {
+      "english": "No rush, listen first, then answer.",
+      "hungarian": "Semmi sietség, hallgass először.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330176"
+    },
+    {
+      "english": "I’m here, just breathe with me.",
+      "hungarian": "Itt vagyok, csak lélegezz velem.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330179"
+    },
+    {
+      "english": "That’s a thought, not the truth.",
+      "hungarian": "Ez csak egy gondolat, nem az igazság.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330181"
+    },
+    {
+      "english": "Okay, mind shift, we’ve got options.",
+      "hungarian": "Na, váltás, van több lehetőség.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330183"
+    },
+    {
+      "english": "Notice your breath, ignore the chaos.",
+      "hungarian": "Figyeld a lélegzeted, hagyd a káoszt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330185"
+    },
+    {
+      "english": "Don’t spiral, talk to yourself kindly.",
+      "hungarian": "Ne kergess körbe, beszélj magaddal kedvesen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330187"
+    },
+    {
+      "english": "Make space, let it be, no drama.",
+      "hungarian": "Adj helyet, hagyd úgy, nincs para.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330189"
+    },
+    {
+      "english": "Slow down, your body already knows.",
+      "hungarian": "Lassíts, a tested tudja.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330191"
+    },
+    {
+      "english": "Just for now, breathe, then decide.",
+      "hungarian": "Csak most, lélegezz, aztán döntsd el.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330193"
+    },
+    {
+      "english": "If it hurts, soften, and stay curious.",
+      "hungarian": "Ha fáj, lazíts, és maradj kíváncsi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330195"
+    },
+    {
+      "english": "Be here, not there, that’s enough.",
+      "hungarian": "Legyél itt, ne ott, ez elég.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330199"
+    },
+    {
+      "english": "I hear you, let’s take it gently.",
+      "hungarian": "Hallak, vegyük könnyebben, lassabban.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330201"
+    },
+    {
+      "english": "Worry later, right now we breathe.",
+      "hungarian": "Aggódni majd később, most lélegezzünk.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330203"
+    },
+    {
+      "english": "Grounding check, what’s around you now?",
+      "hungarian": "Gyökerezés, mi van körülötted most?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330204"
+    },
+    {
+      "english": "That’s it, thank you, breathe out.",
+      "hungarian": "Ennyi, köszi, fújd ki.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330207"
+    },
+    {
+      "english": "Smile softly, it helps your nervous system.",
+      "hungarian": "Mosolyogj finoman, segít a rendszernek.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330208"
+    },
+    {
+      "english": "You can pause, even mid-sentence.",
+      "hungarian": "Megállhatsz, akár mondat közben is.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330211"
+    },
+    {
+      "english": "Come back, smell the air, right now.",
+      "hungarian": "Gyere vissza, érezd a levegőt most.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330212"
+    },
+    {
+      "english": "I’m overwhelmed, but I’ll breathe anyway.",
+      "hungarian": "Túl sok minden, de lélegzem, mindegy.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330214"
+    },
+    {
+      "english": "Keep it simple, one breath, one moment.",
+      "hungarian": "Legyen egyszerű, egy lélegzet, egy pillanat.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330216"
+    },
+    {
+      "english": "Can we talk, what’s on your mind?",
+      "hungarian": "Meg tudunk beszélni, mi jár a fejedben?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330220"
+    },
+    {
+      "english": "What’s the tiniest thing you need now?",
+      "hungarian": "Mi a legkisebb dolog, amire most szükséged van?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330223"
+    },
+    {
+      "english": "Do you want advice, or just listening?",
+      "hungarian": "Kérsz tanácsot, vagy csak, hogy figyeljek?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330225"
+    },
+    {
+      "english": "How do you usually calm down after stress?",
+      "hungarian": "Te hogy szoktál megnyugodni stressz után?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330227"
+    },
+    {
+      "english": "Want to try a quick check-in together?",
+      "hungarian": "Szeretnél velem egy gyors ráhangolást?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330229"
+    },
+    {
+      "english": "What feels heavy right now, no judgment?",
+      "hungarian": "Mi nehéz most neked, ítélkezés nélkül?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330231"
+    },
+    {
+      "english": "When did you last feel truly present?",
+      "hungarian": "Mikor érezted utoljára, hogy igazán jelen vagy?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330232"
+    },
+    {
+      "english": "Would you like to ask for help, politely?",
+      "hungarian": "Szeretnél udvariasan segítséget kérni?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330234"
+    },
+    {
+      "english": "Can you name the feeling, just one word?",
+      "hungarian": "Meg tudod nevezni az érzést, csak egy szóval?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330237"
+    },
+    {
+      "english": "What’s your body saying, right under the words?",
+      "hungarian": "Mit mond a tested, a szavak alatt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330240"
+    },
+    {
+      "english": "How’s your mind, busy or pretty quiet?",
+      "hungarian": "Milyen a fejed, pörgős, vagy inkább csendes?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330242"
+    },
+    {
+      "english": "May I ask, what triggered that thought?",
+      "hungarian": "Megkérdezhetem, mi váltotta ki azt a gondolatot?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330245"
+    },
+    {
+      "english": "Do you want to vent first, or focus?",
+      "hungarian": "Előbb ki akarod adni, vagy inkább fókuszáljunk?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330247"
+    },
+    {
+      "english": "What would make today feel a bit kinder?",
+      "hungarian": "Mi tenné kicsit kedvesebbé a mai napot?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330249"
+    },
+    {
+      "english": "Can we slow the question, one by one?",
+      "hungarian": "Meg tudjuk lassítani a kérdést, lépésenként?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330251"
+    },
+    {
+      "english": "Where do you feel it, in your body?",
+      "hungarian": "Hol érzed, a testedben pontosan?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330253"
+    },
+    {
+      "english": "What’s one boundary you need right now?",
+      "hungarian": "Mi az az egy határ, amire most szükséged van?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330255"
+    },
+    {
+      "english": "What helps you come back, even briefly?",
+      "hungarian": "Mi segít visszajönni, még ha csak kicsit is?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330257"
+    },
+    {
+      "english": "Do you want a grounding idea or a plan?",
+      "hungarian": "Inkább egy kapaszkodó ötletet, vagy egy tervet kérsz?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330259"
+    },
+    {
+      "english": "How do you talk to yourself when it’s hard?",
+      "hungarian": "Hogy beszélsz magaddal, ha nehéz?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330261"
+    },
+    {
+      "english": "What’s the next gentle step, in your mind?",
+      "hungarian": "Mi a következő gyengéd lépés, a fejedben?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330263"
+    },
+    {
+      "english": "Can you check, is this worry useful?",
+      "hungarian": "Meg tudod nézni, hasznos ez az aggódás?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330265"
+    },
+    {
+      "english": "Would you like to try a mindful pause?",
+      "hungarian": "Próbáljuk ki, legyen egy tudatos szünet?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330266"
+    },
+    {
+      "english": "What’s one thing you can control today?",
+      "hungarian": "Mi az egy dolog, amit ma te irányítasz?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330268"
+    },
+    {
+      "english": "How’s your attention, here, or drifting off?",
+      "hungarian": "Hogy van most a figyelmed, itt van, vagy elkalandozik?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330271"
+    },
+    {
+      "english": "If you could choose, what would you do next?",
+      "hungarian": "Ha választhatnál, mit tennél legközelebb?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330273"
+    },
+    {
+      "english": "Can I reflect back what I hear?",
+      "hungarian": "Visszaidézzem, amit hallok, hogy jól értsem?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330274"
+    },
+    {
+      "english": "What do you need from me, right now?",
+      "hungarian": "Mit szeretnél tőlem most, pontosan?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330276"
+    },
+    {
+      "english": "Let’s ask, what’s the lesson in this?",
+      "hungarian": "Kérdezzük meg, mi ennek a tanulsága?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330278"
+    },
+    {
+      "english": "Are you open to a softer perspective?",
+      "hungarian": "Nyitott vagy egy kicsit lágyabb nézőpontra?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330280"
+    },
+    {
+      "english": "Take it, step by step, today.",
+      "hungarian": "Vedd, lépésről lépésre, ma.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330281"
+    },
+    {
+      "english": "No drama, breathe, and carry on.",
+      "hungarian": "Semmi pánik, lélegezz, és megy tovább.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330283"
+    },
+    {
+      "english": "Little by little, you’ll feel lighter.",
+      "hungarian": "Fokozatosan, könnyebb lesz a lelkednek.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330285"
+    },
+    {
+      "english": "Let it go, don’t chew it.",
+      "hungarian": "Engedd el, ne rágd tovább.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330288"
+    },
+    {
+      "english": "Mindfulness isn’t slow, it’s steady.",
+      "hungarian": "A tudatosság nem lassú, csak egyenletes.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330291"
+    },
+    {
+      "english": "Put your worries on hold, for now.",
+      "hungarian": "Tedd félre most a gondjaidat.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330294"
+    },
+    {
+      "english": "One task at a time, no rush.",
+      "hungarian": "Egy dolog egyszerre, ne siess.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330296"
+    },
+    {
+      "english": "Stay calm, even if it’s messy.",
+      "hungarian": "Maradj nyugodt, ha zűrös is.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330298"
+    },
+    {
+      "english": "Don’t overthink, do the next thing.",
+      "hungarian": "Ne agyalj túl, csináld a következőt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330300"
+    },
+    {
+      "english": "Take the long way of breathing.",
+      "hungarian": "Lélegezz hosszan, úgy, mint régen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330302"
+    },
+    {
+      "english": "Your pace is enough, really.",
+      "hungarian": "A te tempód elég, tényleg.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330305"
+    },
+    {
+      "english": "When in doubt, go gently.",
+      "hungarian": "Ha bizonytalan vagy, menjen óvatosan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330307"
+    },
+    {
+      "english": "Let the day pass, mindfully.",
+      "hungarian": "Vidd át a napot, nyugodtan, tudatosan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330309"
+    },
+    {
+      "english": "It’s okay to pause, that’s normal.",
+      "hungarian": "Megállni lehet, az teljesen rendben van.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330311"
+    },
+    {
+      "english": "Small steps, big calm, in time.",
+      "hungarian": "Apró lépések, nagy nyugalom, idővel.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330313"
+    },
+    {
+      "english": "Don’t chase feelings, just notice them.",
+      "hungarian": "Ne kergesd az érzést, csak figyeld.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330315"
+    },
+    {
+      "english": "Reset now, no guilt about it.",
+      "hungarian": "Most állj vissza, ne legyen bűntudat.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330317"
+    },
+    {
+      "english": "Let it be, that’s wisdom.",
+      "hungarian": "Hagyd így, ez a bölcsesség.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330319"
+    },
+    {
+      "english": "Breathe, and let your mind roam less.",
+      "hungarian": "Lélegezz, és kevesebbet kószáljon a fejed.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330321"
+    },
+    {
+      "english": "Keep it light, don’t carry everything.",
+      "hungarian": "Legyen könnyű, ne cipelj mindent.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330323"
+    },
+    {
+      "english": "Focus on now, not the whole story.",
+      "hungarian": "Most figyelj, ne az egész történetre.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330325"
+    },
+    {
+      "english": "If it’s too much, slow down.",
+      "hungarian": "Ha sok, lassíts egy kicsit.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330327"
+    },
+    {
+      "english": "You don’t need to fix everything today.",
+      "hungarian": "Ma nem kell mindent megoldanod.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330329"
+    },
+    {
+      "english": "Clear head, soft heart, go on.",
+      "hungarian": "Tiszta fej, lágy szív, és kész.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330331"
+    },
+    {
+      "english": "Hold your horses, breathe first.",
+      "hungarian": "Fogd vissza magad, előbb lélegezz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330333"
+    },
+    {
+      "english": "Choose calm, it’s not a luxury.",
+      "hungarian": "Válassz nyugalmat, ez nem luxus.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330335"
+    },
+    {
+      "english": "Make peace with this moment.",
+      "hungarian": "Köss békét ezzel a pillanattal.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330337"
+    },
+    {
+      "english": "Stay present, even in small things.",
+      "hungarian": "Legyél jelen kicsiben is.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330339"
+    },
+    {
+      "english": "Don’t panic, it will pass, slowly.",
+      "hungarian": "Ne pánikolj, elül, csak lassan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330341"
+    },
+    {
+      "english": "Let your breath do the talking.",
+      "hungarian": "A légzés beszéljen helyetted.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330342"
+    },
+    {
+      "english": "I’m noticing my feelings, without judging them.",
+      "hungarian": "Észlelem az érzéseimet, ítélkezés nélkül.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330345"
+    },
+    {
+      "english": "Right now, I’m being honest with myself.",
+      "hungarian": "Most őszintén szembenézek magammal.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330347"
+    },
+    {
+      "english": "It hurts a bit, and that’s true.",
+      "hungarian": "Kicsit fáj, és ez így van.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330349"
+    },
+    {
+      "english": "I can wait, even if my mind rushes.",
+      "hungarian": "Meg tudok várni, ha a fejem siet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330351"
+    },
+    {
+      "english": "I don’t have to solve this feeling now.",
+      "hungarian": "Nem kell most megoldanom ezt az érzést.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330353"
+    },
+    {
+      "english": "Be patient with me, my inner world.",
+      "hungarian": "Legyél türelmes velem, belső világom.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330355"
+    },
+    {
+      "english": "I’m allowed to pause, without explaining.",
+      "hungarian": "Megengedhetem magamnak a szünetet, magyarázat nélkül.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330359"
+    },
+    {
+      "english": "My thoughts are loud, but I’m listening.",
+      "hungarian": "Hangosak a gondolataim, de figyelek.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330362"
+    },
+    {
+      "english": "I’m tracking what I feel, moment by moment.",
+      "hungarian": "Figyelem, mit érzek, pillanatról pillanatra.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330364"
+    },
+    {
+      "english": "If I’m tense, I’ll notice that calmly.",
+      "hungarian": "Ha feszülök, nyugodtan észreveszem.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330366"
+    },
+    {
+      "english": "I can soften my grip on this worry.",
+      "hungarian": "Lazíthatom a szorítást ezen a gondon.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330368"
+    },
+    {
+      "english": "This moment is enough, even if it’s messy.",
+      "hungarian": "Ez a pillanat elég, még ha kusza is.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330370"
+    },
+    {
+      "english": "I’m not behind, I’m just breathing.",
+      "hungarian": "Nem vagyok lemaradva, csak lélegzem.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330373"
+    },
+    {
+      "english": "I feel shaky, and I stay with it.",
+      "hungarian": "Reszketek kicsit, és itt maradok vele.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330375"
+    },
+    {
+      "english": "I choose kindness, even to my impatience.",
+      "hungarian": "Választok kedvességet, még a türelmetlenséghez is.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330377"
+    },
+    {
+      "english": "Let my mind be, while I stay steady.",
+      "hungarian": "Hadd legyen a fejem, én meg maradok nyugodt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330379"
+    },
+    {
+      "english": "I’m allowed to want more, and still rest.",
+      "hungarian": "Jogos, ha többet akarok, és közben pihenhetek.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330381"
+    },
+    {
+      "english": "What I feel matters, even if it changes.",
+      "hungarian": "Amit érzek, számít, még ha változik is.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330384"
+    },
+    {
+      "english": "I notice my body, it always tells me something.",
+      "hungarian": "Figyelem a testemet, mindig mond valamit.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330386"
+    },
+    {
+      "english": "I can be brave, and still be gentle.",
+      "hungarian": "Lehetek bátor, és közben gyengéd.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330388"
+    },
+    {
+      "english": "I’m here, and I’m taking one honest breath.",
+      "hungarian": "Itt vagyok, és veszek egy őszinte lélegzetet.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330390"
+    },
+    {
+      "english": "This is where I pause, not where I fight.",
+      "hungarian": "Itt állok meg, nem itt kezdek harcolni.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330392"
+    },
+    {
+      "english": "My emotions can be weather, not my enemy.",
+      "hungarian": "Az érzelmeim lehetnek időjárás, nem ellenség.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330393"
+    },
+    {
+      "english": "I’ll speak to myself like a friend.",
+      "hungarian": "Barátként beszélek magamhoz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330396"
+    },
+    {
+      "english": "I’m listening for the real need underneath.",
+      "hungarian": "Meghallom a mélyebb valódi igényt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330397"
+    },
+    {
+      "english": "Even uncertainty can be a quiet teacher.",
+      "hungarian": "A bizonytalanság is lehet csendes tanító.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330399"
+    },
+    {
+      "english": "I don’t need perfection, I need awareness.",
+      "hungarian": "Nem tökéletesség kell, hanem tudatosság.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330401"
+    },
+    {
+      "english": "I’ll respect my pace, it’s still progress.",
+      "hungarian": "Tisztelem a tempómat, ez is előrelépés.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330403"
+    },
+    {
+      "english": "Right now, I’m choosing calm over speed.",
+      "hungarian": "Most a nyugalmat választom, nem a sietséget.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330405"
+    },
+    {
+      "english": "I can let the thought pass, gently.",
+      "hungarian": "Hadd menjen tovább a gondolat, finoman.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-05T09:58:47.330407"
     }
   ],
-  "last_updated": "2026-11-04T10:01:20.104004"
+  "last_updated": "2026-11-05T09:58:47.330408"
 }
