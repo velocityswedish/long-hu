@@ -4319,7 +4319,727 @@
       "hungarian": "Hadd menjen tovább a gondolat, finoman.",
       "category": "Mindfulness",
       "generated_at": "2026-11-05T09:58:47.330407"
+    },
+    {
+      "english": "Breathe, reset, you’ve got this, today",
+      "hungarian": "Vegyél egy levegőt, állj vissza, megy ez ma",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764363"
+    },
+    {
+      "english": "Small steps first, okay, don’t overthink",
+      "hungarian": "Apró lépésekkel kezdj, oké, ne agyalj túl",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764381"
+    },
+    {
+      "english": "No stress, just ask, what’s next?",
+      "hungarian": "Semmi pánik, csak kérdezz, mi következik?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764386"
+    },
+    {
+      "english": "Today’s goal, one thing, start now",
+      "hungarian": "A mai cél, egy dolog, kezd most",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764390"
+    },
+    {
+      "english": "Stop scrolling, stand up, move a bit",
+      "hungarian": "Hagyd a görgetést, kelj fel, mozogj egy kicsit",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764394"
+    },
+    {
+      "english": "You can do it, but slowly, calmly",
+      "hungarian": "Meg tudod csinálni, de lassan, nyugodtan",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764396"
+    },
+    {
+      "english": "Say it clearly, I mean it",
+      "hungarian": "Mondd ki világosan, komolyan gondolom",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764399"
+    },
+    {
+      "english": "Let’s be honest, I need a plan",
+      "hungarian": "Legyünk őszinték, nekem terv kell",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764405"
+    },
+    {
+      "english": "Quick check-in, how are you holding up?",
+      "hungarian": "Gyors ellenőrzés, hogy bírod?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764409"
+    },
+    {
+      "english": "Do your best, not perfect, breathe",
+      "hungarian": "A legjobbat, nem tökéletesen, lélegezz",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764412"
+    },
+    {
+      "english": "Pause a second, then try again",
+      "hungarian": "Állj meg egy pillanatra, aztán próbáld újra",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764418"
+    },
+    {
+      "english": "I’m proud of you, really, keep going",
+      "hungarian": "Tényleg büszke vagyok rád, folytasd",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764423"
+    },
+    {
+      "english": "What matters most, today, for you?",
+      "hungarian": "Mi a legfontosabb ma, neked?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764427"
+    },
+    {
+      "english": "No excuses, just start small, now",
+      "hungarian": "Nincs kifogás, csak kezdd kicsiben, most",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764429"
+    },
+    {
+      "english": "If it’s hard, it’s practice, right?",
+      "hungarian": "Ha nehéz, az gyakorlat, ugye?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764433"
+    },
+    {
+      "english": "Tell me the truth, what’s the real issue?",
+      "hungarian": "Mondd el az igazat, mi a valódi gond?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764437"
+    },
+    {
+      "english": "Make it simple, one step, then another",
+      "hungarian": "Tartsd egyszerűen, egy lépés, aztán jön a következő",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764439"
+    },
+    {
+      "english": "You’re allowed to rest, just don’t quit",
+      "hungarian": "Jogos a pihenés, de ne add fel",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764443"
+    },
+    {
+      "english": "That’s okay, learn, adjust, move on",
+      "hungarian": "Semmi gond, tanulj, igazíts, tovább",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764446"
+    },
+    {
+      "english": "I need focus, headphones on, start",
+      "hungarian": "Kell a fókusz, fel a fülhallgató, indulj",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764449"
+    },
+    {
+      "english": "Be kind to yourself, seriously",
+      "hungarian": "Legyél kedves magaddal, tényleg",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764452"
+    },
+    {
+      "english": "How’s it going, honestly, right now?",
+      "hungarian": "Hogy állsz, őszintén, most?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764455"
+    },
+    {
+      "english": "Choose progress, not drama, keep calm",
+      "hungarian": "Válassz fejlődést, ne drámát, nyugi",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764458"
+    },
+    {
+      "english": "I’ll do it later, but not forever",
+      "hungarian": "Megcsinálom később, de nem örökre",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764461"
+    },
+    {
+      "english": "Ready, set, go, one tiny win",
+      "hungarian": "Kész, indulj, egy apró győzelem",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764464"
+    },
+    {
+      "english": "Be specific, what exactly do you want?",
+      "hungarian": "Mondd meg pontosan, mit is akarsz?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764466"
+    },
+    {
+      "english": "Thanks for listening, now tell me",
+      "hungarian": "Köszi, hogy figyeltél, és most mondd",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764469"
+    },
+    {
+      "english": "Try again, you’re not behind",
+      "hungarian": "Próbáld újra, nem vagy lemaradva",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764472"
+    },
+    {
+      "english": "Keep your promise, small ones count",
+      "hungarian": "Tartsd meg az ígéreted, a kicsik is számítanak",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764474"
+    },
+    {
+      "english": "What motivates you, even on tired days?",
+      "hungarian": "Mi motivál téged, még fáradt napokon is?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764477"
+    },
+    {
+      "english": "How do you want your week to feel?",
+      "hungarian": "Hogyan szeretnéd, hogy a heted érezhető legyen?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764480"
+    },
+    {
+      "english": "Can I ask, what’s your biggest blocker right now?",
+      "hungarian": "Megkérdezhetem, mi a legnagyobb akadályod most?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764484"
+    },
+    {
+      "english": "What would help you stay consistent this month?",
+      "hungarian": "Mi segítene abban, hogy következetes maradj idén?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764487"
+    },
+    {
+      "english": "When you slip up, what do you do next?",
+      "hungarian": "Ha megcsúszol, mit csinálsz a következő pillanatban?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764490"
+    },
+    {
+      "english": "What’s one habit you’d quit this week?",
+      "hungarian": "Melyik szokást hagynád el ezen a héten?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764493"
+    },
+    {
+      "english": "Do you want advice, or just to vent?",
+      "hungarian": "Kérsz tanácsot, vagy csak ki akarod adni magadból?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764496"
+    },
+    {
+      "english": "How’s your energy today, on a scale of one?",
+      "hungarian": "Mennyi az energiád ma, egytől tízig?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764500"
+    },
+    {
+      "english": "What’s your realistic goal for the next hour?",
+      "hungarian": "Mi a reális célod a következő egy órára?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764505"
+    },
+    {
+      "english": "Can you name the real problem, in one sentence?",
+      "hungarian": "Meg tudod nevezni a valódi problémát, egy mondatban?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764508"
+    },
+    {
+      "english": "Who could support you, without judging?",
+      "hungarian": "Ki tudna támogatni téged, ítélkezés nélkül?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764511"
+    },
+    {
+      "english": "What’s working for you lately, surprisingly?",
+      "hungarian": "Mi működik nálad mostanában, meglepően?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764515"
+    },
+    {
+      "english": "Where do you lose time most, honestly?",
+      "hungarian": "Hol csúszik el a legtöbb időd, őszintén?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764519"
+    },
+    {
+      "english": "Do you prefer morning motivation, or evening habits?",
+      "hungarian": "Inkább reggeli motivációt szeretsz, vagy esti szokásokat?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764525"
+    },
+    {
+      "english": "If you could change one thing, what would it be?",
+      "hungarian": "Ha egy dolgot megváltoztathatnál, mi lenne az?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764528"
+    },
+    {
+      "english": "What’s your next step, in plain words?",
+      "hungarian": "Mi a következő lépésed, egyszerűen megfogalmazva?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764531"
+    },
+    {
+      "english": "What question should you ask yourself today?",
+      "hungarian": "Milyen kérdést érdemes feltenned ma magadnak?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764534"
+    },
+    {
+      "english": "Can we make a quick plan for this?",
+      "hungarian": "Készíthetünk egy gyors tervet erre?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764536"
+    },
+    {
+      "english": "What does success look like for you, today?",
+      "hungarian": "Mit jelent számodra a siker, ma?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764539"
+    },
+    {
+      "english": "How do you handle pressure, without burning out?",
+      "hungarian": "Hogy kezeled a nyomást, kiégés nélkül?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764541"
+    },
+    {
+      "english": "Would you rather be brave now, or later?",
+      "hungarian": "Inkább most vállalnál bátorságot, vagy később?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764544"
+    },
+    {
+      "english": "What’s one small win, you can repeat tomorrow?",
+      "hungarian": "Mi egy apró siker, amit holnap is megismételnél?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764548"
+    },
+    {
+      "english": "Do you track progress, or just outcomes?",
+      "hungarian": "Mérsz haladást, vagy csak az eredményt nézed?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764551"
+    },
+    {
+      "english": "How can we simplify your routine right now?",
+      "hungarian": "Hogy egyszerűsíthetjük le a rutinodat most?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764553"
+    },
+    {
+      "english": "What’s stopping you, fear, doubt, or energy?",
+      "hungarian": "Mi tart vissza, félelem, kétely, vagy energia?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764557"
+    },
+    {
+      "english": "Can you ask for help, even one step?",
+      "hungarian": "Tudsz segítséget kérni, akár egy lépésben is?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764562"
+    },
+    {
+      "english": "What would you do, if no one watched?",
+      "hungarian": "Mit tennél, ha senki nem nézne?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764565"
+    },
+    {
+      "english": "How do you keep your promises to yourself?",
+      "hungarian": "Hogy tartod be a saját ígéreteidet?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764567"
+    },
+    {
+      "english": "What’s a kinder way to talk to yourself?",
+      "hungarian": "Mi lenne egy kedvesebb mondat magadhoz?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764571"
+    },
+    {
+      "english": "Want to swap strategies, what’s yours lately?",
+      "hungarian": "Cseréljünk stratégiát, mi működik nálad mostanában?",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764574"
+    },
+    {
+      "english": "Positive thoughts, same effort, better results",
+      "hungarian": "Pozitív gondolatok, ugyanaz a munka, jobb eredmény",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764579"
+    },
+    {
+      "english": "Notice progress, not perfection, today",
+      "hungarian": "Vedd észre a haladást, nem a tökéletességet ma",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764582"
+    },
+    {
+      "english": "Give yourself credit, you’re showing up",
+      "hungarian": "Adj magadnak elismerést, ott vagy",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764586"
+    },
+    {
+      "english": "Small wins build big confidence, keep going",
+      "hungarian": "A kis sikerek nagy magabiztosságot építenek, folytasd",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764589"
+    },
+    {
+      "english": "Switch to “I can,” not “I can’t”",
+      "hungarian": "Válts „meg tudom”, ne „nem tudom”",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764593"
+    },
+    {
+      "english": "Your effort matters, even when it’s messy",
+      "hungarian": "A próbálkozás számít, még ha kicsit kusza is",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764596"
+    },
+    {
+      "english": "Talk to yourself like you talk to a friend",
+      "hungarian": "Úgy beszélj magaddal, ahogy egy baráttal",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764599"
+    },
+    {
+      "english": "Today counts, even if it’s not perfect",
+      "hungarian": "Ma számít, még ha nem is tökéletes",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764602"
+    },
+    {
+      "english": "Remind yourself, quitting isn’t the answer",
+      "hungarian": "Emlékeztesd magad, a feladás nem megoldás",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764605"
+    },
+    {
+      "english": "Be proud of effort, results will follow",
+      "hungarian": "Legyél büszke a munkára, a végeredmény jön",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764608"
+    },
+    {
+      "english": "Change the story, and your mood follows",
+      "hungarian": "Változtasd a történetet, és a hangulat is jön utána",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764611"
+    },
+    {
+      "english": "You’re learning, not failing, keep breathing",
+      "hungarian": "Tanulsz, nem buksz, csak lélegezz",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764614"
+    },
+    {
+      "english": "Praise your consistency, not just your outcomes",
+      "hungarian": "Dicsérd a kitartásod, ne csak az eredményt",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764617"
+    },
+    {
+      "english": "Make room for progress, even today",
+      "hungarian": "Adj helyet a fejlődésnek, akár ma is",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764620"
+    },
+    {
+      "english": "Let discomfort teach you, then move",
+      "hungarian": "Hagyd, hogy a kellemetlenség tanítson, aztán tovább",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764622"
+    },
+    {
+      "english": "You don’t need motivation, you need action",
+      "hungarian": "Nem kell motiváció, cselekvés kell",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764628"
+    },
+    {
+      "english": "Stay gentle, but keep your goals",
+      "hungarian": "Legyél laza, de tartsd a céljaid",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764649"
+    },
+    {
+      "english": "Every try is data, not your identity",
+      "hungarian": "Minden próbálkozás adat, nem a személyiséged",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764654"
+    },
+    {
+      "english": "Say it out loud, I’m capable",
+      "hungarian": "Mondd ki hangosan, képes vagyok",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764660"
+    },
+    {
+      "english": "Your future self is watching, act anyway",
+      "hungarian": "A jövőbeni éned figyel, cselekedj most is",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764664"
+    },
+    {
+      "english": "Focus on what you control, right now",
+      "hungarian": "Csak arra figyelj, amit irányíthatsz, most",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764667"
+    },
+    {
+      "english": "You’re allowed to have bad days, still",
+      "hungarian": "Rendben van, ha rossz napod van, akkor is",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764670"
+    },
+    {
+      "english": "One deep breath, then choose again",
+      "hungarian": "Egy mély levegő, aztán döntsd el újra",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764673"
+    },
+    {
+      "english": "Be grateful for effort, not just wins",
+      "hungarian": "Legyél hálás a próbálkozásért, nemcsak a győzelemért",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764678"
+    },
+    {
+      "english": "Turn doubt into questions, then answers",
+      "hungarian": "A kételyt alakítsd kérdésekké, aztán válaszokká",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764681"
+    },
+    {
+      "english": "Keep your standards, soften your self-talk",
+      "hungarian": "Legyenek magasak az elvárásaid, kíméld a belső hangod",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764684"
+    },
+    {
+      "english": "Even small steps say, “I’m changing”",
+      "hungarian": "Még a kicsi lépés is azt mondja, változom",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764687"
+    },
+    {
+      "english": "Don’t wait for perfect timing, start",
+      "hungarian": "Ne várj tökéletes időzítésre, kezdj",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764691"
+    },
+    {
+      "english": "Believe progress is possible, keep proving it",
+      "hungarian": "Hidd, hogy fejlődni lehet, és bizonyítsd be",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764693"
+    },
+    {
+      "english": "Be honest with your feelings, then act kindly.",
+      "hungarian": "Légy őszinte az érzéseiddel, aztán cselekedj kedvesen.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764696"
+    },
+    {
+      "english": "Sometimes I need time, not another push.",
+      "hungarian": "Néha idő kell nekem, nem egy újabb lökés.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764699"
+    },
+    {
+      "english": "I’m learning patience, especially with myself.",
+      "hungarian": "A türelmet tanulom, főleg magammal szemben.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764702"
+    },
+    {
+      "english": "Name the feeling, don’t let it drive.",
+      "hungarian": "Nevezd meg az érzést, ne hagyd kormányozni.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764706"
+    },
+    {
+      "english": "I can be proud, even if it’s slow.",
+      "hungarian": "Lehetek büszke, még ha lassú is.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764709"
+    },
+    {
+      "english": "Check in with yourself, like it matters.",
+      "hungarian": "Ellenőrizd magad, mintha számítana.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764712"
+    },
+    {
+      "english": "My emotions are signals, not obstacles.",
+      "hungarian": "Az érzelmeim jelzések, nem akadályok.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764715"
+    },
+    {
+      "english": "Let today be messy, still keep going.",
+      "hungarian": "Legyen ma kicsit kusza, ettől még haladj.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764717"
+    },
+    {
+      "english": "I forgive myself, then try again tomorrow.",
+      "hungarian": "Maga megbocsátok, aztán holnap újra próbálok.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764720"
+    },
+    {
+      "english": "I don’t spiral, I breathe and reset.",
+      "hungarian": "Nem zuhanok bele, csak veszek egy levegőt, és újraindulok.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764723"
+    },
+    {
+      "english": "I’m reflecting, not judging, that’s the difference.",
+      "hungarian": "Elmélkedem, nem ítélkezem, ezért más.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764727"
+    },
+    {
+      "english": "Tell the truth gently, no drama needed.",
+      "hungarian": "Mondd ki az igazat halkan, nincs szükség drámára.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764730"
+    },
+    {
+      "english": "I choose honesty over pretending, always.",
+      "hungarian": "Mindig az őszinteséget választom a színlelés helyett.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764733"
+    },
+    {
+      "english": "When I fall back, I re-center myself.",
+      "hungarian": "Ha visszacsúszom, visszatalálok magamhoz.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764738"
+    },
+    {
+      "english": "I’m allowed to grow, in my own pace.",
+      "hungarian": "Jogom van fejlődni, a saját tempómban.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764741"
+    },
+    {
+      "english": "I listen first, then decide what to do.",
+      "hungarian": "Először meghallgatom, aztán döntök, mit tegyek.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764744"
+    },
+    {
+      "english": "My inner voice deserves patience and respect.",
+      "hungarian": "A belső hangomnak türelem és tisztelet jár.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764747"
+    },
+    {
+      "english": "I don’t rush healing, I keep showing up.",
+      "hungarian": "Nem siettetem a gyógyulást, csak megjelenek újra.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764752"
+    },
+    {
+      "english": "What I feel is real, that’s okay.",
+      "hungarian": "Amit érzek, valós, és ez rendben van.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764755"
+    },
+    {
+      "english": "I ask, “What do I need right now?”",
+      "hungarian": "Megkérdezem: „Mit van szükségem most?”",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764759"
+    },
+    {
+      "english": "I’m learning to be soft, not stuck.",
+      "hungarian": "Azt tanulom, hogyan legyek gyengéd, ne beragadva.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764762"
+    },
+    {
+      "english": "I can pause, without losing momentum.",
+      "hungarian": "Megállhatok egy pillanatra, nem veszítem el a lendületet.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764765"
+    },
+    {
+      "english": "I write my thoughts, and they calm down.",
+      "hungarian": "Leírom a gondolataim, aztán lecsillapodnak.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764767"
+    },
+    {
+      "english": "I let progress be quiet, still real.",
+      "hungarian": "A fejlődés lehet csendes, mégis igazi.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764770"
+    },
+    {
+      "english": "I keep it honest, even when it stings.",
+      "hungarian": "Őszinte maradok, akkor is, ha fáj kicsit.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764773"
+    },
+    {
+      "english": "I don’t punish myself, I adjust and learn.",
+      "hungarian": "Nem büntetem magam, csak igazítok és tanulok.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764776"
+    },
+    {
+      "english": "Be patient, your mind needs safety first.",
+      "hungarian": "Legyél türelmes, a fejednek előbb biztonság kell.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764778"
+    },
+    {
+      "english": "I’m allowed to feel jealous, then choose better.",
+      "hungarian": "Megengedhetem magamnak, hogy irigyek legyek, aztán jobbat választok.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764782"
+    },
+    {
+      "english": "I reflect on what worked, not just failures.",
+      "hungarian": "Arra tekintek vissza, mi működött, nem csak a hibákra.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764785"
+    },
+    {
+      "english": "I keep my heart open, boundaries too.",
+      "hungarian": "Nyitva tartom a szívem, és vannak határaim is.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764788"
+    },
+    {
+      "english": "Start small today, but don’t quit.",
+      "hungarian": "Kezdj kicsiben ma, de ne add fel.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764791"
+    },
+    {
+      "english": "Before you react, pause and ask why.",
+      "hungarian": "Mielőtt reagálsz, állj meg, és kérdezd meg miért.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-06T10:01:24.764794"
     }
   ],
-  "last_updated": "2026-11-05T09:58:47.330408"
+  "last_updated": "2026-11-06T10:01:24.764796"
 }
