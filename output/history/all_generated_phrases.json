@@ -5039,7 +5039,727 @@
       "hungarian": "Mielőtt reagálsz, állj meg, és kérdezd meg miért.",
       "category": "Self Improvement",
       "generated_at": "2026-11-06T10:01:24.764794"
+    },
+    {
+      "english": "Hi, can we get menus, please?",
+      "hungarian": "Szia, kérnénk menüt, kérlek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351787"
+    },
+    {
+      "english": "We’d like two waters, please.",
+      "hungarian": "Két ásványvizet kérnénk, kérlek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351811"
+    },
+    {
+      "english": "Do you have something spicy?",
+      "hungarian": "Van valami csípős, esetleg?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351815"
+    },
+    {
+      "english": "I’m in the mood for pasta.",
+      "hungarian": "Most tészta kell, valami ilyesmi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351819"
+    },
+    {
+      "english": "Can I see the specials, please?",
+      "hungarian": "Megmutatnád a napi ajánlatokat, kérlek?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351822"
+    },
+    {
+      "english": "I’ll have it to go, please.",
+      "hungarian": "Ezt elvitelre kérem, kérlek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351826"
+    },
+    {
+      "english": "Is the table free for two?",
+      "hungarian": "Szabad még a kettes asztal?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351829"
+    },
+    {
+      "english": "Sorry, can we change our order?",
+      "hungarian": "Bocs, módosíthatjuk a rendelést?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351834"
+    },
+    {
+      "english": "Bring the bill, please, thanks.",
+      "hungarian": "Kérnénk a számlát, köszi.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351838"
+    },
+    {
+      "english": "Great, I’ll try that.",
+      "hungarian": "Oké, kipróbálom azt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351842"
+    },
+    {
+      "english": "Wait, I’ll take it without cheese.",
+      "hungarian": "Állj meg, kérek sajtot nélkül.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351845"
+    },
+    {
+      "english": "Can I get it extra hot?",
+      "hungarian": "Lehet extra csípős?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351848"
+    },
+    {
+      "english": "I’m allergic to nuts, sorry.",
+      "hungarian": "Diós ételre allergiás vagyok, bocsánat.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351853"
+    },
+    {
+      "english": "Is this vegetarian, by any chance?",
+      "hungarian": "Ez vegetáriánus, véletlenül?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351856"
+    },
+    {
+      "english": "How spicy is it, really?",
+      "hungarian": "Mennyire csípős ez, komolyan?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351859"
+    },
+    {
+      "english": "I’ll start with a salad.",
+      "hungarian": "Kezdem egy salátával.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351862"
+    },
+    {
+      "english": "Could I have a side of fries?",
+      "hungarian": "Kaphatok mellé krumplit?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351865"
+    },
+    {
+      "english": "Is dessert included, or extra?",
+      "hungarian": "A desszert benne van, vagy külön?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351867"
+    },
+    {
+      "english": "Do you have lemon water?",
+      "hungarian": "Van citromos víz, kérlek?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351870"
+    },
+    {
+      "english": "I’ll have the chicken, please.",
+      "hungarian": "Kérek csirkét, kérlek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351873"
+    },
+    {
+      "english": "Sorry, no onion, please.",
+      "hungarian": "Bocs, hagymát nem kérek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351876"
+    },
+    {
+      "english": "That smells amazing, wow.",
+      "hungarian": "Ez isteni illatú, na ne!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351880"
+    },
+    {
+      "english": "Can I swap for something else?",
+      "hungarian": "Cserélhetem másra, kérlek?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351883"
+    },
+    {
+      "english": "How long will it take, roughly?",
+      "hungarian": "Kb. mennyi idő lesz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351886"
+    },
+    {
+      "english": "Oops, I didn’t order that.",
+      "hungarian": "Jaj, ez nem ezt kértem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351889"
+    },
+    {
+      "english": "One more thing, please.",
+      "hungarian": "Még egyet, kérlek.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351892"
+    },
+    {
+      "english": "Waiter, can we get ketchup?",
+      "hungarian": "Felszolgáló, kérünk ketchupot!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351896"
+    },
+    {
+      "english": "Perfect, I’m ready to order.",
+      "hungarian": "Tökéletes, készen állok rendelni.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351900"
+    },
+    {
+      "english": "Can we pay with card, please?",
+      "hungarian": "Bankkártyával lehet fizetni?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351902"
+    },
+    {
+      "english": "What do you recommend, today, for beginners?",
+      "hungarian": "Mit ajánlasz ma, kezdőknek, leginkább?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351906"
+    },
+    {
+      "english": "Is there a lunch menu, today?",
+      "hungarian": "Van ma ebédmenü, esetleg?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351910"
+    },
+    {
+      "english": "Can we ask about gluten-free options?",
+      "hungarian": "Meg tudjuk kérdezni, van-e gluténmentes opció?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351913"
+    },
+    {
+      "english": "How fresh is the salad, really?",
+      "hungarian": "Mennyire friss a saláta, tényleg?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351916"
+    },
+    {
+      "english": "Do you have any local specialties here?",
+      "hungarian": "Van itt valami helyi különlegesség?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351919"
+    },
+    {
+      "english": "Could you help us choose, quickly?",
+      "hungarian": "Tudnál gyorsan segíteni választani?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351921"
+    },
+    {
+      "english": "What’s your most popular dish tonight?",
+      "hungarian": "Mi a legnépszerűbb fogás ma este?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351925"
+    },
+    {
+      "english": "Is this portion big, or medium?",
+      "hungarian": "Nagy adag ez, vagy inkább közepes?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351927"
+    },
+    {
+      "english": "Do you offer half portions, by chance?",
+      "hungarian": "Van fél adag is, véletlenül?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351930"
+    },
+    {
+      "english": "Can I get recommendations for drinks too?",
+      "hungarian": "Italban is tudsz ajánlani valamit?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351933"
+    },
+    {
+      "english": "Is the sauce served on the side?",
+      "hungarian": "Külön hozzák a szószt?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351935"
+    },
+    {
+      "english": "What comes with it, exactly?",
+      "hungarian": "Pontosan mi jár hozzá?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351938"
+    },
+    {
+      "english": "Can I see the drink menu, please?",
+      "hungarian": "Meg tudnád mutatni az itallapot, kérlek?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351940"
+    },
+    {
+      "english": "Is there a wait time for popular items?",
+      "hungarian": "A népszerű ételeknél van várakozás?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351943"
+    },
+    {
+      "english": "Do you split plates for two people?",
+      "hungarian": "Tudtok két tányérra szedni?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351945"
+    },
+    {
+      "english": "What’s the vegetarian option you love most?",
+      "hungarian": "Melyik a legjobb vegetáriánus fogás nálatok?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351949"
+    },
+    {
+      "english": "Can we get it less salty, please?",
+      "hungarian": "Meg lehetne úgy kérni, hogy kevésbé sós?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351951"
+    },
+    {
+      "english": "Is the fish fresh today, guaranteed?",
+      "hungarian": "Ma friss a hal, tényleg biztos?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351954"
+    },
+    {
+      "english": "How do I order, step by step?",
+      "hungarian": "Hogyan kell rendelni, lépésről lépésre?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351957"
+    },
+    {
+      "english": "Should we reserve for dinner here?",
+      "hungarian": "Érdemes asztalt foglalni vacsorára?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351959"
+    },
+    {
+      "english": "Are kids portions available, by any chance?",
+      "hungarian": "Van gyerek adag, véletlenül?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351962"
+    },
+    {
+      "english": "Can we get recommendations for dessert?",
+      "hungarian": "Tudnál ajánlani valami desszertet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351965"
+    },
+    {
+      "english": "Is there a house specialty, not too heavy?",
+      "hungarian": "Van házi specialitás, ami nem túl nehéz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351967"
+    },
+    {
+      "english": "Do you have any recommendations for first-timers?",
+      "hungarian": "Mit javasolsz első látogatóknak?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351970"
+    },
+    {
+      "english": "Can I taste it before deciding?",
+      "hungarian": "Meg tudom kóstolni, mielőtt döntök?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351973"
+    },
+    {
+      "english": "Is tap water free here, usually?",
+      "hungarian": "Általában ingyen van a csapvíz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351975"
+    },
+    {
+      "english": "What’s your allergy policy, generally?",
+      "hungarian": "Milyen az allergiás policy nálatok?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351979"
+    },
+    {
+      "english": "Can we get separate checks, please?",
+      "hungarian": "Meg tudnánk kérni külön a fizetést?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351981"
+    },
+    {
+      "english": "Do you offer takeout containers for leftovers?",
+      "hungarian": "Van doboz maradéknak elvitelre?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351984"
+    },
+    {
+      "english": "You’ve got this, trust your instincts.",
+      "hungarian": "Megcsinálod, bízz a megérzéseidben.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351987"
+    },
+    {
+      "english": "Say it clearly, you’re doing great.",
+      "hungarian": "Mondd ki tisztán, nagyon jól csinálod.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351991"
+    },
+    {
+      "english": "Go slow, one question at a time.",
+      "hungarian": "Lassíts, kérdésenként haladj.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351994"
+    },
+    {
+      "english": "Start simple, then explore more flavors.",
+      "hungarian": "Kezdj egyszerűvel, aztán jöhet több íz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.351998"
+    },
+    {
+      "english": "Stay calm, the staff will help.",
+      "hungarian": "Maradj nyugodt, a személyzet segít.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352001"
+    },
+    {
+      "english": "Your order doesn’t need to be perfect.",
+      "hungarian": "Nem kell tökéletesen rendelni.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352006"
+    },
+    {
+      "english": "Good vibes first, then food comes next.",
+      "hungarian": "Jó hangulat először, aztán jön az étel.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352009"
+    },
+    {
+      "english": "Nice try, ask again if needed.",
+      "hungarian": "Szép próbálkozás, kérdezz újra, ha kell.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352012"
+    },
+    {
+      "english": "Be confident, you speak the language of food.",
+      "hungarian": "Légy magabiztos, az étel nyelvét beszéled.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352015"
+    },
+    {
+      "english": "It’s okay to be curious, go ahead.",
+      "hungarian": "Nem gond a kíváncsiság, nyugodtan.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352018"
+    },
+    {
+      "english": "Celebrate small wins, your meal is coming.",
+      "hungarian": "Ünnepelj apró sikereket, jön a vacsora.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352021"
+    },
+    {
+      "english": "Ask, smile, and keep the energy up.",
+      "hungarian": "Kérdezz, mosolyogj, és tartsd az energiát.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352024"
+    },
+    {
+      "english": "You don’t have to know everything, just ask.",
+      "hungarian": "Nem kell mindent tudni, csak kérdezz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352028"
+    },
+    {
+      "english": "Choose what sounds good, follow your taste.",
+      "hungarian": "Válassz azt, ami jól hangzik, kövesd az ízt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352031"
+    },
+    {
+      "english": "Trust the menu, it’s there for you.",
+      "hungarian": "Bízz a menüben, neked van ott.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352034"
+    },
+    {
+      "english": "You’re improving fast, keep going!",
+      "hungarian": "Gyorsan fejlődsz, csak így tovább!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352038"
+    },
+    {
+      "english": "Even if you stumble, you’ll be fine.",
+      "hungarian": "Ha elakadnál is, nem lesz gond.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352041"
+    },
+    {
+      "english": "Be friendly, they’ll respond warmly.",
+      "hungarian": "Legyél kedves, melegen fognak válaszolni.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352046"
+    },
+    {
+      "english": "You deserve a tasty win today.",
+      "hungarian": "Ma neked jár egy finom siker.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352049"
+    },
+    {
+      "english": "Take a breath, then order your favorite.",
+      "hungarian": "Vegyél egy levegőt, aztán rendeld meg.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352051"
+    },
+    {
+      "english": "Let’s make this easy, one simple pick.",
+      "hungarian": "Legyen egyszerű, egy gyors választás.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352055"
+    },
+    {
+      "english": "Your questions help, you’re being proactive.",
+      "hungarian": "A kérdések segítenek, proaktívan csinálod.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352058"
+    },
+    {
+      "english": "Keep it positive, today’s going great.",
+      "hungarian": "Maradj pozitív, ma igazán jól megy.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352061"
+    },
+    {
+      "english": "Ask for what you want, no stress.",
+      "hungarian": "Mondd el, amit szeretnél, semmi para.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352064"
+    },
+    {
+      "english": "Small talk first, then the order.",
+      "hungarian": "Először pár szó, aztán jöhet a rendelés.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352067"
+    },
+    {
+      "english": "Be brave, your Hungarian will sound better.",
+      "hungarian": "Légy bátor, szebben fog szólni a magyar.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352070"
+    },
+    {
+      "english": "Stay curious, you’re learning with every bite.",
+      "hungarian": "Maradj kíváncsi, minden falat tanít.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352073"
+    },
+    {
+      "english": "You’re doing awesome, keep the momentum.",
+      "hungarian": "Nagyon jól csinálod, tartsd a lendületet.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352077"
+    },
+    {
+      "english": "One menu, many possibilities, enjoy it.",
+      "hungarian": "Egy menü, sok lehetőség, élvezd!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352080"
+    },
+    {
+      "english": "Say thanks, you’re creating good vibes.",
+      "hungarian": "Mondd, hogy köszönöm, jó hangulat lesz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352083"
+    },
+    {
+      "english": "Honestly, I’m still deciding, what’s best today?",
+      "hungarian": "Őszintén, még döntök, mi a legjobb ma?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352088"
+    },
+    {
+      "english": "I’m craving something warm, can you suggest?",
+      "hungarian": "Valami melegre vágyom, tudnál ajánlani?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352092"
+    },
+    {
+      "english": "I want comfort food, not too heavy, please.",
+      "hungarian": "Kényelmes ételt ennék, nem túl nehéz, kérem.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352095"
+    },
+    {
+      "english": "I’m a bit nervous, could you explain briefly?",
+      "hungarian": "Kicsit izgulok, el tudnád mondani röviden?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352099"
+    },
+    {
+      "english": "Take your time, I’ll wait for your answer.",
+      "hungarian": "Nem sietek, nyugodtan válaszolj.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352102"
+    },
+    {
+      "english": "I’ll go with your judgment, what’s popular?",
+      "hungarian": "A tiédre bízom, mi a legnépszerűbb?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352107"
+    },
+    {
+      "english": "I’m trying to eat lighter, what fits?",
+      "hungarian": "Kicsit könnyebben ennék, mi passzol?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352111"
+    },
+    {
+      "english": "I’m not sure, could we talk about portions?",
+      "hungarian": "Nem vagyok biztos, beszéljünk az adagokról.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352114"
+    },
+    {
+      "english": "Honestly, I’d love something seasonal, what’s available?",
+      "hungarian": "Őszintén, szívesen megkóstolnék valami szezonálist.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352118"
+    },
+    {
+      "english": "I don’t want surprises, is it spicy?",
+      "hungarian": "Nem kérek meglepetést, csípős?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352121"
+    },
+    {
+      "english": "I’m learning, so please speak slowly and clearly.",
+      "hungarian": "Tanulok, szóval kérlek, lassan, érthetően.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352125"
+    },
+    {
+      "english": "I’m feeling indecisive, what’s your personal favorite?",
+      "hungarian": "Hát bizonytalan vagyok, mi a személyes kedvenced?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352128"
+    },
+    {
+      "english": "To be real, I’m hungry, quick options?",
+      "hungarian": "Őszintén, éhes vagyok, van gyors választék?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352132"
+    },
+    {
+      "english": "I’ll trust you, but tell me what's in it.",
+      "hungarian": "Bízom magában, de mondd el, mi van benne.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352135"
+    },
+    {
+      "english": "I’d rather start with something mild, okay?",
+      "hungarian": "Inkább valami enyhével kezdenék, jó?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352139"
+    },
+    {
+      "english": "I’m taking it easy tonight, recommend a simple dish.",
+      "hungarian": "Ma lazítok, ajánlj egy egyszerű ételt.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352142"
+    },
+    {
+      "english": "If it’s possible, I’d like it less salty.",
+      "hungarian": "Ha lehet, kérném kevésbé sósan.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352146"
+    },
+    {
+      "english": "I appreciate patience, I need a moment to choose.",
+      "hungarian": "Köszönöm a türelmet, kell egy perc dönteni.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352149"
+    },
+    {
+      "english": "I’m reflecting on flavors, which one is gentler?",
+      "hungarian": "Az ízeken gondolkodom, melyik a kímélőbb?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352152"
+    },
+    {
+      "english": "I’ll be honest, I’m afraid of strong garlic.",
+      "hungarian": "Őszintén, tartok a sok fokhagymától.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352156"
+    },
+    {
+      "english": "What’s the vibe here, hearty or fresh?",
+      "hungarian": "Milyen a hangulat itt, laktató vagy friss?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352159"
+    },
+    {
+      "english": "I want to try local, but I’m not adventurous.",
+      "hungarian": "Helyit ennék, de nem vagyok nagyon bátor.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352164"
+    },
+    {
+      "english": "I’d like something filling, without feeling heavy.",
+      "hungarian": "Valami laktató kéne, de ne legyen nehéz.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352168"
+    },
+    {
+      "english": "Could you guide me, I’m new to Hungarian food?",
+      "hungarian": "Meg tudsz vezetni? Új vagyok a magyar ételekben.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352171"
+    },
+    {
+      "english": "I’m grateful, I’ll take whatever you recommend most.",
+      "hungarian": "Nagyon köszönöm, kérem, azt, amit a legjobban ajánlanak.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352175"
+    },
+    {
+      "english": "I don’t want to rush, can we decide calmly?",
+      "hungarian": "Nem szeretném elsietni, nyugodtan döntünk?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352178"
+    },
+    {
+      "english": "I’m craving something sweet, is there a light option?",
+      "hungarian": "Valami édesre vágyom, van könnyű desszert?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352181"
+    },
+    {
+      "english": "I want the chef’s touch, what should I order?",
+      "hungarian": "Kellene a séf íze, mit ajánlasz?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352184"
+    },
+    {
+      "english": "I’m listening carefully, which menu item is best?",
+      "hungarian": "Figyelek, melyik étel a legjobb?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352187"
+    },
+    {
+      "english": "If I change my mind, it’s okay, right?",
+      "hungarian": "Ha meggondolom magam, az rendben van, ugye?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352191"
+    },
+    {
+      "english": "Quick question, what’s the house specialty today?",
+      "hungarian": "Gyors kérdés, mi a mai ház specialitása?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352194"
+    },
+    {
+      "english": "Is this spicy, like, really spicy?",
+      "hungarian": "Fűszeres, mondjuk, nagyon csípős?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-07T09:20:43.352198"
     }
   ],
-  "last_updated": "2026-11-06T10:01:24.764796"
+  "last_updated": "2026-11-07T09:20:43.352199"
 }
