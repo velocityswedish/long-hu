@@ -5759,7 +5759,727 @@
       "hungarian": "Fűszeres, mondjuk, nagyon csípős?",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-07T09:20:43.352198"
+    },
+    {
+      "english": "How much is this, please,",
+      "hungarian": "Mennyibe kerül ez, kérem,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682195"
+    },
+    {
+      "english": "Is there a cheaper one,",
+      "hungarian": "Van olcsóbb is,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682208"
+    },
+    {
+      "english": "Wait, the price says 2,999,",
+      "hungarian": "Várj, a címkén 2 999 van,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682212"
+    },
+    {
+      "english": "What’s the final price, with tax,",
+      "hungarian": "Mennyi a végösszeg, áfával együtt,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682216"
+    },
+    {
+      "english": "Do you have this on sale,",
+      "hungarian": "Megint akcióban van ez,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682219"
+    },
+    {
+      "english": "Can I pay by card here,",
+      "hungarian": "Itt lehet kártyával fizetni,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682222"
+    },
+    {
+      "english": "Do you take contactless,",
+      "hungarian": "Lehet érintősen fizetni,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682227"
+    },
+    {
+      "english": "Sorry, that’s too expensive for me,",
+      "hungarian": "Sajnálom, ez nekem túl drága,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682233"
+    },
+    {
+      "english": "Is it on the shelf over there,",
+      "hungarian": "Az a polcon van ott,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682236"
+    },
+    {
+      "english": "Where can I find the price,",
+      "hungarian": "Hol van feltüntetve az ár,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682239"
+    },
+    {
+      "english": "Give me one, please, not two,",
+      "hungarian": "Egyet kérek, ne kettőt,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682242"
+    },
+    {
+      "english": "Is this size available in black,",
+      "hungarian": "Megvan ez a méret feketében,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682245"
+    },
+    {
+      "english": "Do you have a discount card,",
+      "hungarian": "Van kuponkártyád,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682248"
+    },
+    {
+      "english": "I’ll take it, how much is it total,",
+      "hungarian": "Megveszem, mennyi lesz összesen,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682251"
+    },
+    {
+      "english": "Can I try it on, please,",
+      "hungarian": "Fel tudom próbálni, kérem,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682255"
+    },
+    {
+      "english": "Does it come with a receipt,",
+      "hungarian": "Jár hozzá blokk, ugye,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682257"
+    },
+    {
+      "english": "Can I return it if it’s wrong,",
+      "hungarian": "Vissza lehet vinni, ha nem jó,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682261"
+    },
+    {
+      "english": "Is this the regular price,",
+      "hungarian": "Ez az eredeti ár,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682263"
+    },
+    {
+      "english": "Where’s the promo banner,",
+      "hungarian": "Hol van a promóciós tábla,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682267"
+    },
+    {
+      "english": "Oh, it’s cheaper than I thought,",
+      "hungarian": "Jaj, olcsóbb, mint hittem,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682270"
+    },
+    {
+      "english": "How long is the sale valid,",
+      "hungarian": "Meddig tart az akció,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682275"
+    },
+    {
+      "english": "Do you have it in stock right now,",
+      "hungarian": "Most raktáron van,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682278"
+    },
+    {
+      "english": "No worries, I’ll pick another one,",
+      "hungarian": "Semmi gond, választok mást,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682281"
+    },
+    {
+      "english": "Is there free delivery here,",
+      "hungarian": "Itt van ingyenes házhozszállítás,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682284"
+    },
+    {
+      "english": "I’ll wait, this is a bit much,",
+      "hungarian": "Megvárom, kicsit sok ez,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682287"
+    },
+    {
+      "english": "Just give me the cheapest option,",
+      "hungarian": "A legolcsóbbat kérem,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682289"
+    },
+    {
+      "english": "Can I get a bag, please,",
+      "hungarian": "Kaphatok egy táskát, kérem,",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682292"
+    },
+    {
+      "english": "Excuse me, what’s the price of this?",
+      "hungarian": "Sajnálja, mennyi ennek az ára?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682296"
+    },
+    {
+      "english": "Is there a student discount today?",
+      "hungarian": "Van diák kedvezmény ma?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682298"
+    },
+    {
+      "english": "Does this price include delivery?",
+      "hungarian": "Ebben az árban benne van a szállítás?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682301"
+    },
+    {
+      "english": "Which brand is cheaper, here or online?",
+      "hungarian": "Itt olcsóbb a márka, vagy online?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682304"
+    },
+    {
+      "english": "Can you recommend a value-for-money option?",
+      "hungarian": "Tud ajánlani ár-érték arányban jót?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682309"
+    },
+    {
+      "english": "Is there any promo going on right now?",
+      "hungarian": "Most van valamilyen akció?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682312"
+    },
+    {
+      "english": "Do I pay at the counter, or at the shelf?",
+      "hungarian": "Hol fizetek, a kasszánál vagy itt?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682315"
+    },
+    {
+      "english": "Can I see the warranty details, please?",
+      "hungarian": "Megnézhetem a garancia feltételeit?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682318"
+    },
+    {
+      "english": "How long is the return window?",
+      "hungarian": "Meddig lehet visszavinni?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682320"
+    },
+    {
+      "english": "Is this the cheapest option you have?",
+      "hungarian": "Ez tényleg a legolcsóbb nálatok?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682323"
+    },
+    {
+      "english": "Do you have a smaller, budget-friendly version?",
+      "hungarian": "Van kisebb, pénztárcabarát változat?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682326"
+    },
+    {
+      "english": "What payment methods do you accept here?",
+      "hungarian": "Milyen fizetési módokat fogadtok?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682331"
+    },
+    {
+      "english": "Is it marked as discounted anywhere?",
+      "hungarian": "Van itt valahol kiárusítási jelzés?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682333"
+    },
+    {
+      "english": "Do you offer free exchange for defects?",
+      "hungarian": "Van ingyen csere hibára?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682336"
+    },
+    {
+      "english": "Which size runs small, in your experience?",
+      "hungarian": "Melyik méret szokott kisebb lenni nálad?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682339"
+    },
+    {
+      "english": "Could I get help choosing, please?",
+      "hungarian": "Segítene kiválasztani, kérem?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682341"
+    },
+    {
+      "english": "Is this item usually in high demand?",
+      "hungarian": "Ez a termék szokott hamar fogyni?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682344"
+    },
+    {
+      "english": "Do you have it in a different color?",
+      "hungarian": "Megvan más színben is?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682347"
+    },
+    {
+      "english": "Is there an extra fee for accessories?",
+      "hungarian": "Van külön díj a kiegészítőkre?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682349"
+    },
+    {
+      "english": "Can I bundle these items together?",
+      "hungarian": "Lehet ezt a kettőt együtt venni?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682352"
+    },
+    {
+      "english": "What’s the price per piece here?",
+      "hungarian": "Mennyi az ár darabonként?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682355"
+    },
+    {
+      "english": "Is there a loyalty program for customers?",
+      "hungarian": "Van hűségprogram a vásárlóknak?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682357"
+    },
+    {
+      "english": "If I buy two, is there a deal?",
+      "hungarian": "Ha kettőt veszek, van kedvezmény?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682360"
+    },
+    {
+      "english": "Do you have any refurbished items?",
+      "hungarian": "Van felújított termék nálatok?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682363"
+    },
+    {
+      "english": "Is this product worth the money?",
+      "hungarian": "Megéri ennyibe ezt a terméket?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682365"
+    },
+    {
+      "english": "Can I get a receipt by email?",
+      "hungarian": "Kaphatok számlát e-mailben?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682368"
+    },
+    {
+      "english": "Does the price change after registration?",
+      "hungarian": "Változhat az ár regisztráció után?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682371"
+    },
+    {
+      "english": "Is there a limit on how many?",
+      "hungarian": "Van limit, mennyit lehet venni?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682373"
+    },
+    {
+      "english": "I’ll take it, can you confirm the total?",
+      "hungarian": "Megveszem, meg tudjuk erősíteni az összértéket?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682377"
+    },
+    {
+      "english": "You’re doing great, find your best fit.",
+      "hungarian": "Nagyszerűen csinálod, találd meg a legjobbat.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682381"
+    },
+    {
+      "english": "Breathe, compare calmly, you’ve got this.",
+      "hungarian": "Vegyél egy levegőt, nézegess nyugodtan, sikerül.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682384"
+    },
+    {
+      "english": "Focus on value, not just the sticker price.",
+      "hungarian": "Az értékre figyelj, nem csak az árcímkére.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682387"
+    },
+    {
+      "english": "Trust your taste, pick what feels right.",
+      "hungarian": "Bízz a jó ízlésedben, válaszd, ami igazán jó.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682392"
+    },
+    {
+      "english": "Small steps today, smarter shopping tomorrow.",
+      "hungarian": "Ma apró lépések, holnap okosabb vásárlás.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682395"
+    },
+    {
+      "english": "Ask questions, that’s how you save money.",
+      "hungarian": "Kérdezz bátran, így spórolsz pénzt.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682399"
+    },
+    {
+      "english": "It’s okay to take your time here.",
+      "hungarian": "Semmi gond, itt nyugodtan szánj rá időt.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682402"
+    },
+    {
+      "english": "You’re allowed to wait for a better deal.",
+      "hungarian": "Jogod van várni egy jobb ajánlatra.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682405"
+    },
+    {
+      "english": "Check details, your future self will thank you.",
+      "hungarian": "Nézd meg a részleteket, megköszönöd majd.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682410"
+    },
+    {
+      "english": "Confidence looks good, even while shopping.",
+      "hungarian": "A magabiztosság jól áll, vásárlás közben is.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682413"
+    },
+    {
+      "english": "Be picky, choose quality that lasts.",
+      "hungarian": "Legyél válogatós, válassz tartós minőséget.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682416"
+    },
+    {
+      "english": "You’ve got options, don’t rush the decision.",
+      "hungarian": "Rengeteg lehetőséged van, ne kapkodj.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682420"
+    },
+    {
+      "english": "This is practice, not a test, go easy.",
+      "hungarian": "Ez gyakorlás, nem vizsga, lazíts.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682423"
+    },
+    {
+      "english": "Small savings add up, keep going.",
+      "hungarian": "A kis spórolás összeadódik, folytasd.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682425"
+    },
+    {
+      "english": "Good choices start with a clear plan.",
+      "hungarian": "A jó döntések egy világos tervvel indulnak.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682430"
+    },
+    {
+      "english": "Respect your budget, you’re smarter than that.",
+      "hungarian": "Tartsd a keretet, okosabb vagy annál.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682434"
+    },
+    {
+      "english": "Say yes to what truly helps you.",
+      "hungarian": "Igen a olyasmi, ami tényleg segít.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682436"
+    },
+    {
+      "english": "Aim for comfort, that’s worth paying for.",
+      "hungarian": "A kényelmet keresd, megéri az árát.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682440"
+    },
+    {
+      "english": "It’s okay, you’ll find the right price.",
+      "hungarian": "Nincs baj, megtalálod a jó árat.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682443"
+    },
+    {
+      "english": "Positive mindset, better choices, same you.",
+      "hungarian": "Pozitív hozzáállás, jobb döntések, te maradsz.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682446"
+    },
+    {
+      "english": "Celebrate the deal, you earned it today.",
+      "hungarian": "Ünnepeld a jó árat, megdolgoztál érte ma.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682449"
+    },
+    {
+      "english": "Stay curious, discounts will make sense soon.",
+      "hungarian": "Maradj kíváncsi, a kedvezmények mindjárt összeállnak.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682452"
+    },
+    {
+      "english": "You can do this, one item at a time.",
+      "hungarian": "Meg tudod csinálni, lépésről lépésre.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682454"
+    },
+    {
+      "english": "Even online, your instincts guide you well.",
+      "hungarian": "Online is, az ösztöneid jól vezetnek.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682457"
+    },
+    {
+      "english": "Don’t let stress pick for you, choose.",
+      "hungarian": "A stressz ne döntsön helyetted, válassz.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682461"
+    },
+    {
+      "english": "Make it easy, decide fast, then relax.",
+      "hungarian": "Legyen egyszerű, döntsd el gyorsan, aztán lazíts.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682464"
+    },
+    {
+      "english": "You’re learning, every visit makes you stronger.",
+      "hungarian": "Tanulsz, minden vásárlás erősebbé tesz.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682468"
+    },
+    {
+      "english": "Be proud, finding the right price matters.",
+      "hungarian": "Legyél büszke, a jó ár számít.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682470"
+    },
+    {
+      "english": "Keep your goals in mind, shop smart.",
+      "hungarian": "Tartsd szem előtt a céljaidat, vásárolj okosan.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682473"
+    },
+    {
+      "english": "If it fits, it’s a win, go!",
+      "hungarian": "Ha rád áll, nyertél, indulj!",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682477"
+    },
+    {
+      "english": "I’m not rushing, I need time.",
+      "hungarian": "Nem sietek, kell egy kis idő.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682480"
+    },
+    {
+      "english": "Honestly, this feels a bit overpriced.",
+      "hungarian": "Őszintén, ez kicsit drágának érződik.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682483"
+    },
+    {
+      "english": "I’ll wait, my budget comes first.",
+      "hungarian": "Várok, a keret az első.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682486"
+    },
+    {
+      "english": "I want to choose what lasts.",
+      "hungarian": "Olyat akarok, ami tényleg tartós.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682488"
+    },
+    {
+      "english": "I feel better after comparing options.",
+      "hungarian": "Jobban érzem magam, ha összehasonlítok.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682491"
+    },
+    {
+      "english": "I’m trying to stay patient, really.",
+      "hungarian": "Próbálok türelmes maradni, tényleg.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682494"
+    },
+    {
+      "english": "Discounts help, but I check everything.",
+      "hungarian": "A kuponok segítenek, de mindent megnézek.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682497"
+    },
+    {
+      "english": "This price doesn’t match my expectations.",
+      "hungarian": "Ez az ár nem illik az érzésemhez.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682501"
+    },
+    {
+      "english": "I want honesty, not just a quick deal.",
+      "hungarian": "Őszinteséget akarok, nem csak egy gyors kedvezményt.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682503"
+    },
+    {
+      "english": "I’m thinking long-term, not only today.",
+      "hungarian": "Hosszú távon gondolkodom, nem csak most.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682513"
+    },
+    {
+      "english": "If it’s worth it, I’ll pay.",
+      "hungarian": "Ha megéri, kifizetem.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682516"
+    },
+    {
+      "english": "I’m okay with paying a little more.",
+      "hungarian": "Rendben van, ha kicsit többet kell adni.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682519"
+    },
+    {
+      "english": "Still, I need clear info before deciding.",
+      "hungarian": "De mégis kell a tiszta infó a döntés előtt.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682522"
+    },
+    {
+      "english": "I don’t want impulse buys, ever.",
+      "hungarian": "Nem akarok impulzus-vásárlást, soha.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682526"
+    },
+    {
+      "english": "I listen to my gut, then check proof.",
+      "hungarian": "Hallgatok a megérzésemre, aztán megnézem.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682528"
+    },
+    {
+      "english": "I’d rather spend smart than cheap.",
+      "hungarian": "Inkább okosan költök, mint olcsón.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682532"
+    },
+    {
+      "english": "I’m trying to stay calm, price is only one factor.",
+      "hungarian": "Nyugodt maradok, az ár csak egy szempont.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682539"
+    },
+    {
+      "english": "This option feels right, but I compare anyway.",
+      "hungarian": "Ez most jó érzés, de összehasonlítok.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682542"
+    },
+    {
+      "english": "I’m honestly unsure, show me details.",
+      "hungarian": "Őszintén nem vagyok biztos, mutasd a részleteket.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682545"
+    },
+    {
+      "english": "I want quality, and my money should follow.",
+      "hungarian": "Minőséget akarok, és a pénz is oda menjen.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682548"
+    },
+    {
+      "english": "I’ll leave it for now, I’ll think.",
+      "hungarian": "Egyelőre hagyom, elgondolkodom.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682552"
+    },
+    {
+      "english": "I don’t hate prices, I hate surprises.",
+      "hungarian": "Nem utálom az árakat, a meglepetéseket igen.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682555"
+    },
+    {
+      "english": "I can wait for a better offer.",
+      "hungarian": "Tudok várni egy jobb ajánlatra.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682558"
+    },
+    {
+      "english": "Let’s be real, I need a fair price.",
+      "hungarian": "Legyünk őszinték, kell egy korrekt ár.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682561"
+    },
+    {
+      "english": "I’m choosing carefully, because it matters.",
+      "hungarian": "Óvatosan választok, mert számít.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682565"
+    },
+    {
+      "english": "I’m proud of slowing down and thinking.",
+      "hungarian": "Büszke vagyok, hogy lelassítok és gondolkodom.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682568"
+    },
+    {
+      "english": "My heart says yes, my mind checks value.",
+      "hungarian": "A szívem azt mondja igen, az eszem az értéket nézi.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682571"
+    },
+    {
+      "english": "I don’t need everything, I need the right thing.",
+      "hungarian": "Nem kell mindent, csak a jó dolgot.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682574"
+    },
+    {
+      "english": "I’d rather buy later, with clearer confidence.",
+      "hungarian": "Inkább később veszem meg, biztosabban.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682578"
+    },
+    {
+      "english": "I’m learning, every choice teaches me patience.",
+      "hungarian": "Tanulok, minden döntés türelmet hoz.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682581"
+    },
+    {
+      "english": "Check unit price, it tells the real story.",
+      "hungarian": "Nézd az egységárat, ez mindent elárul.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682586"
+    },
+    {
+      "english": "Ask, is there a loyalty discount today?",
+      "hungarian": "Kérdezd meg, van-e hűségkedvezmény ma?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682589"
+    },
+    {
+      "english": "Before paying, check the receipt, please.",
+      "hungarian": "Fizetés előtt, nézd meg a nyugtát, kérlek.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682592"
+    },
+    {
+      "english": "If it’s used, ask about return conditions.",
+      "hungarian": "Ha használt, kérdezd meg a csere feltételeit.",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-08T09:38:22.682595"
     }
   ],
-  "last_updated": "2026-11-07T09:20:43.352199"
+  "last_updated": "2026-11-08T09:38:22.682597"
 }
