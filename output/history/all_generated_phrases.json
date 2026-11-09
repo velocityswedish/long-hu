@@ -6479,7 +6479,727 @@
       "hungarian": "Ha használt, kérdezd meg a csere feltételeit.",
       "category": "Shopping & Prices",
       "generated_at": "2026-11-08T09:38:22.682595"
+    },
+    {
+      "english": "Okay, let’s start with a warm hello, first.",
+      "hungarian": "Rendben, kezdjük egy kedves köszönéssel, először.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943205"
+    },
+    {
+      "english": "Before we eat, say thanks, quickly please.",
+      "hungarian": "Evés előtt mondd meg, hogy köszi, gyorsan.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943220"
+    },
+    {
+      "english": "Cheers for the day, we deserve this.",
+      "hungarian": "Egészségedre, megérdemeljük ezt a napot.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943224"
+    },
+    {
+      "english": "Oh, that’s so nice, where did you get it?",
+      "hungarian": "Jaj, de jó, hol szerezted?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943228"
+    },
+    {
+      "english": "Great, I brought something, come on in.",
+      "hungarian": "Szuper, hoztam valamit, gyere be.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943231"
+    },
+    {
+      "english": "Hold on, let me help you, real quick.",
+      "hungarian": "Várj csak, segítek, mindjárt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943234"
+    },
+    {
+      "english": "Thanks a lot, this really helps today.",
+      "hungarian": "Nagyon köszönöm, ma tényleg sokat számít.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943237"
+    },
+    {
+      "english": "No worries, it happens, we’ll fix it.",
+      "hungarian": "Semmi gond, ilyen van, megoldjuk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943244"
+    },
+    {
+      "english": "Wait, tell me more, I’m curious.",
+      "hungarian": "Állj meg, mesélj még, kíváncsi vagyok.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943248"
+    },
+    {
+      "english": "Come in, shoes off, that’s the rule here.",
+      "hungarian": "Gyere be, leveszed a cipőt, ez a szokás.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943252"
+    },
+    {
+      "english": "I’m fine, thanks, how about you?",
+      "hungarian": "Jól vagyok, köszi, te hogy vagy?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943256"
+    },
+    {
+      "english": "Sorry, I’m late, traffic was crazy today.",
+      "hungarian": "Bocsánat, későn jöttem, ma durva volt a forgalom.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943259"
+    },
+    {
+      "english": "Honestly, I didn’t know, but now I do.",
+      "hungarian": "Őszintén, nem tudtam, de most már igen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943265"
+    },
+    {
+      "english": "All good, let’s take it one step.",
+      "hungarian": "Rendben van, lépésenként haladjunk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943268"
+    },
+    {
+      "english": "That’s interesting, say it again, please.",
+      "hungarian": "Ez érdekes, mondjad még egyszer.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943272"
+    },
+    {
+      "english": "Don’t worry, I’ll handle it, you go first.",
+      "hungarian": "Ne aggódj, én elintézem, te menj előre.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943275"
+    },
+    {
+      "english": "Please sit down, refreshments are ready.",
+      "hungarian": "Ülj le nyugodtan, a frissítők készen vannak.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943278"
+    },
+    {
+      "english": "Wow, that smell is amazing, what is it?",
+      "hungarian": "Hű, ez de finom illat, mi az?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943281"
+    },
+    {
+      "english": "I’ll pay, no need to argue, okay?",
+      "hungarian": "Én fizetek, ne vitatkozzunk, jó?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943284"
+    },
+    {
+      "english": "Tell me the plan, we’re ready now.",
+      "hungarian": "Mondd el a tervet, kész vagyunk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943288"
+    },
+    {
+      "english": "Happy birthday, have a great celebration today!",
+      "hungarian": "Boldog születésnapot, legyen szép a napod!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943291"
+    },
+    {
+      "english": "Congrats, you did it, that’s awesome!",
+      "hungarian": "Gratulálok, sikerült, szuper!",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943296"
+    },
+    {
+      "english": "Good choice, that’s exactly what we need.",
+      "hungarian": "Jó választás, pont erre van szükségünk.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943299"
+    },
+    {
+      "english": "See you soon, text me when you can.",
+      "hungarian": "Hamarosan találkozunk, írj, ha tudsz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943302"
+    },
+    {
+      "english": "That’s true, people here are very kind.",
+      "hungarian": "Igazad van, itt az emberek nagyon kedvesek.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943305"
+    },
+    {
+      "english": "Wait and see, it’ll make sense soon.",
+      "hungarian": "Majd meglátod, hamar összeáll.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943308"
+    },
+    {
+      "english": "Respect the house, that’s how it works here.",
+      "hungarian": "Tartsd tiszteletben a házat, így van itt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943311"
+    },
+    {
+      "english": "Let’s celebrate, small traditions matter a lot.",
+      "hungarian": "Ünnepeljünk, a kis szokások nagyon számítanak.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943315"
+    },
+    {
+      "english": "What do you say before the first toast?",
+      "hungarian": "Mit szoktál mondani az első koccintás előtt?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943318"
+    },
+    {
+      "english": "Do families exchange gifts on Christmas Eve?",
+      "hungarian": "Karácsonyeste is cserélnek ajándékot a családok?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943321"
+    },
+    {
+      "english": "How do people greet each other at weddings?",
+      "hungarian": "Hogy köszönnek egymásnak esküvőn az emberek?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943323"
+    },
+    {
+      "english": "When is the blessing, right before eating?",
+      "hungarian": "Mikor van a szokásos áldás, evés előtt?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943326"
+    },
+    {
+      "english": "Is it polite to bring something small?",
+      "hungarian": "Illik egy kicsi ajándékot vinni?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943329"
+    },
+    {
+      "english": "What’s the tradition for lighting candles?",
+      "hungarian": "Mi a szokás gyertyát gyújtani?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943332"
+    },
+    {
+      "english": "May I ask, how do you choose the host?",
+      "hungarian": "Megkérdezhetem, hogyan választjátok a házigazdát?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943335"
+    },
+    {
+      "english": "Do you knock, before entering a home?",
+      "hungarian": "Kopogtok, mielőtt beléptetek egy lakásba?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943339"
+    },
+    {
+      "english": "What’s the proper way to ask for advice?",
+      "hungarian": "Hogyan kértek tanácsot udvariasan?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943342"
+    },
+    {
+      "english": "If I’m invited, should I dress up?",
+      "hungarian": "Meghívásnál, öltözzek fel szépen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943346"
+    },
+    {
+      "english": "Do you sing together, during holiday gatherings?",
+      "hungarian": "Énekeltek együtt az ünnepi összejöveteleken?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943349"
+    },
+    {
+      "english": "What does “jó szerencsét” mean here?",
+      "hungarian": "Mit jelent itt a „jó szerencsét”?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943352"
+    },
+    {
+      "english": "When do you say goodbye at visits?",
+      "hungarian": "Mikor illik elköszönni látogatás után?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943355"
+    },
+    {
+      "english": "Is there a guest rule, like seating order?",
+      "hungarian": "Van vendégszabály, például az ülésrend?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943357"
+    },
+    {
+      "english": "How do people celebrate birthdays here?",
+      "hungarian": "Hogyan ünnepelnek születésnapot itt?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943360"
+    },
+    {
+      "english": "Should I thank everyone, or only the host?",
+      "hungarian": "Mindenkinek köszönjek, vagy csak a házigazdának?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943363"
+    },
+    {
+      "english": "What’s the custom, when arriving with friends?",
+      "hungarian": "Mi a szokás, ha barátokkal érkezem?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943370"
+    },
+    {
+      "english": "Do you bring cake, or just drinks?",
+      "hungarian": "Visztek tortát, vagy csak üdítőt?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943375"
+    },
+    {
+      "english": "Can you tell me the meaning of the ritual?",
+      "hungarian": "Elmondanád, mit jelképez a rituálé?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943378"
+    },
+    {
+      "english": "What do you do with flowers, after the service?",
+      "hungarian": "Mit csináltok a virágokkal a szertartás után?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943380"
+    },
+    {
+      "english": "Is it okay to ask about family traditions?",
+      "hungarian": "Rendben van, ha a családi szokásokról kérdezek?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943383"
+    },
+    {
+      "english": "What’s a good question for elders, politely?",
+      "hungarian": "Milyen kérdést érdemes feltenni udvariasan az időseknek?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943386"
+    },
+    {
+      "english": "Could you recommend a traditional dish to try?",
+      "hungarian": "Ajánlanál egy hagyományos ételt, amit érdemes megkóstolni?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943389"
+    },
+    {
+      "english": "Do people say a prayer, before cutting the cake?",
+      "hungarian": "Mondtok imát, mielőtt elvágjátok a tortát?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943392"
+    },
+    {
+      "english": "If I’m unsure, what should I ask first?",
+      "hungarian": "Ha nem vagyok biztos, mit kérdezzek először?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943396"
+    },
+    {
+      "english": "Do you have a saying for good luck?",
+      "hungarian": "Van valami mondás jó szerencsére?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943398"
+    },
+    {
+      "english": "When you visit, is time flexible or strict?",
+      "hungarian": "Rugalmas az időpont, vagy inkább pontosak vagytok?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943401"
+    },
+    {
+      "english": "How do you handle family disagreements during holidays?",
+      "hungarian": "Hogyan kezelitek a nézeteltéréseket ünnepeken?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943404"
+    },
+    {
+      "english": "What should I bring, if I’m a guest?",
+      "hungarian": "Mit vigyek, ha vendég vagyok?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943407"
+    },
+    {
+      "english": "Can we talk about your favorite tradition?",
+      "hungarian": "Beszélhetünk a kedvenc hagyományodról?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943409"
+    },
+    {
+      "english": "Breathe in, enjoy the moment, you’re doing great.",
+      "hungarian": "Vegyél egy nagy levegőt, élvezd a pillanatot, nagyon jól csinálod.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943413"
+    },
+    {
+      "english": "Tell me what you’re proud of, today, seriously.",
+      "hungarian": "Mondd el, miben vagy ma igazán büszke, őszintén.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943416"
+    },
+    {
+      "english": "Small steps count, especially with old traditions.",
+      "hungarian": "A kis lépések is számítanak, főleg a régi hagyományoknál.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943419"
+    },
+    {
+      "english": "Keep it simple, show respect, and smile.",
+      "hungarian": "Maradj egyszerű, mutass tiszteletet, és mosolyogj.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943422"
+    },
+    {
+      "english": "Your effort means a lot, I can see it.",
+      "hungarian": "Nagyon sokat számít a próbálkozásod, ezt látom.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943449"
+    },
+    {
+      "english": "Practice gently, you’ll feel the rhythm soon.",
+      "hungarian": "Gyakorolj kedvesen, hamar megjön a ritmus.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943457"
+    },
+    {
+      "english": "You’re learning fast, don’t doubt yourself, okay?",
+      "hungarian": "Gyorsan tanulsz, ne kételkedj magadban, jó?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943463"
+    },
+    {
+      "english": "That’s a good start, stay confident, please.",
+      "hungarian": "Ez egy jó kezdet, maradj magabiztos, kérlek.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943466"
+    },
+    {
+      "english": "Say yes to trying, tradition loves curiosity.",
+      "hungarian": "Mondd, hogy igen a próbálkozásra, a hagyomány szereti a kíváncsiságot.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943469"
+    },
+    {
+      "english": "I love your energy, keep it up tonight.",
+      "hungarian": "Imádom az energiád, folytasd ma este is.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943472"
+    },
+    {
+      "english": "Respect comes naturally, just be present, okay?",
+      "hungarian": "A tisztelet magától jön, csak légy jelen, jó?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943475"
+    },
+    {
+      "english": "You’re welcome here, thanks for showing up.",
+      "hungarian": "Itt szívesen vagy, köszi, hogy eljöttél.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943478"
+    },
+    {
+      "english": "Let’s make memories, even if you’re nervous.",
+      "hungarian": "Csináljunk emlékeket, akkor is, ha kicsit izgulsz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943482"
+    },
+    {
+      "english": "Trust the process, traditions unfold for you.",
+      "hungarian": "Bízz a folyamatban, a hagyományok rád találnak.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943485"
+    },
+    {
+      "english": "Give people praise, it warms the whole room.",
+      "hungarian": "Dicsérj nyugodtan, ettől melegszik az egész társaság.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943487"
+    },
+    {
+      "english": "Keep your smile, it speaks louder than words.",
+      "hungarian": "Tartsd a mosolyod, hangosabb a szónál.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943490"
+    },
+    {
+      "english": "It’s okay to be new, learn and enjoy.",
+      "hungarian": "Semmi gond, ha új vagy, tanulj és élvezd.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943494"
+    },
+    {
+      "english": "Your kindness matters, that’s the real tradition.",
+      "hungarian": "A kedvességed számít, ez az igazi hagyomány.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943500"
+    },
+    {
+      "english": "Ask, listen, and you’ll feel at ease.",
+      "hungarian": "Kérdezz, figyelj, és nyugodtabb leszel.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943503"
+    },
+    {
+      "english": "Be brave, cultural moments reward you fast.",
+      "hungarian": "Legyél bátor, a kulturális pillanatok gyorsan jutalmaznak.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943506"
+    },
+    {
+      "english": "You’re part of the story now, honestly.",
+      "hungarian": "Most már te is része vagy a történetnek, őszintén.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943510"
+    },
+    {
+      "english": "Celebrate quietly too, not everything needs noise.",
+      "hungarian": "Halkan is lehet ünnepelni, nem mindennek kell zaj.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943512"
+    },
+    {
+      "english": "Every time you show up, you grow.",
+      "hungarian": "Minden alkalommal, amikor megérkezel, fejlődsz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943515"
+    },
+    {
+      "english": "Stay curious, tradition loves respectful questions.",
+      "hungarian": "Maradj kíváncsi, a hagyomány szereti a tisztelettel kérdezőket.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943518"
+    },
+    {
+      "english": "You’re brave for trying, I’m proud of you.",
+      "hungarian": "Bátor vagy, hogy próbálkozol, büszke vagyok rád.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943521"
+    },
+    {
+      "english": "Just follow along, you’ll catch on soon.",
+      "hungarian": "Csak haladj velünk, hamar belejössz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943525"
+    },
+    {
+      "english": "Keep gratitude close, it changes everything, trust me.",
+      "hungarian": "Tartsd közel a hálát, mindent megváltoztat, higgy nekem.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943528"
+    },
+    {
+      "english": "Tonight, relax, enjoy, and let it flow.",
+      "hungarian": "Ma este lazíts, élvezd, és hagyd, hogy menjen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943533"
+    },
+    {
+      "english": "I feel nervous, so I slow down.",
+      "hungarian": "Ideges vagyok, ezért lelassítok.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943536"
+    },
+    {
+      "english": "I’m trying to be patient, it helps.",
+      "hungarian": "Türelemre tanulok, és ez segít.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943539"
+    },
+    {
+      "english": "Honestly, I’m moved by the quiet moments.",
+      "hungarian": "Őszintén, megérint a csendes pillanat.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943542"
+    },
+    {
+      "english": "I respect the pause, it means a lot.",
+      "hungarian": "Tisztelem a szünetet, nagyon számít.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943545"
+    },
+    {
+      "english": "I notice how feelings guide the ritual.",
+      "hungarian": "Észreveszem, hogy az érzések vezetik a rítust.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943547"
+    },
+    {
+      "english": "I’m learning slowly, but I’m not rushing.",
+      "hungarian": "Lassan tanulom, de nem sietek.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943551"
+    },
+    {
+      "english": "I want to understand, not just observe.",
+      "hungarian": "Megérteni szeretnék, nem csak nézni.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943555"
+    },
+    {
+      "english": "When I doubt, I take a breath first.",
+      "hungarian": "Ha bizonytalan vagyok, először levegőt veszek.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943558"
+    },
+    {
+      "english": "I feel grateful, even if I’m not perfect.",
+      "hungarian": "Hálás vagyok, akkor is, ha nem vagyok tökéletes.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943561"
+    },
+    {
+      "english": "I keep my voice calm, out of respect.",
+      "hungarian": "Nyugodtan beszélek, tiszteletből.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943564"
+    },
+    {
+      "english": "I’m okay with doing things my way first.",
+      "hungarian": "Rendben van, ha először a saját módszeremmel próbálom.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943567"
+    },
+    {
+      "english": "I try to match their pace, gently.",
+      "hungarian": "Finoman hozzáigazodom a tempójukhoz.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943570"
+    },
+    {
+      "english": "It’s fine to be quiet, I notice more.",
+      "hungarian": "Rendben, ha csendben maradok, így többet észreveszek.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943573"
+    },
+    {
+      "english": "I’m humbled, this history feels real.",
+      "hungarian": "Alázatos vagyok, ez a történelem nagyon valós.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943576"
+    },
+    {
+      "english": "I don’t want to rush emotions, they unfold.",
+      "hungarian": "Nem akarom siettetni az érzéseket, maguktól alakulnak.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943579"
+    },
+    {
+      "english": "Sometimes I smile, but my heart stays honest.",
+      "hungarian": "Néha mosolygok, de a szívem őszinte marad.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943582"
+    },
+    {
+      "english": "I ask myself, why does this matter?",
+      "hungarian": "Felteszem magamnak, miért fontos ez?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943585"
+    },
+    {
+      "english": "I keep my expectations low, and I’m open.",
+      "hungarian": "Alacsonyan tartom az elvárásaim, és nyitott vagyok.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943588"
+    },
+    {
+      "english": "I feel safe when people are kind.",
+      "hungarian": "Biztonságban érzem magam, ha kedvesek az emberek.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943590"
+    },
+    {
+      "english": "I respect the boundaries, even when I’m curious.",
+      "hungarian": "Tisztelem a határokat, még ha kíváncsi is vagyok.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943595"
+    },
+    {
+      "english": "I share small feelings, then I listen.",
+      "hungarian": "Megosztok apró érzéseket, aztán hallgatok.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943598"
+    },
+    {
+      "english": "I try to say thank you, with my eyes.",
+      "hungarian": "Megpróbálok köszönetet mondani a szememmel.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943602"
+    },
+    {
+      "english": "It’s okay to be emotional, don’t hide it.",
+      "hungarian": "Nyugodtan lehetek meghatott, ne rejtsd el.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943606"
+    },
+    {
+      "english": "I’m learning that silence can be respectful.",
+      "hungarian": "Megtanulom, hogy a csend is lehet tiszteletteljes.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943609"
+    },
+    {
+      "english": "I feel proud of showing up, even awkwardly.",
+      "hungarian": "Büszke vagyok, hogy eljövök, még ha kínos is.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943611"
+    },
+    {
+      "english": "I let others lead, then I follow.",
+      "hungarian": "Hagyom, hogy ők vezessenek, aztán követem őket.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943614"
+    },
+    {
+      "english": "I’m honest, I need a moment sometimes.",
+      "hungarian": "Őszinte vagyok, néha kell egy perc.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943617"
+    },
+    {
+      "english": "I don’t judge myself, I just try again.",
+      "hungarian": "Nem ítélem el magam, csak próbálom újra.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943620"
+    },
+    {
+      "english": "I notice the meaning, it’s more than tradition.",
+      "hungarian": "Észreveszem a jelentést, ez több, mint hagyomány.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943623"
+    },
+    {
+      "english": "Before I speak, I check my tone, quietly.",
+      "hungarian": "Mielőtt beszélek, halkan figyelem a hangom.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943626"
+    },
+    {
+      "english": "Before eating, say köszönöm, and smile",
+      "hungarian": "Evés előtt mondd, hogy köszönöm, és mosolyogj",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943630"
+    },
+    {
+      "english": "If you’re late, text quickly, apologize",
+      "hungarian": "Ha késel, írj gyorsan, és kérj bocsánatot",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943634"
+    },
+    {
+      "english": "Offer a small help, even briefly",
+      "hungarian": "Ajánlj fel egy kis segítséget, akár csak röviden",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943637"
+    },
+    {
+      "english": "Take off your shoes, when they ask",
+      "hungarian": "Vedd le a cipődet, amikor kérik",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-09T10:29:57.943640"
     }
   ],
-  "last_updated": "2026-11-08T09:38:22.682597"
+  "last_updated": "2026-11-09T10:29:57.943642"
 }
