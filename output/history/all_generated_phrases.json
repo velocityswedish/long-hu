@@ -7199,7 +7199,727 @@
       "hungarian": "Vedd le a cipődet, amikor kérik",
       "category": "Cultural Traditions",
       "generated_at": "2026-11-09T10:29:57.943640"
+    },
+    {
+      "english": "Looks clear out there, right?",
+      "hungarian": "Úgy tűnik, tiszta az idő, ugye?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107728"
+    },
+    {
+      "english": "Is it going to rain today?",
+      "hungarian": "Ma esni fog, ugye?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107741"
+    },
+    {
+      "english": "Wow, it’s windy today!",
+      "hungarian": "Jaj, de szeles ma!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107746"
+    },
+    {
+      "english": "How’s the weather by you?",
+      "hungarian": "Nálad milyen az időjárás?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107750"
+    },
+    {
+      "english": "I think it’ll warm up soon.",
+      "hungarian": "Szerintem mindjárt felmelegszik.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107753"
+    },
+    {
+      "english": "It’s kind of chilly, isn’t it?",
+      "hungarian": "Elég hűvös van, nem?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107757"
+    },
+    {
+      "english": "Did you check the forecast?",
+      "hungarian": "Nézted a napi előrejelzést?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107760"
+    },
+    {
+      "english": "The sky looks heavy, careful!",
+      "hungarian": "Mintha nehéz lenne az ég, vigyázz!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107766"
+    },
+    {
+      "english": "Let’s bring an umbrella, just in case.",
+      "hungarian": "Vigyünk esernyőt, biztos ami biztos.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107770"
+    },
+    {
+      "english": "Sun’s out, finally!",
+      "hungarian": "Végre kisütött a nap!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107773"
+    },
+    {
+      "english": "It’s so hot, I can’t breathe.",
+      "hungarian": "De nagyon meleg van, alig kapok levegőt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107777"
+    },
+    {
+      "english": "Is it storming over there?",
+      "hungarian": "Arrafelé tombol a vihar?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107780"
+    },
+    {
+      "english": "I love this cool breeze.",
+      "hungarian": "Imádom ezt a hűs szelet.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107785"
+    },
+    {
+      "english": "Looks like it might snow later.",
+      "hungarian": "Úgy néz ki, később havazhat.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107788"
+    },
+    {
+      "english": "It’s foggy today, visibility’s low.",
+      "hungarian": "Ma ködös van, rossz a látótávolság.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107791"
+    },
+    {
+      "english": "How long will it stay like this?",
+      "hungarian": "Meddig lesz ilyen?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107794"
+    },
+    {
+      "english": "No clouds in sight, great!",
+      "hungarian": "Egy felhő sincs, szuper!",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107797"
+    },
+    {
+      "english": "Yesterday was warmer than today.",
+      "hungarian": "Tegnap melegebb volt, mint ma.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107801"
+    },
+    {
+      "english": "This weather suits you, honestly.",
+      "hungarian": "Komolyan, ez az idő jól áll neked.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107804"
+    },
+    {
+      "english": "I’m sweating, it’s unreal today.",
+      "hungarian": "Folyik rólam a víz, ma elképesztő az idő.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107808"
+    },
+    {
+      "english": "Do you feel the rain coming?",
+      "hungarian": "Érzed, hogy mindjárt esik?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107811"
+    },
+    {
+      "english": "Let me check, hold on.",
+      "hungarian": "Megnézem, egy pillanat.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107813"
+    },
+    {
+      "english": "Traffic will be worse in rain, yeah?",
+      "hungarian": "Esőben rosszabb lesz a forgalom, ugye?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107816"
+    },
+    {
+      "english": "You picked a good day, seriously.",
+      "hungarian": "Komolyan, jó napot fogtál ki.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107819"
+    },
+    {
+      "english": "I can’t tell if it’s going to clear.",
+      "hungarian": "Nem tudom, hogy kitisztul-e.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107822"
+    },
+    {
+      "english": "It’s raining again, of course.",
+      "hungarian": "Megint esik, persze.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107825"
+    },
+    {
+      "english": "Clouds are moving fast, huh?",
+      "hungarian": "Gyorsan mennek a felhők, mi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107828"
+    },
+    {
+      "english": "My skin feels dry in this weather.",
+      "hungarian": "Száraznak érzem a bőröm ebben az időben.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107830"
+    },
+    {
+      "english": "I’ll grab a jacket, it’s cooler out.",
+      "hungarian": "Kapok egy kabátot, kint hűvösebb van.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107847"
+    },
+    {
+      "english": "What are you doing today, weather-wise?",
+      "hungarian": "Te ma mit csinálsz, az időjáráshoz igazodva?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107851"
+    },
+    {
+      "english": "Is it sunny, or just bright clouds?",
+      "hungarian": "Napsütés van, vagy csak világos felhők?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107854"
+    },
+    {
+      "english": "Do you think it’ll cool down later?",
+      "hungarian": "Szerinted később lehűl majd?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107857"
+    },
+    {
+      "english": "When do you usually check the forecast?",
+      "hungarian": "Te mikor szoktad megnézni az időjárást?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107860"
+    },
+    {
+      "english": "Is there any wind warning today?",
+      "hungarian": "Van ma valami széllármás figyelmeztetés?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107863"
+    },
+    {
+      "english": "How bad is the rain right now?",
+      "hungarian": "Mennyire durva most az eső?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107866"
+    },
+    {
+      "english": "Should I take a raincoat with me?",
+      "hungarian": "Vigyem a vízálló kabátot, vagy elég egy esernyő?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107868"
+    },
+    {
+      "english": "What’s the temperature where you’re standing?",
+      "hungarian": "Mennyi fok van nálad kint?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107872"
+    },
+    {
+      "english": "Do you know if it clears tonight?",
+      "hungarian": "Tudod, hogy ma estére kitisztul-e?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107874"
+    },
+    {
+      "english": "Is it the kind of day for shorts?",
+      "hungarian": "Ilyen nap van rövidnadrághoz?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107877"
+    },
+    {
+      "english": "Where I am, the air feels heavy.",
+      "hungarian": "Nálam úgy nehéz a levegő.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107880"
+    },
+    {
+      "english": "Do you hear thunder near your place?",
+      "hungarian": "Hallatszik nálad mennydörgés?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107882"
+    },
+    {
+      "english": "Should we plan for wet roads?",
+      "hungarian": "Számoljunk azzal, hogy vizes lesz az út?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107885"
+    },
+    {
+      "english": "Is the forecast changing a lot?",
+      "hungarian": "Sokat szokott változni az előrejelzés?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107887"
+    },
+    {
+      "english": "What’s your best advice for today?",
+      "hungarian": "Mi a legjobb tippem a mai napra?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107892"
+    },
+    {
+      "english": "Are you more a hat or umbrella person?",
+      "hungarian": "Te inkább kalap, vagy inkább esernyő párti vagy?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107895"
+    },
+    {
+      "english": "Do you feel that humidity in the air?",
+      "hungarian": "Érződik nálad is ez a párás levegő?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107899"
+    },
+    {
+      "english": "How’s your commute, is it messy?",
+      "hungarian": "Nálad hogyan van a munkába járás, elég káosz?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107902"
+    },
+    {
+      "english": "Will it rain later, or is it done?",
+      "hungarian": "Később még esik, vagy már vége?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107905"
+    },
+    {
+      "english": "Should I wear layers, just in case?",
+      "hungarian": "Rázzam fel magam rétegekben, ha lehűlne?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107908"
+    },
+    {
+      "english": "What do locals do when it’s like this?",
+      "hungarian": "Mit csinálnak ilyenkor a helyiek?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107911"
+    },
+    {
+      "english": "Is it bright enough for a walk?",
+      "hungarian": "Elég világos van egy sétához?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107914"
+    },
+    {
+      "english": "Any chance of snow, do you think?",
+      "hungarian": "Szerinted lehet hó is ma?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107917"
+    },
+    {
+      "english": "Are we expecting sun breaks soon?",
+      "hungarian": "Szerinted lesznek hamarabb napos időszakok?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107919"
+    },
+    {
+      "english": "Does it feel stormy, or just breezy?",
+      "hungarian": "Inkább viharosnak tűnik, vagy csak szeles?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107922"
+    },
+    {
+      "english": "Should I bring sunglasses, or not needed?",
+      "hungarian": "Hozzak napszemüveget, vagy felesleges?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107927"
+    },
+    {
+      "english": "What’s the air quality like today?",
+      "hungarian": "Milyen a levegőminőség ma?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107930"
+    },
+    {
+      "english": "Do you want to check the weather together?",
+      "hungarian": "Nézzük meg együtt az időjárást?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107933"
+    },
+    {
+      "english": "Is the bus delayed because of this?",
+      "hungarian": "A busz késik ettől valami miatt?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107935"
+    },
+    {
+      "english": "Where are you planning to go later?",
+      "hungarian": "Hová készülsz menni később?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107938"
+    },
+    {
+      "english": "If it rains, what’s your backup plan?",
+      "hungarian": "Ha esik, mi a terved tartalékban?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107941"
+    },
+    {
+      "english": "Looks like the weather’s turning, huh?",
+      "hungarian": "Úgy tűnik, fordul a kerekedő idő, mi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107945"
+    },
+    {
+      "english": "It’s a bit gloomy today, doesn’t it?",
+      "hungarian": "Ma kicsit komor az idő, nem?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107948"
+    },
+    {
+      "english": "Brr, it’s chilly out, stay warm.",
+      "hungarian": "Jaj, de hideg van, melegedj be.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107952"
+    },
+    {
+      "english": "The sky’s acting up again, look.",
+      "hungarian": "A menny is megint beszól, nézd.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107955"
+    },
+    {
+      "english": "We’ll see, the weather changes fast here.",
+      "hungarian": "Majd kiderül, itt gyorsan változik az idő.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107958"
+    },
+    {
+      "english": "Feels like it could rain any minute.",
+      "hungarian": "Mintha mindjárt esni fog, érzed?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107961"
+    },
+    {
+      "english": "I swear, the wind is annoying today.",
+      "hungarian": "Eskü, ma idegesítő a szél.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107964"
+    },
+    {
+      "english": "That cloud cover’s thick, for sure.",
+      "hungarian": "Ez a felhőköpeny elég sűrű, tuti.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107970"
+    },
+    {
+      "english": "Let’s just play it by ear.",
+      "hungarian": "Csak bízzunk benne, és kész.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107973"
+    },
+    {
+      "english": "This is one of those moody days.",
+      "hungarian": "Ez megint egy ilyen hangulatos nap.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107975"
+    },
+    {
+      "english": "Don’t be surprised if it flips later.",
+      "hungarian": "Ne lepődj meg, ha később megfordul.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107979"
+    },
+    {
+      "english": "The sun’s out, but it’s still cool.",
+      "hungarian": "Süt a nap, de még hűvös van.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107982"
+    },
+    {
+      "english": "It’s one of those on-and-off days.",
+      "hungarian": "Ez megint egy ilyen hol-itt, hol-nem nap.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107986"
+    },
+    {
+      "english": "Weather like this gets everyone bundled up.",
+      "hungarian": "Na, az ilyen időben mindenki felöltözik.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107988"
+    },
+    {
+      "english": "You can feel spring coming, right?",
+      "hungarian": "Érezni, hogy jön a tavasz, ugye?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107991"
+    },
+    {
+      "english": "Autumn’s in the air, it’s obvious.",
+      "hungarian": "Ősz van a levegőben, na.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.107996"
+    },
+    {
+      "english": "It’s not too hot, just right.",
+      "hungarian": "Nem is nagy meleg, egész elviselhető.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108000"
+    },
+    {
+      "english": "Today’s the kind that shocks you.",
+      "hungarian": "Ez az a nap, ami meglep, ám.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108003"
+    },
+    {
+      "english": "So, are we getting sunshine later?",
+      "hungarian": "Szóval lesz később napocska?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108005"
+    },
+    {
+      "english": "I’m keeping my fingers crossed, honestly.",
+      "hungarian": "Keresztem az ujjaim, őszintén.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108009"
+    },
+    {
+      "english": "The air’s heavy, I can tell.",
+      "hungarian": "Nyomasztó a levegő, ezt érzem.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108012"
+    },
+    {
+      "english": "It’ll clear out eventually, don’t worry.",
+      "hungarian": "Kikapunk belőle, nem kell aggódni.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108015"
+    },
+    {
+      "english": "Looks like it’ll rain, that’s the vibe.",
+      "hungarian": "Érzésre eső lesz, ennyi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108018"
+    },
+    {
+      "english": "My mood follows the weather, seriously.",
+      "hungarian": "A kedvem a körülményekkel együtt mozdul, komolyan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108046"
+    },
+    {
+      "english": "It’s perfect for a quick walk.",
+      "hungarian": "Ez pont jó egy rövid sétához.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108050"
+    },
+    {
+      "english": "Looks calm now, but who knows later.",
+      "hungarian": "Most csendes, de később ki tudja.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108053"
+    },
+    {
+      "english": "We’ll manage, umbrellas exist for a reason.",
+      "hungarian": "Megoldjuk, az esernyő az eszünkbe jár.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108056"
+    },
+    {
+      "english": "The weather’s all over the place today.",
+      "hungarian": "Ma aztán az idő is össze-vissza van.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108059"
+    },
+    {
+      "english": "What a day, straight-up unpredictable.",
+      "hungarian": "Micsoda nap, teljesen kiszámíthatatlan.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108062"
+    },
+    {
+      "english": "Well, it is what it is today.",
+      "hungarian": "Na, ilyen ma az idő, ennyi.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108065"
+    },
+    {
+      "english": "Honestly, I’m a little restless today.",
+      "hungarian": "Őszintén, ma kicsit nyugtalan vagyok.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108068"
+    },
+    {
+      "english": "The sky feels heavy, so I slow down.",
+      "hungarian": "A levegő nehéz, ezért lassítok.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108071"
+    },
+    {
+      "english": "When it’s quiet, I finally think straight.",
+      "hungarian": "Ha csend van, végre rendben megyek fejben.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108077"
+    },
+    {
+      "english": "I’m not overthinking the clouds, just observing.",
+      "hungarian": "Nem túlgondolom a felhőket, csak nézem.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108080"
+    },
+    {
+      "english": "This breeze helps, it clears my head.",
+      "hungarian": "Ez a szellő jólesik, kitisztítja a fejemet.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108083"
+    },
+    {
+      "english": "I like days like this, they’re honest.",
+      "hungarian": "Szeretem az ilyen napokat, őszinték.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108086"
+    },
+    {
+      "english": "I’m patient with the weather today.",
+      "hungarian": "Ma türelmes vagyok a időjárással.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108089"
+    },
+    {
+      "english": "Small talk helps me handle this drizzle.",
+      "hungarian": "A kis csevegés segít elviselni ezt a szemerkélést.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108092"
+    },
+    {
+      "english": "I’m choosing calm, no matter the forecast.",
+      "hungarian": "A nyugalmat választom, akárhogy is jön az idő.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108095"
+    },
+    {
+      "english": "I don’t mind the gray, it feels safe.",
+      "hungarian": "Nem zavar a szürkeség, biztonságosnak érzem.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108098"
+    },
+    {
+      "english": "Let’s be kind to ourselves in this weather.",
+      "hungarian": "Legyünk kedvesek magunkhoz, ebben az időben.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108101"
+    },
+    {
+      "english": "I’m just trying to stay flexible today.",
+      "hungarian": "Csak rugalmas akarok maradni ma.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108104"
+    },
+    {
+      "english": "The rain mood matches what I’m feeling.",
+      "hungarian": "A eső hangulata passzol ahhoz, amit érzek.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108140"
+    },
+    {
+      "english": "I’m learning to wait it out quietly.",
+      "hungarian": "Arról szól, hogy csendben kivárok.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108148"
+    },
+    {
+      "english": "Honestly, I need a slower morning.",
+      "hungarian": "Őszintén, nekem lassabb reggel kell.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108152"
+    },
+    {
+      "english": "The wind sounds harsh, but I breathe anyway.",
+      "hungarian": "A szél keményen zúg, de én mégis lélegzem.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108157"
+    },
+    {
+      "english": "I’m trying to stay positive, even now.",
+      "hungarian": "Arra törekszem, hogy pozitív maradjak, most is.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108163"
+    },
+    {
+      "english": "Clouds don’t bother me, I’m used to it.",
+      "hungarian": "A felhők nem zavaróak, megszoktam.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108173"
+    },
+    {
+      "english": "I can feel change coming, it’s in the air.",
+      "hungarian": "Érzem, hogy jön a változás, benne van a levegőben.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108179"
+    },
+    {
+      "english": "Today, I’m keeping expectations low.",
+      "hungarian": "Ma alacsonyan tartom az elvárásokat.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108186"
+    },
+    {
+      "english": "I’m grateful for dry minutes between showers.",
+      "hungarian": "Hálás vagyok a száraz percekért a záporok közt.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108191"
+    },
+    {
+      "english": "This weather makes me want to stay home.",
+      "hungarian": "Az időjárás kedvet csinál, hogy otthon maradjak.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108193"
+    },
+    {
+      "english": "I’m not rushing plans, I’m listening first.",
+      "hungarian": "Nem sietek a tervekkel, előbb figyelek.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108197"
+    },
+    {
+      "english": "Even if it’s messy, we’ll be okay.",
+      "hungarian": "Ha kicsit kaotikus is, akkor is rendben lesz.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108201"
+    },
+    {
+      "english": "I’m sharing my mood, not blaming the sky.",
+      "hungarian": "A hangulatomat mondom, nem a felhőket hibáztatom.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108204"
+    },
+    {
+      "english": "Let’s talk, while the weather sorts itself.",
+      "hungarian": "Beszélgessünk, amíg az idő rendeződik.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108207"
+    },
+    {
+      "english": "I’m choosing patience, the day will pass.",
+      "hungarian": "Türelemre van szükség, a nap úgyis eltelik.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108210"
+    },
+    {
+      "english": "I’ll take one good thing from today, anyway.",
+      "hungarian": "Mindegy, ma is kiszedek belőle egy jót.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108214"
+    },
+    {
+      "english": "Right now, I just want comfort and space.",
+      "hungarian": "Most csak kényelmet és egy kis helyet akarok.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108216"
+    },
+    {
+      "english": "Is it supposed to rain soon, right?",
+      "hungarian": "Arra van esély, hogy hamarosan esni fog?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-10T10:40:33.108219"
     }
   ],
-  "last_updated": "2026-11-09T10:29:57.943642"
+  "last_updated": "2026-11-10T10:40:33.108222"
 }
