@@ -7919,7 +7919,727 @@
       "hungarian": "Arra van esély, hogy hamarosan esni fog?",
       "category": "Weather & Small Talk",
       "generated_at": "2026-11-10T10:40:33.108219"
+    },
+    {
+      "english": "Good morning, I’m up, what’s up?",
+      "hungarian": "Szia, felkeltem, mi a helyzet?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.352995"
+    },
+    {
+      "english": "I’m running late, sorry, I have to go.",
+      "hungarian": "Késésben vagyok, bocsánat, mennem kell.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353008"
+    },
+    {
+      "english": "Wait, let me get my keys.",
+      "hungarian": "Várj, addig felkapom a kulcsaimat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353010"
+    },
+    {
+      "english": "I’m grabbing coffee, want one?",
+      "hungarian": "Megyek kávéért, kérsz egyet?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353013"
+    },
+    {
+      "english": "Hold on, I forgot my charger.",
+      "hungarian": "Várj, elfelejtettem a töltőmet.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353014"
+    },
+    {
+      "english": "Okay, shower first, then we talk.",
+      "hungarian": "Oké, zuhany először, aztán beszélünk.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353016"
+    },
+    {
+      "english": "Did you eat breakfast, or are you skipping?",
+      "hungarian": "ettél reggelit, vagy kihagyod?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353018"
+    },
+    {
+      "english": "I’m about to leave, call me!",
+      "hungarian": "mindjárt megyek, szólj rám!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353022"
+    },
+    {
+      "english": "Be right back, I need water.",
+      "hungarian": "Mindjárt jövök, kell egy kis víz.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353025"
+    },
+    {
+      "english": "Wow, that was fast, good job!",
+      "hungarian": "Jaj, ez gyors volt, ügyes!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353027"
+    },
+    {
+      "english": "Nice, I found everything I need.",
+      "hungarian": "Szuper, megvan mindenem, amire kell.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353029"
+    },
+    {
+      "english": "Oops, I spilled my drink, sorry!",
+      "hungarian": "Hoppá, kiöntöttem az italom, bocs!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353031"
+    },
+    {
+      "english": "Come on, wake up, it’s morning!",
+      "hungarian": "Na, ébredj fel, itt a reggel!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353033"
+    },
+    {
+      "english": "I’m heading out, see you soon, okay?",
+      "hungarian": "Indulok, hamarosan találkozunk, jó?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353037"
+    },
+    {
+      "english": "Tell me honestly, did you sleep well?",
+      "hungarian": "Mondd őszintén, jól aludtál?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353039"
+    },
+    {
+      "english": "I don’t have time, what’s the plan?",
+      "hungarian": "Nincs időm, mi a terv?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353041"
+    },
+    {
+      "english": "Just one sec, I’m almost ready.",
+      "hungarian": "Csak egy pillanat, szinte kész vagyok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353043"
+    },
+    {
+      "english": "Alright, let’s go, I’m energized!",
+      "hungarian": "Rendben, induljunk, tele vagyok energiával!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353045"
+    },
+    {
+      "english": "That smells amazing, what are you cooking?",
+      "hungarian": "Ez isteni illat, mit főzöl?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353046"
+    },
+    {
+      "english": "I’m late again, seriously?",
+      "hungarian": "Megint későn jövök, komolyan?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353048"
+    },
+    {
+      "english": "I’ll be quick, then I’ll help you.",
+      "hungarian": "Gyors leszek, aztán segítek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353050"
+    },
+    {
+      "english": "No worries, we can do it later.",
+      "hungarian": "Semmi gond, megcsináljuk később.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353052"
+    },
+    {
+      "english": "I’m cold, can you close the window?",
+      "hungarian": "Fázom, becsukod az ablakot?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353064"
+    },
+    {
+      "english": "Wait, that doesn’t make sense to me.",
+      "hungarian": "Hoppá, ez nekem nem stimmel.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353067"
+    },
+    {
+      "english": "I’m starving, where are we eating?",
+      "hungarian": "Éhen vagyok, hol együnk?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353069"
+    },
+    {
+      "english": "Just checking, you’re coming, right?",
+      "hungarian": "Csak rákérdezek, jössz, ugye?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353078"
+    },
+    {
+      "english": "That’s perfect, I love this routine.",
+      "hungarian": "Ez tökéletes, imádom ezt a rutint.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353081"
+    },
+    {
+      "english": "Give me a minute, I need to text.",
+      "hungarian": "Adj egy percet, írnom kell.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353084"
+    },
+    {
+      "english": "I’m off, text me when you’re free.",
+      "hungarian": "Me gh itt, írj, ha ráérsz.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353088"
+    },
+    {
+      "english": "Good luck, you’ll be fine, promise!",
+      "hungarian": "Sok sikert, menni fog, ígérem!",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353092"
+    },
+    {
+      "english": "What time do you usually wake up, love?",
+      "hungarian": "Hánykor szoktál felkelni, drágám?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353095"
+    },
+    {
+      "english": "Do you shower in the morning, or at night?",
+      "hungarian": "Reggel zuhanyzol, vagy inkább este?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353098"
+    },
+    {
+      "english": "Quick question, what’s your daily breakfast go-to?",
+      "hungarian": "Egy gyors kérdés, mi a kedvenc reggelid?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353102"
+    },
+    {
+      "english": "Can I ask, do you drink coffee right away?",
+      "hungarian": "Megkérdezhetem, rögtön iszol kávét?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353105"
+    },
+    {
+      "english": "How do you stay focused after lunch, tell me?",
+      "hungarian": "Hogyan maradsz fókuszban ebéd után?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353109"
+    },
+    {
+      "english": "What’s your trick for getting ready fast?",
+      "hungarian": "Mi a trükköd, hogy gyorsan kész legyél?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353112"
+    },
+    {
+      "english": "Should I pack a lunch, what do you think?",
+      "hungarian": "Csomagoljak ebédet is, te mit gondolsz?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353115"
+    },
+    {
+      "english": "Do you stretch daily, or only when needed?",
+      "hungarian": "Nyújtasz minden nap, vagy csak néha?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353121"
+    },
+    {
+      "english": "Which do you prefer, walking or driving?",
+      "hungarian": "Inkább sétálsz, vagy autózol?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353124"
+    },
+    {
+      "english": "Can we plan your evening routine together?",
+      "hungarian": "Megtervezzük együtt a te esti rutinodat?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353126"
+    },
+    {
+      "english": "What time do you usually go to bed, babe?",
+      "hungarian": "Hánykor szoktál lefeküdni, kicsim?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353129"
+    },
+    {
+      "english": "Do you listen to music while you get ready?",
+      "hungarian": "Zenét hallgatsz készülődés közben?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353131"
+    },
+    {
+      "english": "Be honest, do you snooze the alarm?",
+      "hungarian": "Őszintén, szoktál halogatni az ébresztőt?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353134"
+    },
+    {
+      "english": "What do you do first, coffee or check messages?",
+      "hungarian": "Mi az első lépésed, kávé, vagy üzenetek?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353137"
+    },
+    {
+      "english": "Any advice, how to wake up easier?",
+      "hungarian": "Van tippem, hogyan ébreszd magad könnyebben?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353139"
+    },
+    {
+      "english": "How long does your morning routine take?",
+      "hungarian": "Mennyi ideig tart nálad a reggeli rutin?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353142"
+    },
+    {
+      "english": "Do you keep a to-do list, or wing it?",
+      "hungarian": "Listát írsz, vagy inkább improvizálsz?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353145"
+    },
+    {
+      "english": "Should we do laundry today, or tomorrow?",
+      "hungarian": "A mosást ma csináljuk, vagy holnap?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353148"
+    },
+    {
+      "english": "What helps you unwind at the end of day?",
+      "hungarian": "Mi segít kikapcsolódni nap végén?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353150"
+    },
+    {
+      "english": "Can I join your workout session, maybe?",
+      "hungarian": "Csatlakozhatok a tréninghez, esetleg?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353152"
+    },
+    {
+      "english": "Do you eat something light before work?",
+      "hungarian": "Munka előtt eszel valami könnyűt?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353154"
+    },
+    {
+      "english": "What’s your go-to shortcut for chores?",
+      "hungarian": "Mi a legjobb trükköd a házimunkára?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353158"
+    },
+    {
+      "english": "How do you manage stress, day to day?",
+      "hungarian": "Hogy kezeled a stresszt napról napra?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353160"
+    },
+    {
+      "english": "Do you plan tomorrow tonight, or morning?",
+      "hungarian": "Hol tervezed meg holnapot, este vagy reggel?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353161"
+    },
+    {
+      "english": "What time do you leave for work, love?",
+      "hungarian": "Hánykor indulsz munkába, drágám?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353165"
+    },
+    {
+      "english": "Can you remind me, what’s our plan?",
+      "hungarian": "Emlékeztetsz, mi a terv?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353167"
+    },
+    {
+      "english": "Do you read before bed, or scroll?",
+      "hungarian": "Bedben olvasol, vagy csak pörgetsz?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353169"
+    },
+    {
+      "english": "What makes your routine feel so good?",
+      "hungarian": "Mi teszi neked olyan jó érzéssé a rutint?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353172"
+    },
+    {
+      "english": "If I follow you, will I succeed too?",
+      "hungarian": "Ha követlek, akkor nekem is menni fog?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353173"
+    },
+    {
+      "english": "Want to trade routines, I’ll start first?",
+      "hungarian": "Cseréljünk rutinokat, én kezdem, oké?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353175"
+    },
+    {
+      "english": "Morning starts, coffee first, right?",
+      "hungarian": "Reggel indul, kávé először, ugye?",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353178"
+    },
+    {
+      "english": "After breakfast, I quickly check my calendar.",
+      "hungarian": "Reggeli után gyorsan megnézem a naptárat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353180"
+    },
+    {
+      "english": "I hit snooze once, then I’m up.",
+      "hungarian": "Egyszer szundítok, aztán felkelek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353182"
+    },
+    {
+      "english": "I keep it simple, brush, out the door.",
+      "hungarian": "Egyszerűen csinálom, fogmosás, aztán megyek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353184"
+    },
+    {
+      "english": "No rush, but I’m not late, either.",
+      "hungarian": "Nincs kapkodás, de nem is kések.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353187"
+    },
+    {
+      "english": "Before work, I tidy up for ten minutes.",
+      "hungarian": "Munka előtt összerakom tíz percre.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353188"
+    },
+    {
+      "english": "Lunch break, I actually eat slowly.",
+      "hungarian": "Ebédszüneten tényleg lassan eszem.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353190"
+    },
+    {
+      "english": "When I’m hungry, I grab something fast.",
+      "hungarian": "Ha éhes vagyok, kapok valamit gyorsan.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353192"
+    },
+    {
+      "english": "Midday reset, quick walk, then back on track.",
+      "hungarian": "Délben jöhet egy kis séta, aztán vissza.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353194"
+    },
+    {
+      "english": "I don’t overthink it, I just start.",
+      "hungarian": "Nem agyalok, csak nekiindulok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353195"
+    },
+    {
+      "english": "I drink water first, it does wonders.",
+      "hungarian": "Először vizet iszom, csodát tesz.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353197"
+    },
+    {
+      "english": "In the afternoon, I need a caffeine boost.",
+      "hungarian": "Délután kell egy kis kávéfrissítő.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353199"
+    },
+    {
+      "english": "I use small steps, one task at a time.",
+      "hungarian": "Apró lépésekkel megyek, egyenként a feladatokkal.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353200"
+    },
+    {
+      "english": "When meetings pile up, I breathe, stay calm.",
+      "hungarian": "Ha összejönnek a meetingek, veszek egyet, higgadt vagyok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353213"
+    },
+    {
+      "english": "I leave work on time, no overtime guilt.",
+      "hungarian": "Időben hazamegyek, nincs bűntudat túlóránál.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353215"
+    },
+    {
+      "english": "On the way home, I clear my head.",
+      "hungarian": "Hazafelé kikapcsolok, kitisztul a fejem.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353217"
+    },
+    {
+      "english": "Evening chores, quick rounds, then relax.",
+      "hungarian": "Házi munka este, gyors körök, aztán pihi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353220"
+    },
+    {
+      "english": "I don’t wait for the weekend to clean.",
+      "hungarian": "Nem a hétvégére hagyom a takarítást.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353223"
+    },
+    {
+      "english": "Dinner’s on the table, I’m grateful.",
+      "hungarian": "Kész a vacsora, hálás vagyok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353226"
+    },
+    {
+      "english": "After dinner, I wash dishes, no drama.",
+      "hungarian": "Vacsora után mosogatok, nincs hiszti.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353229"
+    },
+    {
+      "english": "I keep screens down at night, it helps.",
+      "hungarian": "Este lejjebb veszem a képernyőt, ez segít.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353232"
+    },
+    {
+      "english": "Bedtime comes, I crawl under the blanket.",
+      "hungarian": "Jön az ágyidő, bebújok a takaró alá.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353235"
+    },
+    {
+      "english": "I read a bit, then lights out.",
+      "hungarian": "Olvasok kicsit, aztán lekapcsolom.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353238"
+    },
+    {
+      "english": "Before sleep, I plan one thing for tomorrow.",
+      "hungarian": "Elalvás előtt egy dolgot kigondolok holnapra.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353244"
+    },
+    {
+      "english": "If something slips, I’ll handle it later.",
+      "hungarian": "Ha csúszik valami, majd később elintézem.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353247"
+    },
+    {
+      "english": "I’m not perfect, but I keep going.",
+      "hungarian": "Nem vagyok tökéletes, de megyek tovább.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353252"
+    },
+    {
+      "english": "The key is consistency, not motivation.",
+      "hungarian": "A lényeg a rendszeresség, nem a lelkesedés.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353255"
+    },
+    {
+      "english": "I start the day light, I stay flexible.",
+      "hungarian": "Könnyen indítok a napot, rugalmas vagyok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353258"
+    },
+    {
+      "english": "Fresh day, new energy, same calm routine.",
+      "hungarian": "Új nap, új erő, ugyanaz a nyugi rutin.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353261"
+    },
+    {
+      "english": "I finish strong, so tomorrow starts easier.",
+      "hungarian": "Erősen zárom, hogy holnap könnyebb legyen.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353267"
+    },
+    {
+      "english": "Honestly, I don’t always feel ready.",
+      "hungarian": "Őszintén, nem mindig érzem magam készen.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353270"
+    },
+    {
+      "english": "I breathe first, then I pick a task.",
+      "hungarian": "Először veszek egy nagy levegőt, aztán választok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353273"
+    },
+    {
+      "english": "Some days, I go slower, and it’s okay.",
+      "hungarian": "Vannak napok, amikor lassabban megyek, és rendben van.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353277"
+    },
+    {
+      "english": "I let my mind warm up quietly.",
+      "hungarian": "Hagyom, hogy a fejem csendben bemelegedjen.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353279"
+    },
+    {
+      "english": "I notice patterns, then I adjust gently.",
+      "hungarian": "Bemerem venni a mintákat, aztán óvatosan igazítok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353282"
+    },
+    {
+      "english": "My morning mood sets the whole day tone.",
+      "hungarian": "A reggeli hangulatom adja a nap alaphangját.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353285"
+    },
+    {
+      "english": "I answer messages, but I don’t chase them.",
+      "hungarian": "Válaszolok, de nem rohangálok utánuk.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353289"
+    },
+    {
+      "english": "Even on busy days, I stay kind.",
+      "hungarian": "Még a rohanós napokon is kedves maradok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353291"
+    },
+    {
+      "english": "I take breaks, because my brain needs space.",
+      "hungarian": "Szünetet tartok, mert az agyamnak kell hely.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353294"
+    },
+    {
+      "english": "I don’t wait for motivation, I use rhythm.",
+      "hungarian": "Nem a motivációra várok, hanem ritmusra megyek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353308"
+    },
+    {
+      "english": "If I mess up, I reset fast.",
+      "hungarian": "Ha elrontom, gyorsan újrakezdek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353310"
+    },
+    {
+      "english": "I’m learning to say, “not today.”",
+      "hungarian": "Tanulom azt mondani, hogy “nem ma”.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353314"
+    },
+    {
+      "english": "Gratitude is my quiet morning habit.",
+      "hungarian": "A hála az én csendes reggeli szokásom.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353316"
+    },
+    {
+      "english": "I keep one promise to myself daily.",
+      "hungarian": "Minden nap betartok egy ígéretet magamnak.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353318"
+    },
+    {
+      "english": "I check in with my feelings, not just plans.",
+      "hungarian": "Belekérdezek az érzéseimnek, nem csak a terveknek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353319"
+    },
+    {
+      "english": "Late nights drain me, so I protect energy.",
+      "hungarian": "A késő esti idő lemerít, ezért védelem az energiám.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353321"
+    },
+    {
+      "english": "Sometimes I journal, just to hear myself.",
+      "hungarian": "Néha naplót írok, hogy meghalljam magam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353323"
+    },
+    {
+      "english": "When I’m tense, I loosen my shoulders.",
+      "hungarian": "Ha feszült vagyok, leengedem a vállam.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353325"
+    },
+    {
+      "english": "I don’t compare, I measure my own progress.",
+      "hungarian": "Nem hasonlítok, hanem a saját fejlődésemet nézem.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353327"
+    },
+    {
+      "english": "I allow mistakes, then move forward anyway.",
+      "hungarian": "Megengedem a hibákat, aztán mégis megyek tovább.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353328"
+    },
+    {
+      "english": "I trust small routines, they carry me.",
+      "hungarian": "Bízom a kis rutinokban, elvisznek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353330"
+    },
+    {
+      "english": "Today I’m proud, even if it’s simple.",
+      "hungarian": "Ma büszke vagyok, akkor is, ha egyszerű.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353331"
+    },
+    {
+      "english": "I keep space for rest, guilt-free.",
+      "hungarian": "Szabad helyet hagyok a pihenésnek, bűntudat nélkül.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353333"
+    },
+    {
+      "english": "Even chores can be calm, if I breathe.",
+      "hungarian": "A házimunka is lehet nyugodt, ha veszek levegőt.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353335"
+    },
+    {
+      "english": "I notice silence, and it steadies me.",
+      "hungarian": "Észreveszem a csendet, és megnyugtat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353337"
+    },
+    {
+      "english": "I try again tomorrow, no dramatic speeches.",
+      "hungarian": "Holnap újra próbálok, nagy beszédek nélkül.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353338"
+    },
+    {
+      "english": "My best days feel gentle, not perfect.",
+      "hungarian": "A legjobb napjaim puhák, nem tökéletesek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353340"
+    },
+    {
+      "english": "I slow down when I feel ignored.",
+      "hungarian": "Lassítok, ha azt érzem, hogy nem vagyok fontos.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353341"
+    },
+    {
+      "english": "I choose one deep task, then breathe.",
+      "hungarian": "Választok egy mély feladatot, aztán levegőt veszek.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353343"
+    },
+    {
+      "english": "I’m honest about my limits, and it helps.",
+      "hungarian": "Őszintén vállalom a határaimat, és segít.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-11T09:56:35.353345"
     }
   ],
-  "last_updated": "2026-11-10T10:40:33.108222"
+  "last_updated": "2026-11-11T09:56:35.353347"
 }
