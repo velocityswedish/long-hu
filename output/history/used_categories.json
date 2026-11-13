@@ -47,7 +47,39 @@
     {
       "category": "Daily Routine",
       "date": "2020-01-12"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Kindness",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Joy",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2026-11-12"
     }
   ],
-  "last_updated": "2026-11-12T11:23:12.127868"
+  "last_updated": "2026-11-12T17:20:42.963972"
 }
