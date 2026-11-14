@@ -111,7 +111,39 @@
     {
       "category": "Doctor & Pharmacy",
       "date": "2026-11-13"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Success",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-14"
     }
   ],
-  "last_updated": "2026-11-13T16:57:46.770063"
+  "last_updated": "2026-11-14T15:29:53.820125"
 }
