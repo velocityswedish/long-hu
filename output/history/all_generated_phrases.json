@@ -10991,7 +10991,399 @@
       "transliteration": "A PIACON először KÖSZÖNÜNK egymásnak.",
       "category": "Cultural Traditions",
       "generated_at": "2026-11-17T18:04:13.156927"
+    },
+    {
+      "english": "I love this soft morning air.",
+      "hungarian": "Imádom ezt a puha reggeli levegőt.",
+      "transliteration": "ima-dom e-zT a pu-ha reGG-eli le-VEgőt",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "It looks like sunshine might break through.",
+      "hungarian": "Úgy tűnik, hamarosan kisüthet a nap.",
+      "transliteration": "Ugy TŰnik, ha-mar-o-san KI-sü-het a nap",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Are you also smelling rain soon?",
+      "hungarian": "Te is érzed, hogy mindjárt jön az eső?",
+      "transliteration": "te is ÉR-zed, hogy MIND-járt jön az e-ső",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "My jacket feels perfect right now.",
+      "hungarian": "Most pont jól áll a kabátom.",
+      "transliteration": "most pont JÓL ál a ka-BÁtom",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "The clouds are moving fast today.",
+      "hungarian": "Ma gyorsan szaladnak a felhők.",
+      "transliteration": "ma gyor-san SZa-lad-nak a FELHők",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I’ll wear layers just in case.",
+      "hungarian": "Rétegekben megyek, biztos ami biztos.",
+      "transliteration": "RÉTegek-ben me-gyek, BIZ-tos a-mi BI-ztos",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "This drizzle is oddly soothing.",
+      "hungarian": "Ez az apró szitálás valahogy megnyugtat.",
+      "transliteration": "eZ az a-pro si-TÁ-lás va-la-hogy meg-NYU-gat",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I make my bed, then start.",
+      "hungarian": "Rendet rakok az ágyon, aztán indulok.",
+      "transliteration": "REndet raKoK az aYon, aszTan INduLok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Brush teeth, splash water, wake up.",
+      "hungarian": "Fogmosás, hideg víz az arcomra, ébredés.",
+      "transliteration": "FOGmoSás, hiDEg ViZ az arcomra, EBREdés.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I fill my bottle before leaving.",
+      "hungarian": "Megtöltöm a kulacsom, mielőtt elindulok.",
+      "transliteration": "MEgTöltöm a kuLACsoM, miELőtt elINduLok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I put keys in one clear spot.",
+      "hungarian": "A kulcsokat mindig ugyanoda teszem, jól látható helyre.",
+      "transliteration": "A kULcsoKat minDENkiR UGyANaHOga TeSzEm, joL laTHAto HElyre.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I take a short walk after lunch.",
+      "hungarian": "Ebéd után sétálok egy kicsit, hogy újrainduljak.",
+      "transliteration": "EBéd uTán SÉtálok eGy kiCSit, hoGy uJRAinDUljak.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I do one email only, then stop.",
+      "hungarian": "Csak egyetlen e-mailt intézek, aztán megállok.",
+      "transliteration": "CSak eGyetLEN e-MAilt INtÉzek, azTÁn megALLok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "At work, I clear my desk.",
+      "hungarian": "Munka előtt rendbe teszem az asztalomat.",
+      "transliteration": "MUNka eLŐtt RENdbe TESzem az asztaLOMat.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I’m making lunch for everyone.",
+      "hungarian": "Ebédet készítek mindenkinek.",
+      "transliteration": "Ebé döt ké-szí-tek min-den-ki-nek.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Could you help me fold laundry?",
+      "hungarian": "Tudsz segíteni összehajtani a ruhákat?",
+      "transliteration": "Tudsz se-gí-te-ni ösz-sze-haj-ta-ni a ru-há-kat?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "We’ve got a clean fridge today.",
+      "hungarian": "Ma rendben van a hűtőnk, üres polcokkal is.",
+      "transliteration": "Ma rendben van a hű-tőnk, ü-res polc-ok-kal is.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "The kids are playing quietly.",
+      "hungarian": "A gyerekek halkan játszanak.",
+      "transliteration": "A gye-rekek hál-kan játsza-nak.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Let’s eat together, no rushing.",
+      "hungarian": "Együtt együnk, ne siessünk.",
+      "transliteration": "Együtt e-gyünk, ne siessünk.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I’ll put the leftovers away.",
+      "hungarian": "Elteszem a maradékot a hűtőbe.",
+      "transliteration": "El-te-szem a ma-ra-dé-kot a hű-tő-be.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "We need to buy school supplies.",
+      "hungarian": "Be kell szereznünk az iskolai felszerelést.",
+      "transliteration": "Be kell sze-rez-nünk az is-ko-lai fel-sze-re-lést.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Where is baggage claim, please?",
+      "hungarian": "Hol van a poggyászfelvétel, kérem?",
+      "transliteration": "Hol VAN a poggyászfelvétel, kérEM?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Which carousel is my flight on?",
+      "hungarian": "Melyik futószalag hozza a járatomat?",
+      "transliteration": "MELyik FUtószalag hozza a JÁratomat?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I need to change my seat.",
+      "hungarian": "Szeretném megváltoztatni az ülőhelyemet.",
+      "transliteration": "SZERetném megváLTOZTATni az ÜLŐhelyemet.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Can I add extra luggage?",
+      "hungarian": "Tudok plusz poggyászt hozzáadni?",
+      "transliteration": "Tudok PLUSZ poggyászt hoZZAadni?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Where can I buy snacks here?",
+      "hungarian": "Hol tudok itt harapnivalót venni?",
+      "transliteration": "Hol TUDok itt HArapnivalót VEZni?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "What time does boarding start?",
+      "hungarian": "Mikor kezdődik a beszállás?",
+      "transliteration": "MIkor KEZDődik a BEszállás?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Do I need a visa for transit?",
+      "hungarian": "Átutazáshoz kell vízum?",
+      "transliteration": "ÁtUtaZÁshoz KELL vízum?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "You make hard days lighter.",
+      "hungarian": "Te könnyebbé teszed a nehéz napokat.",
+      "transliteration": "Te KÖNNYEBBÉ teSzED a NEHÉZ napokat.",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Thanks for listening, really.",
+      "hungarian": "Köszi, hogy tényleg meghallgatsz.",
+      "transliteration": "KÖszi, hogy TÉnyleg MEGHallgatsz.",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I trust you with everything.",
+      "hungarian": "Mindent rád bízok, és bízom benned.",
+      "transliteration": "MI NDET rád BI ZOK, és BI zom BENned.",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "We’ve grown together, and it shows.",
+      "hungarian": "Együtt nőttünk fel, és ez látszik.",
+      "transliteration": "EGYütt NÖttünk fel, és ez LÁtszik.",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Call me when you need me.",
+      "hungarian": "Hívj nyugodtan, ha rám lesz szükséged.",
+      "transliteration": "HÍVj NYUGodtan, ha RÁm lesz SÜKSÉged.",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Your support means a lot.",
+      "hungarian": "A támogatásod rengeteget jelent.",
+      "transliteration": "A TÁmogatásod RENgeteget JELent.",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "You’re my calm in chaos.",
+      "hungarian": "Te vagy a nyugalmam a káoszban.",
+      "transliteration": "Te VAGY a NyuGAlmam a KÁoSzban.",
+      "category": "Friendship",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Joy hits when I stop rushing.",
+      "hungarian": "Az öröm akkor üt be, amikor abbahagyom a rohanást.",
+      "transliteration": "Az O Röm akkor ÜT be, amikor ABBAHAGYOM a ROHANÁST.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I choose joy, then I breathe.",
+      "hungarian": "Megválasztom az örömöt, aztán veszek egy nagy levegőt.",
+      "transliteration": "MEGVÁLASZTom az ÖRÖMÖT, AZTÁN VESZEK egy NAgy LEVEGŐT.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "This song makes my day brighter.",
+      "hungarian": "Ettől a zenétől ragyogóbb lesz a napom.",
+      "transliteration": "ETTŐL a ZENÉTŐL RAGYOGÓBB lesz a NApom.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "My joy is in saying yes.",
+      "hungarian": "Az örömöm abban van, hogy igent mondok.",
+      "transliteration": "Az ÖRÖMÖM ABBAN van, hogy I GENT mondok.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Joy shows up in warm coffee steam.",
+      "hungarian": "Az öröm a meleg kávé gőzében ül meg.",
+      "transliteration": "Az ÖRÖM a MELEG kávé GŐZÉBEN ÜL meg.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I let joy roll through my shoulders.",
+      "hungarian": "Hadd gördüljön végig rajtam az öröm, a vállamon is.",
+      "transliteration": "HADD GÖR DÜLJÖN VÉGIG RAJtam az ÖRÖM, a VAllamon is.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "A small kindness gave me joy.",
+      "hungarian": "Egy apró kedvesség hozott nekem örömet.",
+      "transliteration": "Egy APRÓ KEDVESSÉG HObott NEKEM ÖRÖMET.",
+      "category": "Joy",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Thanks for listening, really means a lot",
+      "hungarian": "Köszönöm, hogy meghallgattál, nagyon sokat jelent.",
+      "transliteration": "KOSzonöm, HOGy meghallgattál, NAgyon sokat JELEnt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "That was gentle of you, genuinely",
+      "hungarian": "Nagyon kedves volt tőled, őszintén.",
+      "transliteration": "NAgyon KEdes volt tőled, OSzintén.",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "You helped me even when you were busy",
+      "hungarian": "Segítettél, még akkor is, amikor sietned kellett.",
+      "transliteration": "SEgitettél, MÉg akkor is, amikor SIetned KELlett.",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Here, you go first, please",
+      "hungarian": "Menj előre, kérlek, te jöhetsz elsőnek.",
+      "transliteration": "MENj elŐRe, KÉrlek, te JÖhetsz ELsőnek.",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Can I return the favor later?",
+      "hungarian": "Vissza tudom adni a segítséget később, ugye?",
+      "transliteration": "VISza TUDom adni a SEgitseget KÉSőbb, ugye?",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I noticed your kindness today, thank you",
+      "hungarian": "Ma észrevettem a kedvességed, köszönöm.",
+      "transliteration": "MA észreVETtem a KEdesseged, KÖszönöm.",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "You made it easier for me",
+      "hungarian": "Megkönnyítetted a dolgom, köszi.",
+      "transliteration": "MekKÖnnyítetted a DOlogom, KÖszi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "What time does the class start?",
+      "hungarian": "Hány órakor kezdődik az óra?",
+      "transliteration": "Hány ÓRAKOR KEZDŐDIK az óra?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I need a lighter weight today.",
+      "hungarian": "Ma könnyebb súlyokra van szükségem.",
+      "transliteration": "Ma KÖNNYEBB SÚLYOKRA van SZÜKSÉGEM.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Where can I pick up a towel?",
+      "hungarian": "Hol lehet törölközőt venni?",
+      "transliteration": "Hol LEHET TÖRÖLKÖZŐT VENNI?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Can you show me proper form?",
+      "hungarian": "Meg tudod mutatni a helyes technikát?",
+      "transliteration": "MEG TUDOD MUTATNI a HELYES TECHNIKÁT?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I m doing core exercises, not cardio.",
+      "hungarian": "Core gyakorlatokat csinálok, nem kardiót.",
+      "transliteration": "Core GYA-KORLA-TOKAT CSINÁLOK, nem KAR-DIÓT.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "I m out of breath already, slower.",
+      "hungarian": "Már el is kapkodom a levegőt, lassítsunk.",
+      "transliteration": "Már E L IS KAPKO-DOM a LEVEGŐT, LAS-SÍT-SUNK.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T17:45:49.414447"
+    },
+    {
+      "english": "Do you have a beginner session?",
+      "hungarian": "Van kezdőknek külön edzés?",
+      "transliteration": "VAN KEZDŐKNEK KÜLÖN EDZÉS?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-18T17:45:49.414447"
     }
   ],
-  "last_updated": "2026-11-17T18:04:13.156927"
+  "last_updated": "2026-11-18T17:45:49.414447"
 }
