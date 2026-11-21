@@ -12167,7 +12167,399 @@
       "transliteration": "SEGítséget KErek, aztAn MEgyek TOvabb.",
       "category": "Perseverance",
       "generated_at": "2026-11-20T17:29:55.001709"
+    },
+    {
+      "english": "A quiet idea just clicked for me",
+      "hungarian": "Egy csendes ötlet épp most kattant",
+      "transliteration": "Egy csendes OTlet epp most KATTant",
+      "category": "Inspiration",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "You know what, I’m ready to try",
+      "hungarian": "Na jó, készen állok, hogy próbálkozzak",
+      "transliteration": "Na JO, KESzen ALLOK, hogy PRObalgassak",
+      "category": "Inspiration",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Coffee plus a plan equals momentum",
+      "hungarian": "A kávé és egy terv együtt beindít",
+      "transliteration": "A KAVE es egy TERV egyutt BEINDIT",
+      "category": "Inspiration",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I wrote one sentence, then it grew",
+      "hungarian": "Írtam egy mondatot, és onnantól nőtt",
+      "transliteration": "IRtam egy MONdatot, es onnantol NŐtt",
+      "category": "Inspiration",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Small kindness from a stranger helped",
+      "hungarian": "Egy idegentől kapott kedvesség feltöltött",
+      "transliteration": "Egy IDEgentol kapott KEDvesség FEltoltött",
+      "category": "Inspiration",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "This playlist is coaching my focus",
+      "hungarian": "Ez a lejátszási lista helyre teszi a fókuszt",
+      "transliteration": "Ez a lejATSZASI LISTA HElyre TESzi a FÓkuszt",
+      "category": "Inspiration",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I’m borrowing boldness from my future self",
+      "hungarian": "Bátorságot kérek a jövőbeli énemtől",
+      "transliteration": "BATorsagot KERek a JOVőbeli EANemtől",
+      "category": "Inspiration",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I doodle while waiting, ideas pop up.",
+      "hungarian": "Krittyolok, míg várok, és jönnek az ötletek.",
+      "transliteration": "KRITtyolok, MIG VAROK, ES JONNEK AZ ŐTLETEK",
+      "category": "Creativity",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Let’s remix what we already have.",
+      "hungarian": "Remixeljük azt, ami már megvan.",
+      "transliteration": "REMIXELJUK AZT, AMI MAR MEGVA N",
+      "category": "Creativity",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "What if we try a new angle?",
+      "hungarian": "Mi lenne, ha más szögből próbálnánk?",
+      "transliteration": "MI LENNE, HA MAS SZŐGBOL PROBALNANK",
+      "category": "Creativity",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I use random prompts, then build fast.",
+      "hungarian": "Véletlen ötletindítókkal kezdek, aztán gyorsan építkezem.",
+      "transliteration": "VÉLETlen ŐLETinditokkel KEZDEK, AZTAN GYORSSAN ÉPITKEZEM",
+      "category": "Creativity",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I swap roles with someone for ideas.",
+      "hungarian": "Felcserélem a szerepeket valakivel, hogy új nézőpontot kapjak.",
+      "transliteration": "FELCSERÉLEM A SZÖREPEKET valakivel, HOGY ÚJ NÉZOpONTOT KAPJAK",
+      "category": "Creativity",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I turn boring notes into playful sketches.",
+      "hungarian": "A száraz jegyzeteimet játékos vázlatokká változtatom.",
+      "transliteration": "A SZARAZ JEgyzeteimet JAJKOS VAZLATokkka VAltoztatOM",
+      "category": "Creativity",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Give me constraints, I’ll get creative.",
+      "hungarian": "Adj egy keretet, és azon belül kreatív leszek.",
+      "transliteration": "ADJ EGY KERETET, ES azonBELUL KRÉATIV LESZEK",
+      "category": "Creativity",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I tinker with old electronics",
+      "hungarian": "Szívesen babrálok régi elektronikával.",
+      "transliteration": "SZEvesen BAbRÁLOK régi ELEKtronIKÁval.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I do yoga after dinner",
+      "hungarian": "Ebéd után vagy vacsora után jógázom.",
+      "transliteration": "Ebbéd UTÁn vagy vacsora UTÁn JÓGÁZOM.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I read in cafés for hours",
+      "hungarian": "Kávézókban órákig olvasok.",
+      "transliteration": "KÁvÉZÓkban ÓRÁkig OLVASOK.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "This weekend I m into hiking",
+      "hungarian": "Ezen a hétvégén hódít a túrázás.",
+      "transliteration": "Ezen a HÉtvÉGén HÓDIts a TÚRÁZÁS.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I paint small canvases at home",
+      "hungarian": "Otthon kis vásznakat festek.",
+      "transliteration": "OTThon kIS VÁsznakat FESTEK.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I fix bikes on my balcony",
+      "hungarian": "Az erkélyen szerelgetem a bicikliket.",
+      "transliteration": "Az ERkélyen SZERelgetem a BICikliket.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I play board games with friends",
+      "hungarian": "Barátokkal társasjátékozunk este.",
+      "transliteration": "BARÁtokkal TÁRsasJÁtÉkoZUNK ESTE.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I feel calm right now.",
+      "hungarian": "Most nyugodtan érzem magam.",
+      "transliteration": "Most NYUgodtan ér-ziem maga'm.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "That made me feel safe.",
+      "hungarian": "Attól biztonságban éreztem magam.",
+      "transliteration": "Attól BIztonság-ban ér-ziem maga'm.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I’m touched by what you said.",
+      "hungarian": "Megérintett, amit mondtál.",
+      "transliteration": "MegÉrintett, aMIT MONd-tál.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I’m overwhelmed, I need a break.",
+      "hungarian": "Túl sok lett, egy kis szünet kell.",
+      "transliteration": "TÚl sok LETT, egy kis SZÜnet kell.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I feel ashamed of that.",
+      "hungarian": "Szégyellem, ami történt.",
+      "transliteration": "SZÉgyelem, A-mi TÖR-tént.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I’m jealous, I’ll be honest.",
+      "hungarian": "Irigy vagyok, őszintén szólva.",
+      "transliteration": "I-RIGY va-gyok, O-szintén szól-va.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I’m hopeful about tomorrow.",
+      "hungarian": "Remélem, hogy holnap jobb lesz.",
+      "transliteration": "Ré-mélem, hogy HOLnap JOBb lesz.",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Hi, it's Anna, did I wake you?",
+      "hungarian": "Szia, Anna vagyok, felébresztettelek?",
+      "transliteration": "Szia, Anna vaGYOK, felEbresztettelek?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Can I call you after lunch?",
+      "hungarian": "Délután ebéd után tudlak hívni?",
+      "transliteration": "DélutÁN ebÉd UTÁN tudlak HÍVni?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I texted you, did you see it?",
+      "hungarian": "Írtam neked, láttad már?",
+      "transliteration": "ÍRtam neked, LÁttad mÁR?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Please leave a message if needed.",
+      "hungarian": "Kérlek, hagyj üzenetet, ha kell.",
+      "transliteration": "KÉRlek, hagyj ÜZenetet, ha KELL.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Could you confirm you got my call?",
+      "hungarian": "Meg tudod erősíteni, hogy megjött a hívásom?",
+      "transliteration": "Meg tudod eRŐsíteni, hogy megJÖTT a hÍVÁsom?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I’m driving, I can’t talk now.",
+      "hungarian": "Most vezetek, nem tudok beszélni.",
+      "transliteration": "Most VEZetek, nem tudok BESzélni.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Sorry, I’ll call you in an hour.",
+      "hungarian": "Bocs, egy óra múlva felhívlak.",
+      "transliteration": "BoCS, egy ÓRA múlva felhÍVlak.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I’m here to solve one thing.",
+      "hungarian": "Azért vagyok itt, hogy megoldjak egy dolgot.",
+      "transliteration": "azt-er vagyok itt, hogy MEGoldjak egy dolgot",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "My goal is simpler than you think.",
+      "hungarian": "A célom egyszerűbb, mint hinnéd.",
+      "transliteration": "a CÉlom egyszerubb, mint HI-néd",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I want results, not just effort.",
+      "hungarian": "Eredményt akarok, nem csak munkát.",
+      "transliteration": "EREDményt AKARok, nem csak MUNkát",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Let’s agree on the next step.",
+      "hungarian": "Egyezzünk meg a következő lépésben.",
+      "transliteration": "EGYEzzünk meg a KÖvetkező LÉpésben",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I’m aiming for clarity today.",
+      "hungarian": "Ma a tisztánlátás a célom.",
+      "transliteration": "MA a TISztaNÁ-tás a CÉlom",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "What do you want to achieve today?",
+      "hungarian": "Mit szeretnél elérni ma?",
+      "transliteration": "MIT SZERETnél ELérni MA",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I’m working toward a real change.",
+      "hungarian": "Valódi változást akarok elérni.",
+      "transliteration": "VA-lódi VÁLtozást AKARok elérni",
+      "category": "Purpose",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "My willpower shows in small choices",
+      "hungarian": "Az akaraterőm látszik a kis döntésekben.",
+      "transliteration": "A Z AK ARA T É RŐM LÁTSZIK A KIS DÖ N T É KEKBEN",
+      "category": "Strength",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I ask for help, and I grow stronger",
+      "hungarian": "Segítséget kérek, és erősebb leszek.",
+      "transliteration": "SEGÍTS É GET KÉREK, ÉS ÉRŐ SEBB LÉSZEK",
+      "category": "Strength",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I stand up for myself, calmly",
+      "hungarian": "Nyugodtan kiállok magamért.",
+      "transliteration": "NYUGODTAN KÍÁ LOK MA G Á ÉRT",
+      "category": "Strength",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Today I choose courage over fear",
+      "hungarian": "Ma bátorságot választok a félelem helyett.",
+      "transliteration": "MA BÁTOR SÁGOT VÁLASZ TOK Á FÉ LELEM HELYETT",
+      "category": "Strength",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I keep my focus, one step at a time",
+      "hungarian": "Megőrzöm a fókuszt, lépésről lépésre haladok.",
+      "transliteration": "MEGŐRZÖM Á FÓ KU SZT, LÉPÉS RŐL LÉPÉSRE HALÁ DOK",
+      "category": "Strength",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "I don’t quit when it gets messy",
+      "hungarian": "Nem adom fel, ha összekuszálódik minden.",
+      "transliteration": "NEM ÁDOM FEL, HA ÖSSZ E KUSZÚ Á LÓ DIK MINDEN",
+      "category": "Strength",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "My body remembers how to be strong",
+      "hungarian": "A testem emlékszik, hogyan legyek erős.",
+      "transliteration": "A TESTEM EM LÉK S ZIK, HO GYAN LE GYE K ERŐS",
+      "category": "Strength",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Choose clarity over clever excuses.",
+      "hungarian": "Válassz világosságot a ravasz kibúvók helyett.",
+      "transliteration": "VaLAssz vI LAGosságot a raVasz KI búvók helyett.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Apologize fast, then act better.",
+      "hungarian": "Gyorsan bocsánatot kérj, aztán cselekedj jobban.",
+      "transliteration": "GYorsan BOcsá na tot KÉRJ, aztán SElekedj JÓbban.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Guard your attention like a wallet.",
+      "hungarian": "Őrizd a figyelmedet, mint egy pénztárcát.",
+      "transliteration": "ŐRIZd a FIgyelmedet, mint egy PÉNZ tá rcát.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Let silence do its work.",
+      "hungarian": "Hagyd, hogy a csend elvégezze a dolgát.",
+      "transliteration": "HaGyd, hogy a CSEND elvéGEZze a dolgát.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Say what you mean, kindly.",
+      "hungarian": "Mondd azt, amit tényleg gondolsz, kedvesen.",
+      "transliteration": "MONdd azt, aMIT téNYLEg gonDolsz, KE de sen.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Small habits beat big intentions.",
+      "hungarian": "A kis szokások többet érnek, mint a nagy szándékok.",
+      "transliteration": "A KIS szokások TÖbbet ÉRnek, mint a NAGY szán dékok.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Forgive, and still choose safety.",
+      "hungarian": "Bocsáss meg, és közben válassz biztonságot is.",
+      "transliteration": "BOcsáss meg, és KÖZben váLASSZ biztonSÁGot is.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-21T16:34:41.775848"
     }
   ],
-  "last_updated": "2026-11-20T17:29:55.001709"
+  "last_updated": "2026-11-21T16:34:41.775848"
 }
