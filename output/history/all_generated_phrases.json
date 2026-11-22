@@ -12559,7 +12559,399 @@
       "transliteration": "BOcsáss meg, és KÖZben váLASSZ biztonSÁGot is.",
       "category": "Wisdom",
       "generated_at": "2026-11-21T16:34:41.775848"
+    },
+    {
+      "english": "Do you have a quiet room?",
+      "hungarian": "Van csendes szobájuk?",
+      "transliteration": "Van CSENDES szobájuk?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Can I see the room first?",
+      "hungarian": "Megnézhetem előbb a szobát?",
+      "transliteration": "MEGNÉZHETEM ELŐBB a szobát?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Is there an elevator in the hotel?",
+      "hungarian": "Van lift a szállodában?",
+      "transliteration": "Van LIFT a SZÁLLODÁBAN?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "What’s the room size and layout?",
+      "hungarian": "Mekkora a szoba, milyen a beosztása?",
+      "transliteration": "MEKKORA a SZOba, MILYEN a BEOSZTÁSA?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Do you offer luggage storage?",
+      "hungarian": "Tudnak csomagot megőrizni?",
+      "transliteration": "TUDNAK CSOMAGOT megŐRIZNI?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Is there a safe in the room?",
+      "hungarian": "Van széf a szobában?",
+      "transliteration": "Van SÉF a SZOBÁBAN?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "What’s included besides breakfast?",
+      "hungarian": "Mi van még benne a reggelin kívül?",
+      "transliteration": "MI van MÉG benne a REGGELIN KÍVÜL?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I agree with you, exactly.",
+      "hungarian": "Egyetértek veled, pont így.",
+      "transliteration": "Egyetértek VELED, pont ÍGY.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "That makes sense to me.",
+      "hungarian": "Ez nekem is teljesen logikus.",
+      "transliteration": "Ez NEKEM is TÖKÉLETESEN logikus.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "You’re right, but let’s tweak it.",
+      "hungarian": "Igazad van, de finomítsunk rajta.",
+      "transliteration": "IGAZAD van, de FINOMÍTSunk RAJTA.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I see it your way.",
+      "hungarian": "Látom, ahogy te gondolod.",
+      "transliteration": "LÁTOM, ahogy TE gondolod.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "So do I, honestly.",
+      "hungarian": "Én is így látom, őszintén.",
+      "transliteration": "ÉN is ÍGY látom, ŐSZINTÉN.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I’m not convinced by that.",
+      "hungarian": "Nem vagyok abban biztos.",
+      "transliteration": "Nem VAGYOK abban BIZTOS.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I disagree, and here’s why.",
+      "hungarian": "Nem értek egyet, és mindjárt megmutatom.",
+      "transliteration": "Nem ÉRTEK egyet, és MINDejárt MEGMUTATOM.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Could you print this for me?",
+      "hungarian": "Ki tudnád nyomtatni nekem ezt?",
+      "transliteration": "Ki TUdnád NYOMtatni NEkem ezt?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I think I'm locked out of my account.",
+      "hungarian": "Szerintem ki vagyok zárva a fiókomból.",
+      "transliteration": "SZERintem KI vagyok ZÁRva a FIÓkomból.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I'll be on the video call soon.",
+      "hungarian": "Mindjárt csatlakozom a videóhíváshoz.",
+      "transliteration": "MINdjárt CSAtlakozom a VIDEOhíváshoz.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Where is the meeting room key?",
+      "hungarian": "Hol van a tárgyaló kulcsa?",
+      "transliteration": "HOL van a TÁrgyaló KULcsa?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "My badge won't open the door.",
+      "hungarian": "A belépőkártyám nem nyitja ki az ajtót.",
+      "transliteration": "A BElépőkártyám nem NYITja ki az AJtót.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Can you help me set up my laptop?",
+      "hungarian": "Meg tudnál segíteni beállítani a laptopomat?",
+      "transliteration": "MEg tuDNÁl seGÍteni BEállítani a LAPtopomat?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I need a quiet desk today.",
+      "hungarian": "Ma egy csendesebb asztal kellene nekem.",
+      "transliteration": "MA egy CSENdesebb ASZtal KELLene NEkem.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I listen, and my heart softens.",
+      "hungarian": "Figyelek, és puhább lesz a szívem.",
+      "transliteration": "FIGyelek, és PUHÁBB lesz a SZÍVem.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "A good book makes time slow down.",
+      "hungarian": "Egy jó könyv lelassítja az időt.",
+      "transliteration": "EGY jó KÖNYV LElassítja az IDŐT.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I take a deep breath, then smile.",
+      "hungarian": "Egy nagyot lélegzek, aztán mosolygok.",
+      "transliteration": "EGY NAgyot LéLEgekEZ, AZtán MOsoLYGOK.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "My laundry is done, and I breathe.",
+      "hungarian": "Kész a mosás, és végre szabadabban lélegzem.",
+      "transliteration": "KÉsz a MOSÁS, és VÉgre SZAbaDABban LÉLEgezem.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Fresh fruit tastes like summer.",
+      "hungarian": "A friss gyümölcs olyan, mintha nyár lenne.",
+      "transliteration": "A FRISS gyümölcs OLYan, MINtha NÉár lenne.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I call my mom, and I glow.",
+      "hungarian": "Felhívom anyukámat, és ragyogok.",
+      "transliteration": "FelhÍVOM aNYUkáMat, és RAgyoGOK.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I dance alone, and it feels right.",
+      "hungarian": "Egymagam táncolok, és jólesik.",
+      "transliteration": "EgymaGAM TÁNCOlok, és JÓleSik.",
+      "category": "Happiness",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Let’s set milestones for the project.",
+      "hungarian": "Állapítsunk meg mérföldköveket a projekthez.",
+      "transliteration": "Allapitsunk meg MERfoldkoVeket a proJekthez.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I’ll outline the tasks we need.",
+      "hungarian": "Készítek egy vázlatot a szükséges feladatokról.",
+      "transliteration": "Keszi tek egy VA zlatot a szi kseges fe la datok rol.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Which day works best for you?",
+      "hungarian": "Melyik nap felel meg neked a legjobban?",
+      "transliteration": "Me lykik nap felel meg ne ked a LEGjobban?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Let’s choose priorities for today.",
+      "hungarian": "Válasszuk ki a mai prioritásokat.",
+      "transliteration": "Va lasszuk ki a MAi pri o rit asokat.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Can we review options quickly?",
+      "hungarian": "Meg tudjuk beszélni gyorsan a lehetőségeket?",
+      "transliteration": "Meg tu djuk be szelni GYO r san a le he to se geket?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I want a realistic timeline.",
+      "hungarian": "Reális ütemtervet szeretnék.",
+      "transliteration": "Rea lis UTem tervet sze retnek.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "We should confirm everything by email.",
+      "hungarian": "Mindent erősítsünk meg e-mailben.",
+      "transliteration": "Min dent E ro sitsunk meg E-ma ilben.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I’m clinging to a good outcome",
+      "hungarian": "A jó kimenetelhez kapaszkodom, most is.",
+      "transliteration": "A jó kimenetelhez KAPASZKODOM, most is.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Somewhere, hope is waiting for me",
+      "hungarian": "Valahol a remény rám vár.",
+      "transliteration": "VAhol a RÉMÉNY rám vár.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I can feel hope returning slowly",
+      "hungarian": "Érzem, hogy a remény lassan visszajön.",
+      "transliteration": "ÉRzem, hogy a RÉMÉNY lassan visszajön.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I’ll take the next small step",
+      "hungarian": "Megteszem a következő apró lépést, reménnyel.",
+      "transliteration": "MegTESZEM a köVETKEZŐ aPRO lépést, RÉMénnyel.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Hope helps me sleep tonight",
+      "hungarian": "A remény segít, hogy ma éjjel aludni tudjak.",
+      "transliteration": "A RÉMÉNY SEgít, hogy ma ÉJjel ALudni tudjak.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I keep imagining better days",
+      "hungarian": "Tovább képzelem a jobb napokat.",
+      "transliteration": "ToVÁbb KÉPzelem a jobb NApoKat.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Hope says, try again, gently",
+      "hungarian": "A remény azt súgja, próbáld újra, finoman.",
+      "transliteration": "A RÉMÉNY azt SÚGja, próBÁld Újra, FInoMAn.",
+      "category": "Hope",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Which bus goes downtown?",
+      "hungarian": "Melyik busz megy a belvárosba?",
+      "transliteration": "MELYIK busz megy a BELVÁROSba?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "How do I get to the airport?",
+      "hungarian": "Hogyan jutok el a repülőtérre?",
+      "transliteration": "HOGYAN jutok el a REPÜLŐTÉRRE?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Is tram number 2 still running?",
+      "hungarian": "A két as villamos még jár most?",
+      "transliteration": "A KÉT-es villamos MÉG jár most?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "When is the next tram?",
+      "hungarian": "Mikor jön a következő villamos?",
+      "transliteration": "MIKOR jön a KÖVETKEZŐ villamos?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Does this bus stop at the hospital?",
+      "hungarian": "Megáll itt a kórháznál?",
+      "transliteration": "Megáll ITT a KÓRHÁZnál?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I need a transfer, please.",
+      "hungarian": "Szeretnék átszállni, kérem.",
+      "transliteration": "SZERETNÉK ÁTSZÁLLNI, kérem.",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Is there a night bus here?",
+      "hungarian": "Van itt éjszakai busz?",
+      "transliteration": "VAN itt ÉJSZAKAI busz?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I can feel my breath slow down.",
+      "hungarian": "Érzem, ahogy a lélegzetem lelassul.",
+      "transliteration": "ÉRZEM, ahogy a LÉLEKZETEM leLASSUL.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "My jaw unclenches, and I relax.",
+      "hungarian": "Ellazul az állkapcsom, és nyugszom.",
+      "transliteration": "ELLAZUL az ÁLLKAPCSOM, és N Y U G S Z O M.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I notice thoughts, then let them pass.",
+      "hungarian": "Észreveszem a gondolatokat, és elengedem őket.",
+      "transliteration": "ÉSZREVESZEM a GONDOLATOKAT, és elENGEDEM ŐKET.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I stop fighting what is happening.",
+      "hungarian": "Abbahagyom a küzdelmet azzal, ami éppen van.",
+      "transliteration": "ABBAHAGYOM a KÜZDELmET azZA L, ami EGYÉN VAN.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I take one minute for myself.",
+      "hungarian": "Kiveszek egy percet magamnak.",
+      "transliteration": "KIveszek egy PERCET MAGAMNAK.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Nothing to prove right now.",
+      "hungarian": "Most nem kell bizonyítanom.",
+      "transliteration": "MOST nem kell BI ZONYÍTANOM.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "I soften my gaze and listen.",
+      "hungarian": "Lágyítom a tekintetemet, és meghallgatom.",
+      "transliteration": "LÁGYÍTOM a TEKINTETEMET, és MEGHA LLGATOM.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T16:52:08.262100"
     }
   ],
-  "last_updated": "2026-11-21T16:34:41.775848"
+  "last_updated": "2026-11-22T16:52:08.262100"
 }
