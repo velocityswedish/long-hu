@@ -12951,7 +12951,399 @@
       "transliteration": "LÁGYÍTOM a TEKINTETEMET, és MEGHA LLGATOM.",
       "category": "Inner Peace",
       "generated_at": "2026-11-22T16:52:08.262100"
+    },
+    {
+      "english": "Okay, that sounds kinda sus.",
+      "hungarian": "Oké, ez kicsit gyanús.",
+      "transliteration": "Oke, ez KICSIT gyanus.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Mind if I bounce for a bit?",
+      "hungarian": "Megengeditek, hogy egy kicsit elugorjak?",
+      "transliteration": "Megengeditek, hogy EGY kicsit elUGORJAK?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "No offense, but that’s wild.",
+      "hungarian": "Bocs, de ez elég durva.",
+      "transliteration": "Bocs, de ez ELEGG durva.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "You’re telling me, really?",
+      "hungarian": "Komolyan mondod, vagy mi van?",
+      "transliteration": "Komolyan MONDOD, vagy mi VAN?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Let’s not overthink it, please.",
+      "hungarian": "Ne rágódjunk ezen, jó?",
+      "transliteration": "Ne RAGYOGJUNK ezen, JO?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I’m kinda caught off guard.",
+      "hungarian": "Teljesen felkészületlenül ért.",
+      "transliteration": "TELJESEN felKESZULETLENUL erT.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "That’s a whole different story.",
+      "hungarian": "Ez már egy másik mese.",
+      "transliteration": "Ez MAR egy MASIK MESE.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Hi there, I m so glad we met.",
+      "hungarian": "Szia, annyira örülök, hogy találkoztunk.",
+      "transliteration": "Szia, ANNYIRA örülök, HOGY találkoztunk.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Good to see you again, really.",
+      "hungarian": "Jó újra látni téged, tényleg.",
+      "transliteration": "JÓ újra LÁTNI téged, TÉNYLEG.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Thanks for coming, how s it going?",
+      "hungarian": "Köszönöm, hogy eljöttél, hogy van minden?",
+      "transliteration": "KÖSZÖNÖM, hogy ELJÖTTÉL, hogy VAN minDEN?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I m here, ready to listen first.",
+      "hungarian": "Itt vagyok, először csak figyelek.",
+      "transliteration": "Itt VAGYOK, ELSŐSZÖR csak FIGYELEK.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "What a friendly vibe, thank you.",
+      "hungarian": "Milyen kedves a kisugárzásod, köszönöm.",
+      "transliteration": "MIVEL kedves a KISUGÁRZÁTod, KÖSZÖNÖM.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Can we talk a bit more, please?",
+      "hungarian": "Meg tudnánk beszélni még egy kicsit, kérlek?",
+      "transliteration": "Meg tudnánk BESZÉLNI még EGY kicsit, kérlek?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I appreciate how you welcomed me in.",
+      "hungarian": "Nagyon értékelem, ahogy befogadtál.",
+      "transliteration": "NAgyon ÉRtékelem, ahogy BEFOgadtál.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "What’s the wait time right now?",
+      "hungarian": "Mennyi a várakozási idő most?",
+      "transliteration": "MENnyi a VÁrakozási iDŐ MOST?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I’ll take the medium size, please.",
+      "hungarian": "Kérek egy közepes adagot, szépen.",
+      "transliteration": "KÉrek eGy KÖzePes AdoGAT, SZÉpen.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Could I get extra napkins?",
+      "hungarian": "Kaphatok még szalvétát?",
+      "transliteration": "KAPHATOK még SALvéTÁT?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Is there an option without onions?",
+      "hungarian": "Kérhető hagyma nélkül?",
+      "transliteration": "KÉrhető HAGyma nélkÜL?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Can I swap the side dish?",
+      "hungarian": "Lehet cserélni a köretet?",
+      "transliteration": "LeHet cSEréLni a KÖreTet?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "What’s the price for the combo?",
+      "hungarian": "Mennyibe kerül a menü?",
+      "transliteration": "MENyibe KÜlL a MENü?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Do you have any kid-friendly meals?",
+      "hungarian": "Van gyerekbarát étel?",
+      "transliteration": "Van GYErekBARÁT Étel?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Today, I practice one kind choice.",
+      "hungarian": "Ma egyetlen kedves választást gyakorlok.",
+      "transliteration": "Ma EGYetlen KEDves valasztast GYAKorlok.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I can start again, no guilt.",
+      "hungarian": "Újrakezdhetem, bűntudat nélkül.",
+      "transliteration": "UJRAkezdhetem, BUTudat NELkul.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I set boundaries to protect my energy.",
+      "hungarian": "Határokat húzok, hogy óvjam az energiámat.",
+      "transliteration": "HATárokat HUZok, hogy OVjam az ENERgiamat.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "One honest step beats ten perfect plans.",
+      "hungarian": "Egy őszinte lépés többet ér, mint tíz tökéletes terv.",
+      "transliteration": "Egy Oszinte LÉpes TÖbbet EEr, mint TIZ töKEletes terv.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I choose progress over being impressive.",
+      "hungarian": "A fejlődést választom, nem a lenyűgözést.",
+      "transliteration": "A FEjlodest VALasztom, nem a LENyugozest.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I move my body, even briefly.",
+      "hungarian": "Mozgatom a testem, akár csak röviden is.",
+      "transliteration": "MOZgatom a TESTem, AKAR csak ROViden IS.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I ask for help without shame.",
+      "hungarian": "Szégyen nélkül kérek segítséget.",
+      "transliteration": "SZÉgyen nelkül KÉrek segiTSEget.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Is this pastry still warm?",
+      "hungarian": "Még meleg ez a pékáru?",
+      "transliteration": "Meg MELEG ez a pekARU?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "What bread is baked today?",
+      "hungarian": "Milyen kenyeret sütötök ma?",
+      "transliteration": "MILYEN kenyeret SÜTÖTÖK ma?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Can I get oat milk, please?",
+      "hungarian": "Kérhetek zabtejet, kérem?",
+      "transliteration": "KERhetek ZABtejet, KÉREM?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Do you have cinnamon rolls?",
+      "hungarian": "Van fahéjas tekercsetek?",
+      "transliteration": "Van FAHÉjas TEKERCsetek?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I’ll take a small slice to go.",
+      "hungarian": "Kérek egy kisebb szeletet elvitelre.",
+      "transliteration": "KÉREK egy KIsebb szeletet elVITELre.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "How fresh is the cheesecake?",
+      "hungarian": "Mennyire friss a sajttorta?",
+      "transliteration": "Mennyire FRISS a SAJttorta?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "This espresso is just right for me.",
+      "hungarian": "Ez az eszpresszó pont jó nekem.",
+      "transliteration": "EZ az ESzpresszó PONT jó NEKEM.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I name it, then I breathe.",
+      "hungarian": "Megnevezem, aztán veszek egy levegőt.",
+      "transliteration": "Megnevezem, AZTÁN VEszek egy levegőt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "What do I feel right now, honestly?",
+      "hungarian": "Őszintén, mit érzek most?",
+      "transliteration": "Oszintén, MIT érzek most?",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I stop, check my shoulders, release.",
+      "hungarian": "Megállok, megnézem a vállam, elengedem.",
+      "transliteration": "MEgállok, MEgnézem a vállam, eLENGEdem.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I can watch the urge, not obey it.",
+      "hungarian": "Figyelem a késztetést, nem követem.",
+      "transliteration": "FiGyelem a KÉSztetést, nem köveTEM.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I return to the room, slowly.",
+      "hungarian": "Visszatérek a térbe, lassan.",
+      "transliteration": "VISSzatérek a TÉRbe, lassan.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "My breath is my anchor, today.",
+      "hungarian": "A légzésem a horgonyom ma.",
+      "transliteration": "A LÉGZésem a HORGONYom MA.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I notice sound, like it belongs here.",
+      "hungarian": "Észreveszem a hangokat, mintha ide tartoznának.",
+      "transliteration": "Észreveszem a HANGOkat, MINtha ide tarTOZNÁnak.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I love the first toast of the night.",
+      "hungarian": "Szeretem az első koccintást az estén.",
+      "transliteration": "Szeretem az ELso koccintast az eseten.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "What songs do you sing at festivals?",
+      "hungarian": "Milyen dalokat énekeltek fesztiválokon?",
+      "transliteration": "Milyen DALokat enekeltek FESztivalokon?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Tell me the meaning behind the symbols.",
+      "hungarian": "Mondd el, mit jelentenek a szimbólumok.",
+      "transliteration": "Mondd el, MIT jelentenek a SZIMbolumok.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I brought flowers for the host, if okay.",
+      "hungarian": "HoztaM virágot a házigazdának, ha megfelel.",
+      "transliteration": "HOZtam viragot a hazigazdanak, ha MEGfelel.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Do you have a blessing before dinner?",
+      "hungarian": "Van valamilyen áldás vacsora előtt?",
+      "transliteration": "Van vaLAMilyen aldas VACsora ELott?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I notice you keep old recipes in the family.",
+      "hungarian": "Látom, nálatok régi recepteket őriz a család.",
+      "transliteration": "LATom, nalatok REGI recepteket ORIZ a csalad.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Can I learn the local handshake?",
+      "hungarian": "Megtanulhatom a helyi kézfogást?",
+      "transliteration": "Megtanulhatom a HElyi kezfogast?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "How do interest rates work here?",
+      "hungarian": "Hogy működnek itt a kamatlábak?",
+      "transliteration": "Hogy MŰKÖdnek itt a KAMATLÁBAK?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Is there a cash withdrawal fee?",
+      "hungarian": "Van díja a készpénzfelvételnek?",
+      "transliteration": "VAN díja a KÉSZPÉNZfelvételnek?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Can I pay contactless?",
+      "hungarian": "Le tudom érintéssel fizetni?",
+      "transliteration": "Le TUdom ÉRINTÉSsel FIZETni?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Where can I check my IBAN?",
+      "hungarian": "Hol tudom megnézni az IBAN-omat?",
+      "transliteration": "Hol TUDom MEGnézni az IBAN-Omat?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "I want to open a new account.",
+      "hungarian": "Szeretnék nyitni egy új számlát.",
+      "transliteration": "SZERetnék NYITni egy ÚJ SZÁmlát.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "How long does a bank transfer take?",
+      "hungarian": "Mennyi idő egy átutalás?",
+      "transliteration": "MENnyi IDŐ egy ÁTUTalás?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T20:48:45.468230"
+    },
+    {
+      "english": "Can I set up standing orders?",
+      "hungarian": "Be lehet állítani csoportos átutalást rendszeresen?",
+      "transliteration": "BE leHET ÁLLítani CSOPortos ÁTUTalást RENDszeresen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T20:48:45.468230"
     }
   ],
-  "last_updated": "2026-11-22T16:52:08.262100"
+  "last_updated": "2026-11-23T20:48:45.468230"
 }
