@@ -527,7 +527,39 @@
     {
       "category": "Asking for Directions",
       "date": "2026-11-26"
+    },
+    {
+      "category": "Celebrations & Parties",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Purpose",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-27"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-27"
     }
   ],
-  "last_updated": "2026-11-26T18:47:35.771750"
+  "last_updated": "2026-11-27T18:39:35.046116"
 }
